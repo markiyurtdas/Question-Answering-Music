@@ -9,5 +9,6 @@
 [albüm] çıkış tarihi ?
 [albüm] toplam satış ?
 
-
+[şarkı] [şarkıcı ismi] mı ait ?
+[şarkıcı] [albüm ismi] şarkıları ?
 
