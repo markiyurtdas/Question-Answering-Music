@@ -1,0 +1,4 @@
+[şarkıcı ismi] + [şarkıcı soyismi] kim ?
+[şarkıcı ismi] kaç albüm ?
+[şarkı] kimin ?
+[şarkı] süresi ?
