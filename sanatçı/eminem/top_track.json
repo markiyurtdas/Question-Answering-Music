@@ -1,0 +1,804 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
+        },
+        "href": "https://api.spotify.com/v1/albums/3HNnxK7NgLXbDoxRZxNWiR",
+        "id": "3HNnxK7NgLXbDoxRZxNWiR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c932b53e6f13a45f32bc357303c56eb52ecc28fb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/706834f25e3b96ddc4643277e11333f0a8ca16c0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/417cdd139d97eb8af3afe3f66fa14af1da331eec",
+            "width": 64
+          }
+        ],
+        "name": "Kamikaze",
+        "release_date": "2018-08-31",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:3HNnxK7NgLXbDoxRZxNWiR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          },
+          "href": "https://api.spotify.com/v1/artists/6C1ohJrd5VydigQtaGy5Wa",
+          "id": "6C1ohJrd5VydigQtaGy5Wa",
+          "name": "Joyner Lucas",
+          "type": "artist",
+          "uri": "spotify:artist:6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 244679,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71813334"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/60SdxE8apGAxMiRrpbmLY0",
+      "id": "60SdxE8apGAxMiRrpbmLY0",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "popularity": 86,
+      "preview_url": "https://p.scdn.co/mp3-preview/beb2b8d3b305563a61c6475462885f211b708c1c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:60SdxE8apGAxMiRrpbmLY0"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        },
+        "href": "https://api.spotify.com/v1/albums/2cWBwpqMsDJC1ZUwz813lo",
+        "id": "2cWBwpqMsDJC1ZUwz813lo",
+        "images": [
+          {
+            "height": 634,
+            "url": "https://i.scdn.co/image/77eb7c17cafe550370eda35f1085fcf20592eec7",
+            "width": 640
+          },
+          {
+            "height": 297,
+            "url": "https://i.scdn.co/image/77eb7c17cafe55026b823b02df0c4513a863e106",
+            "width": 300
+          },
+          {
+            "height": 63,
+            "url": "https://i.scdn.co/image/77eb7c17cafe55019a15683f8d7f7d7d033317fc",
+            "width": 64
+          }
+        ],
+        "name": "The Eminem Show",
+        "release_date": "2002-05-26",
+        "release_date_precision": "day",
+        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          },
+          "href": "https://api.spotify.com/v1/artists/1Oa0bMld0A3u5OTYfMzp5h",
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist",
+          "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 297786,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR10211066"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4xkOaSrkexMciUUogZKVTS",
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "is_local": false,
+      "is_playable": true,
+      "name": "'Till I Collapse",
+      "popularity": 85,
+      "preview_url": "https://p.scdn.co/mp3-preview/e187a68b2932880bfe9586d4f4a809d7b50f38ea?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:4xkOaSrkexMciUUogZKVTS"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
+        },
+        "href": "https://api.spotify.com/v1/albums/0RejlT9bmqcXGrqMaJRos0",
+        "id": "0RejlT9bmqcXGrqMaJRos0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/b16cc7dec74c13fe70dd6bde75aca00572598fde",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/472a45210543a502405bf4f357005e7a182906d7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a6f2777525d331987f6d929e2a5ae8ee88407b91",
+            "width": 64
+          }
+        ],
+        "name": "Killshot",
+        "release_date": "2018-09-19",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0RejlT9bmqcXGrqMaJRos0"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253579,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71814876"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1jo3TwNGCXfNdB5uba3ZVv",
+      "id": "1jo3TwNGCXfNdB5uba3ZVv",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Killshot",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/5522afbe8a7c52b5f99e6eb6a47d7bdee3fb8b1d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1jo3TwNGCXfNdB5uba3ZVv"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
+        },
+        "href": "https://api.spotify.com/v1/albums/3HNnxK7NgLXbDoxRZxNWiR",
+        "id": "3HNnxK7NgLXbDoxRZxNWiR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c932b53e6f13a45f32bc357303c56eb52ecc28fb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/706834f25e3b96ddc4643277e11333f0a8ca16c0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/417cdd139d97eb8af3afe3f66fa14af1da331eec",
+            "width": 64
+          }
+        ],
+        "name": "Kamikaze",
+        "release_date": "2018-08-31",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:3HNnxK7NgLXbDoxRZxNWiR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 269554,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71813345"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2SL6oP2YAEQbqsrkOzRGO4",
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Venom - Music From The Motion Picture",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/9e5bbba94274961328c3e3901834bae23f714137?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2SL6oP2YAEQbqsrkOzRGO4"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
+        },
+        "href": "https://api.spotify.com/v1/albums/0U6ldwLBEMkwgfQRY4V6D2",
+        "id": "0U6ldwLBEMkwgfQRY4V6D2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/fcea66754c5ea32f09ef4d73db269d25e7622c2f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/5e75b4f19c3179f21ff087f567c366301b9648c3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/afb03a2dacfb1c31b795ae4ea9df1df780614455",
+            "width": 64
+          }
+        ],
+        "name": "Revival",
+        "release_date": "2017-12-15",
+        "release_date_precision": "day",
+        "total_tracks": 19,
+        "type": "album",
+        "uri": "spotify:album:0U6ldwLBEMkwgfQRY4V6D2"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          },
+          "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "type": "artist",
+          "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 221013,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71712944"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1cS0TgbR263ey9jn0MwD2s",
+      "id": "1cS0TgbR263ey9jn0MwD2s",
+      "is_local": false,
+      "is_playable": true,
+      "name": "River (feat. Ed Sheeran)",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/7f35be2ffeab34c76c1c4ca35e69ecf821988909?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:1cS0TgbR263ey9jn0MwD2s"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        },
+        "href": "https://api.spotify.com/v1/albums/2cWBwpqMsDJC1ZUwz813lo",
+        "id": "2cWBwpqMsDJC1ZUwz813lo",
+        "images": [
+          {
+            "height": 634,
+            "url": "https://i.scdn.co/image/77eb7c17cafe550370eda35f1085fcf20592eec7",
+            "width": 640
+          },
+          {
+            "height": 297,
+            "url": "https://i.scdn.co/image/77eb7c17cafe55026b823b02df0c4513a863e106",
+            "width": 300
+          },
+          {
+            "height": 63,
+            "url": "https://i.scdn.co/image/77eb7c17cafe55019a15683f8d7f7d7d033317fc",
+            "width": 64
+          }
+        ],
+        "name": "The Eminem Show",
+        "release_date": "2002-05-26",
+        "release_date_precision": "day",
+        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 290320,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR10211038"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lQ8MOhq6IN2w8EYcFNSUk",
+      "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Without Me",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/9aed324f09bb71798f1f094305d2adebcbcd91b8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+        },
+        "href": "https://api.spotify.com/v1/albums/47BiFcV59TQi2s9SkBo2pb",
+        "id": "47BiFcV59TQi2s9SkBo2pb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/e1e39d7fc409f95d2b3c04964875fb0d7f1fe8a0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/faea636991315df9f0d1034231b8cf0e76efb158",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/de807b157804ce534d7a671eba9daed88b60dae0",
+            "width": 64
+          }
+        ],
+        "name": "Recovery",
+        "release_date": "2010-06-18",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          },
+          "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "type": "artist",
+          "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 263373,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71015397"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+      },
+      "href": "https://api.spotify.com/v1/tracks/15JINEqzVMv3SvJTAXAKED",
+      "id": "15JINEqzVMv3SvJTAXAKED",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Love The Way You Lie",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/517a9284582e0a94774d5f08435e0207d27c22f0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4"
+        },
+        "href": "https://api.spotify.com/v1/albums/1rfORa9iYmocEsnnZGMVC4",
+        "id": "1rfORa9iYmocEsnnZGMVC4",
+        "images": [
+          {
+            "height": 638,
+            "url": "https://i.scdn.co/image/05d67c2e30f5111a88cd29380eeb6a3bae442f33",
+            "width": 640
+          },
+          {
+            "height": 299,
+            "url": "https://i.scdn.co/image/b1bcb1cd8e0af5fcdbbbba8706475c8c6d90c9f0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ff18e5ba5740825ecbe55e1a833dfbd1b21f7a23",
+            "width": 64
+          }
+        ],
+        "name": "Just Lose It",
+        "release_date": "2004-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:1rfORa9iYmocEsnnZGMVC4"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 322226,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR10211559"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1v7L65Lzy0j0vdpRjJewt1",
+      "id": "1v7L65Lzy0j0vdpRjJewt1",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "popularity": 77,
+      "preview_url": "https://p.scdn.co/mp3-preview/4ce6cda855d5175fcac7a1c84c8dd378fa10f6ec?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1v7L65Lzy0j0vdpRjJewt1"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
+        },
+        "href": "https://api.spotify.com/v1/albums/3HNnxK7NgLXbDoxRZxNWiR",
+        "id": "3HNnxK7NgLXbDoxRZxNWiR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c932b53e6f13a45f32bc357303c56eb52ecc28fb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/706834f25e3b96ddc4643277e11333f0a8ca16c0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/417cdd139d97eb8af3afe3f66fa14af1da331eec",
+            "width": 64
+          }
+        ],
+        "name": "Kamikaze",
+        "release_date": "2018-08-31",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:3HNnxK7NgLXbDoxRZxNWiR"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 337941,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM71813329"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jt2WxXMCD4zjACthkJQVE"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2jt2WxXMCD4zjACthkJQVE",
+      "id": "2jt2WxXMCD4zjACthkJQVE",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The Ringer",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/2ddba43917fe8892fe9cecd237b6f8b55a174186?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2jt2WxXMCD4zjACthkJQVE"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+        },
+        "href": "https://api.spotify.com/v1/albums/6t7956yu5zYf5A829XRiHC",
+        "id": "6t7956yu5zYf5A829XRiHC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/135ffbfeb47d564df36fdb4756c070b3ac32cd3b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/c18ba0ee65b2f13374485433698129bc11866a41",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/e50b2ed6844f3b5e8736c22ad8b55acc80b997e3",
+            "width": 64
+          }
+        ],
+        "name": "The Marshall Mathers LP",
+        "release_date": "2000-05-23",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist",
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284200,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USIR10000448"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3yfqSUWxFvZELEM4PmlwIR",
+      "id": "3yfqSUWxFvZELEM4PmlwIR",
+      "is_local": false,
+      "is_playable": true,
+      "name": "The Real Slim Shady",
+      "popularity": 80,
+      "preview_url": "https://p.scdn.co/mp3-preview/ad1a8e7b3dce14eb696b138872ddeee9ba7f493b?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR"
+    }
+  ]
+}

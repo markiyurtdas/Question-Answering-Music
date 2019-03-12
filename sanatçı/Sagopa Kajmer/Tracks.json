@@ -1,0 +1,764 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3u2FaquJ6j3qbKUoGH8A4G"
+        },
+        "href": "https://api.spotify.com/v1/albums/3u2FaquJ6j3qbKUoGH8A4G",
+        "id": "3u2FaquJ6j3qbKUoGH8A4G",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/00faaa9c35564fc461d15c21e1106f5d890fb9a4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/5124cf1b81e4bdc368304498db247d0fbe7fca1d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/bd286d29cb1e1ce7a5cab938db14de0e50ef1ff6",
+            "width": 64
+          }
+        ],
+        "name": "366.Gün",
+        "release_date": "2017-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3u2FaquJ6j3qbKUoGH8A4G"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 235078,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0681700362"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1EuFr1JA70TaEzlaSM4ulc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1EuFr1JA70TaEzlaSM4ulc",
+      "id": "1EuFr1JA70TaEzlaSM4ulc",
+      "is_local": false,
+      "is_playable": true,
+      "name": "366.Gün",
+      "popularity": 60,
+      "preview_url": "https://p.scdn.co/mp3-preview/c4402d558533e93daf4a939ac4d4d0ae97a6bc78?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1EuFr1JA70TaEzlaSM4ulc"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6J1hCyKQec7sQ1yNCp38it"
+        },
+        "href": "https://api.spotify.com/v1/albums/6J1hCyKQec7sQ1yNCp38it",
+        "id": "6J1hCyKQec7sQ1yNCp38it",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a770b26d654b9d888e70241dfc73c672bb1fcf3b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/cbf36ba7bdbdc222fc2898ae9214d4a2e3a5d694",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/e0320f42a3cf9d0de2c5dc78d7a8e984ee0e2923",
+            "width": 64
+          }
+        ],
+        "name": "Sessiz Ve Yalnız",
+        "release_date": "2018-05-19",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6J1hCyKQec7sQ1yNCp38it"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 226206,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0681800380"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7C2hzJlXqqlWDhEGBp7kJQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7C2hzJlXqqlWDhEGBp7kJQ",
+      "id": "7C2hzJlXqqlWDhEGBp7kJQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sessiz Ve Yalnız",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/5fd84d6d3eddea37378197b133d7a8abd2c73b88?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7C2hzJlXqqlWDhEGBp7kJQ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6yKCMFBEwit95zohTKDZGo"
+        },
+        "href": "https://api.spotify.com/v1/albums/6yKCMFBEwit95zohTKDZGo",
+        "id": "6yKCMFBEwit95zohTKDZGo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/bb2d8b31fb51637ce6790497747a806efbafcdf1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/a1b00ac2c1c2bfe884f032e5a812db70b6cca4f2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1f8e4307579bcf0d616e480973473f5ffad4fceb",
+            "width": 64
+          }
+        ],
+        "name": "Saydam Odalar",
+        "release_date": "2011",
+        "release_date_precision": "year",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6yKCMFBEwit95zohTKDZGo"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 300506,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0681100182"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6uuQZFYzeUf1NR5tucdjj5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6uuQZFYzeUf1NR5tucdjj5",
+      "id": "6uuQZFYzeUf1NR5tucdjj5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Galiba - Orijinal Rap Versiyon",
+      "popularity": 59,
+      "preview_url": "https://p.scdn.co/mp3-preview/b69fa5ce23a0780f58ba92bff78ea2ca420cf877?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6uuQZFYzeUf1NR5tucdjj5"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0uO7Yadv4nxdqtlyEESq4D"
+        },
+        "href": "https://api.spotify.com/v1/albums/0uO7Yadv4nxdqtlyEESq4D",
+        "id": "0uO7Yadv4nxdqtlyEESq4D",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/af0cdb80a014735357f02c1021e50e57677866bc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/64c32f392f1b4a004199d58e22a28faaf9d264f5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1f57f950e1a0f22dfe76cec2644056804592a6a2",
+            "width": 64
+          }
+        ],
+        "name": "Kalp Hastası",
+        "release_date": "2013-08-07",
+        "release_date_precision": "day",
+        "total_tracks": 19,
+        "type": "album",
+        "uri": "spotify:album:0uO7Yadv4nxdqtlyEESq4D"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 374960,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0681300219"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6iWvJmp3gA8DxTuN4BSECB"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6iWvJmp3gA8DxTuN4BSECB",
+      "id": "6iWvJmp3gA8DxTuN4BSECB",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Baytar",
+      "popularity": 58,
+      "preview_url": "https://p.scdn.co/mp3-preview/8c2628486b8bef6121308d4964848953bb0806a5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6iWvJmp3gA8DxTuN4BSECB"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1JlmM2ykTBMa1j5u1fjBwf"
+        },
+        "href": "https://api.spotify.com/v1/albums/1JlmM2ykTBMa1j5u1fjBwf",
+        "id": "1JlmM2ykTBMa1j5u1fjBwf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/27fde0bc27b2a246aec7f176a17032a2932fb6e7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/6e8c4dbabf205460ecb8bc2723af21eb33596cf4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/fdf13f650d4629cb19ba2c1aa309aa4003b39edb",
+            "width": 64
+          }
+        ],
+        "name": "Sertlik Kanında Var Hayatın",
+        "release_date": "2017-04-29",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1JlmM2ykTBMa1j5u1fjBwf"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 272790,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0681700364"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7D9KBLwwotrSWrseRekDxn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7D9KBLwwotrSWrseRekDxn",
+      "id": "7D9KBLwwotrSWrseRekDxn",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sertlik Kanında Var Hayatın",
+      "popularity": 58,
+      "preview_url": "https://p.scdn.co/mp3-preview/2e552a0f7957d2653391feed81ef18327c08c8f9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7D9KBLwwotrSWrseRekDxn"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/79umtCShaD1NW6DNZV26Ic"
+        },
+        "href": "https://api.spotify.com/v1/albums/79umtCShaD1NW6DNZV26Ic",
+        "id": "79umtCShaD1NW6DNZV26Ic",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/d32fcf737aa8b6e912e8083f9e581d5a462e892c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/e8d8730bf2ade23a25d5e6bf8dbad0969d017880",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/58bb51f3d337d61a4b71a9da08a9df2eaed79e15",
+            "width": 64
+          }
+        ],
+        "name": "Şarkı Koleksiyoncusu",
+        "release_date": "2009-02-19",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:79umtCShaD1NW6DNZV26Ic"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 286000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0680900105"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6gAVXYsjYe9ZuAfLwMBZEv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6gAVXYsjYe9ZuAfLwMBZEv",
+      "id": "6gAVXYsjYe9ZuAfLwMBZEv",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ateşten Gömlek",
+      "popularity": 56,
+      "preview_url": "https://p.scdn.co/mp3-preview/f83fbb80186b4853db9d07fe27c8fbb93bb7ca4e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6gAVXYsjYe9ZuAfLwMBZEv"
+    },
+    {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4gcJBoFpYirWxOVOZhBLjA"
+        },
+        "href": "https://api.spotify.com/v1/albums/4gcJBoFpYirWxOVOZhBLjA",
+        "id": "4gcJBoFpYirWxOVOZhBLjA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/9a9929382810c47f3f3cf9d05f46e2bed48832b7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/81b14bcbdb731324ada46235cdee6848acc007f0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/13933736ec81ac18d21535ea757df0ad4e976a7a",
+            "width": 64
+          }
+        ],
+        "name": "G.O.R.A. (Orijinal Film Müzikleri)",
+        "release_date": "2004-11-08",
+        "release_date_precision": "day",
+        "total_tracks": 33,
+        "type": "album",
+        "uri": "spotify:album:4gcJBoFpYirWxOVOZhBLjA"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 216120,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR3921600138"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5PnJYypzKw7nNN1QBPSEnR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5PnJYypzKw7nNN1QBPSEnR",
+      "id": "5PnJYypzKw7nNN1QBPSEnR",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Al 1'de Burdan Yak",
+      "popularity": 54,
+      "preview_url": "https://p.scdn.co/mp3-preview/419f6b2c1f349624299abd6fdf03f8502e70c1f2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5PnJYypzKw7nNN1QBPSEnR"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3TrjczB0G1yDQoMGLVFt6R"
+        },
+        "href": "https://api.spotify.com/v1/albums/3TrjczB0G1yDQoMGLVFt6R",
+        "id": "3TrjczB0G1yDQoMGLVFt6R",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/462051fce8db9162f6add352a19d18b61342973c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/59accd57fd9d78075a365ea4f1bc487ecefdc762",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6359a599366f93f3d8fce2144d1fa03b6e23befe",
+            "width": 64
+          }
+        ],
+        "name": "Romantizma 2015 (Remastered)",
+        "release_date": "2005-02-02",
+        "release_date_precision": "day",
+        "total_tracks": 23,
+        "type": "album",
+        "uri": "spotify:album:3TrjczB0G1yDQoMGLVFt6R"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 204226,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0131400118"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lgCStQgORdOUUKZOgasFg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lgCStQgORdOUUKZOgasFg",
+      "id": "7lgCStQgORdOUUKZOgasFg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Vasiyet",
+      "popularity": 54,
+      "preview_url": "https://p.scdn.co/mp3-preview/56491f5ad486a25d32a490dee379f399949d9f5d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7lgCStQgORdOUUKZOgasFg"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0uO7Yadv4nxdqtlyEESq4D"
+        },
+        "href": "https://api.spotify.com/v1/albums/0uO7Yadv4nxdqtlyEESq4D",
+        "id": "0uO7Yadv4nxdqtlyEESq4D",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/af0cdb80a014735357f02c1021e50e57677866bc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/64c32f392f1b4a004199d58e22a28faaf9d264f5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1f57f950e1a0f22dfe76cec2644056804592a6a2",
+            "width": 64
+          }
+        ],
+        "name": "Kalp Hastası",
+        "release_date": "2013-08-07",
+        "release_date_precision": "day",
+        "total_tracks": 19,
+        "type": "album",
+        "uri": "spotify:album:0uO7Yadv4nxdqtlyEESq4D"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 273906,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "TR0681300221"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CvtJZxjjBWCm1OTGbHIQH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CvtJZxjjBWCm1OTGbHIQH",
+      "id": "3CvtJZxjjBWCm1OTGbHIQH",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Meftun",
+      "popularity": 53,
+      "preview_url": "https://p.scdn.co/mp3-preview/ba8a7f75b859d5425b015a6f14b988f8a9da3756?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3CvtJZxjjBWCm1OTGbHIQH"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+            "id": "1KXTegXtnCPKXjRaX1llcD",
+            "name": "Sagopa Kajmer",
+            "type": "artist",
+            "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/61DW1ZHu6DmX1EAh7dLid8"
+        },
+        "href": "https://api.spotify.com/v1/albums/61DW1ZHu6DmX1EAh7dLid8",
+        "id": "61DW1ZHu6DmX1EAh7dLid8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a6674719eeb833c1630827ec3a3650774ab0907d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/cbdf037bcdfb9352124726c085494cdd4dc93fb7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/be758bd5f7e3a734aabae93b277394ca7d1a9f98",
+            "width": 64
+          }
+        ],
+        "name": "Sorun Var",
+        "release_date": "2018-01-02",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:61DW1ZHu6DmX1EAh7dLid8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237937,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QMBZ91769823"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4fmTX9tThkofZsmsVniC2P"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4fmTX9tThkofZsmsVniC2P",
+      "id": "4fmTX9tThkofZsmsVniC2P",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Sorun Var",
+      "popularity": 52,
+      "preview_url": "https://p.scdn.co/mp3-preview/c076467455140864ed995dd5acd89b5ba140096a?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4fmTX9tThkofZsmsVniC2P"
+    }
+  ]
+}

@@ -1,0 +1,1814 @@
+{
+  "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2OmsZtRMCWwyooGTRp8unQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/2OmsZtRMCWwyooGTRp8unQ",
+      "id": "2OmsZtRMCWwyooGTRp8unQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/47d4414d8631a1cbe7c20b3f50881b0de2836097",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/fa52d44fdc41fa32b0b6c102a1d697a15e757fee",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/eeded897757b85c570014d1bb0f12b6fb3649b92",
+          "width": 64
+        }
+      ],
+      "name": "Ahmak Islatan",
+      "release_date": "2017-09-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2OmsZtRMCWwyooGTRp8unQ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/21JXZcGD2oEHQl7XtCkdK9"
+      },
+      "href": "https://api.spotify.com/v1/albums/21JXZcGD2oEHQl7XtCkdK9",
+      "id": "21JXZcGD2oEHQl7XtCkdK9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/62d1858d4c571cce23feff6f6363d4c419ea3eb4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/63242f69d8204a94afef9c14324cbcace299bd75",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9f32561e4241567c2eeaab624ee89ab98455ce2e",
+          "width": 64
+        }
+      ],
+      "name": "Underground Years Vol.2 (1998-2001 Beat Album)",
+      "release_date": "2015-03-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:21JXZcGD2oEHQl7XtCkdK9"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1MVcDp7MwkqfEnmoLuvRWm"
+      },
+      "href": "https://api.spotify.com/v1/albums/1MVcDp7MwkqfEnmoLuvRWm",
+      "id": "1MVcDp7MwkqfEnmoLuvRWm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aed135dbae34b339edff228a56dbee689ed6a4e9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/70b6b0f6350b3f64948ed75d5e1159f4c148be2f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/193cc2681e0c475dc052e354ddc7c1a066874e7c",
+          "width": 64
+        }
+      ],
+      "name": "Underground Years Vol.1 (1998-2001 Beat Album)",
+      "release_date": "2015-02-23",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:1MVcDp7MwkqfEnmoLuvRWm"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Ql04sbIg4mUcI2YcZeGCd"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Ql04sbIg4mUcI2YcZeGCd",
+      "id": "2Ql04sbIg4mUcI2YcZeGCd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/befdaf77fde2fe76aab663f9afdf4ed7c9eb1979",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2c00cfb7010d0abe7323577534cc4bae7887e044",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cd7330011d748349398e701d24086d3c8891cefa",
+          "width": 64
+        }
+      ],
+      "name": "Ahmak Islatan",
+      "release_date": "2014-03-20",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2Ql04sbIg4mUcI2YcZeGCd"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1pwgYwgluqbk6tehGm8ow7"
+      },
+      "href": "https://api.spotify.com/v1/albums/1pwgYwgluqbk6tehGm8ow7",
+      "id": "1pwgYwgluqbk6tehGm8ow7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5bfe64cd1b032612adad78dadf96ed060a9c76dd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ddcc43ec0a2a09308932b223b875bd8c2d233434",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b9b17a6b927b9626c1dfc3aa38ad22b537d0080f",
+          "width": 64
+        }
+      ],
+      "name": "Ahmak Islatan (Enstrumantal)",
+      "release_date": "2014-03-20",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:1pwgYwgluqbk6tehGm8ow7"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1qYMR6cuhZB8INXgdq6XWX"
+      },
+      "href": "https://api.spotify.com/v1/albums/1qYMR6cuhZB8INXgdq6XWX",
+      "id": "1qYMR6cuhZB8INXgdq6XWX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d68898135c5f46d245f002bb9ce44219961d7812",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/18daed5c0c8dda028459b63625a6fe980f007ce5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bf649df00a06916cdf6b008dedf7ea15eb345839",
+          "width": 64
+        }
+      ],
+      "name": "Kalp Hastası (Enstrumantal)",
+      "release_date": "2013-08-07",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:1qYMR6cuhZB8INXgdq6XWX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0uO7Yadv4nxdqtlyEESq4D"
+      },
+      "href": "https://api.spotify.com/v1/albums/0uO7Yadv4nxdqtlyEESq4D",
+      "id": "0uO7Yadv4nxdqtlyEESq4D",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/af0cdb80a014735357f02c1021e50e57677866bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/64c32f392f1b4a004199d58e22a28faaf9d264f5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1f57f950e1a0f22dfe76cec2644056804592a6a2",
+          "width": 64
+        }
+      ],
+      "name": "Kalp Hastası",
+      "release_date": "2013-08-07",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:0uO7Yadv4nxdqtlyEESq4D"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6yKCMFBEwit95zohTKDZGo"
+      },
+      "href": "https://api.spotify.com/v1/albums/6yKCMFBEwit95zohTKDZGo",
+      "id": "6yKCMFBEwit95zohTKDZGo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bb2d8b31fb51637ce6790497747a806efbafcdf1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a1b00ac2c1c2bfe884f032e5a812db70b6cca4f2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1f8e4307579bcf0d616e480973473f5ffad4fceb",
+          "width": 64
+        }
+      ],
+      "name": "Saydam Odalar",
+      "release_date": "2011",
+      "release_date_precision": "year",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:6yKCMFBEwit95zohTKDZGo"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/79umtCShaD1NW6DNZV26Ic"
+      },
+      "href": "https://api.spotify.com/v1/albums/79umtCShaD1NW6DNZV26Ic",
+      "id": "79umtCShaD1NW6DNZV26Ic",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d32fcf737aa8b6e912e8083f9e581d5a462e892c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e8d8730bf2ade23a25d5e6bf8dbad0969d017880",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/58bb51f3d337d61a4b71a9da08a9df2eaed79e15",
+          "width": 64
+        }
+      ],
+      "name": "Şarkı Koleksiyoncusu",
+      "release_date": "2009-02-19",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:79umtCShaD1NW6DNZV26Ic"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7nppnOrLDR5eOBq7orJr94"
+      },
+      "href": "https://api.spotify.com/v1/albums/7nppnOrLDR5eOBq7orJr94",
+      "id": "7nppnOrLDR5eOBq7orJr94",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3490c82c6e199a33c18d8bcf03434f5863d6b6d9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ae70639416d262fa521c11857a73ab4880df3872",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7e436a0115d8221ae650f7057fd86bf28c7f7ecd",
+          "width": 64
+        }
+      ],
+      "name": "Kötü İnsanları Tanıma Senesi",
+      "release_date": "2008-03-14",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:7nppnOrLDR5eOBq7orJr94"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6wSuTJukoVItASjD1Z7gGX"
+      },
+      "href": "https://api.spotify.com/v1/albums/6wSuTJukoVItASjD1Z7gGX",
+      "id": "6wSuTJukoVItASjD1Z7gGX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8147386ea48e7a21cd118299a978b5a92c2fb292",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2c6ac5d4de3cb7dde5391986714b2b9d7d1a1d33",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e6078960f1e807560cb7c26971a8681bca695500",
+          "width": 64
+        }
+      ],
+      "name": "Kötü İnsanları Tanıma Senesi (Enstrumantal)",
+      "release_date": "2008-03-14",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6wSuTJukoVItASjD1Z7gGX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2w0dflUzW5QfgeaQCeUHde"
+      },
+      "href": "https://api.spotify.com/v1/albums/2w0dflUzW5QfgeaQCeUHde",
+      "id": "2w0dflUzW5QfgeaQCeUHde",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aa5a734ebb74d1603409c4fe471e4b002f1c5452",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/056a94766a77d73d596e76e4243bc182bee2735a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b8c7fd2d4d5005c687322b213ee38b7e1d564087",
+          "width": 64
+        }
+      ],
+      "name": "İkimizi Anlatan Bir Şey (Enstrumantal)",
+      "release_date": "2007-04-26",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:2w0dflUzW5QfgeaQCeUHde"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7uBxO2eBjRmdOX3sefYBHX"
+      },
+      "href": "https://api.spotify.com/v1/albums/7uBxO2eBjRmdOX3sefYBHX",
+      "id": "7uBxO2eBjRmdOX3sefYBHX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9617241a05a896219ae4673416e02d94361e29f7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b23ea8d4888ad0fe1c9d4baea7b646f147df8978",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cdeb45c1f10ffb79d0d58e92a4b2cab2683919e4",
+          "width": 64
+        }
+      ],
+      "name": "Romantizma",
+      "release_date": "2005-08-19",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:7uBxO2eBjRmdOX3sefYBHX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3TrjczB0G1yDQoMGLVFt6R"
+      },
+      "href": "https://api.spotify.com/v1/albums/3TrjczB0G1yDQoMGLVFt6R",
+      "id": "3TrjczB0G1yDQoMGLVFt6R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/462051fce8db9162f6add352a19d18b61342973c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/59accd57fd9d78075a365ea4f1bc487ecefdc762",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6359a599366f93f3d8fce2144d1fa03b6e23befe",
+          "width": 64
+        }
+      ],
+      "name": "Romantizma 2015 (Remastered)",
+      "release_date": "2005-02-02",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:3TrjczB0G1yDQoMGLVFt6R"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pTcS1HbU01CSjEkjzCMeS"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pTcS1HbU01CSjEkjzCMeS",
+      "id": "0pTcS1HbU01CSjEkjzCMeS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0206a1269c1f3caf5c8612b0fece917be2862769",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/fd583b75c2d18ea77d7ad5a45a7862b3d97de05c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/82effc19ae7ce8c64302332c85b2d05604571cfe",
+          "width": 64
+        }
+      ],
+      "name": "Bir Pesimistin Gözyaşları",
+      "release_date": "2003-06-06",
+      "release_date_precision": "day",
+      "total_tracks": 39,
+      "type": "album",
+      "uri": "spotify:album:0pTcS1HbU01CSjEkjzCMeS"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4fPfDHIQGWPfxj5BSyrjqS"
+      },
+      "href": "https://api.spotify.com/v1/albums/4fPfDHIQGWPfxj5BSyrjqS",
+      "id": "4fPfDHIQGWPfxj5BSyrjqS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cf3ae97de8de17313f36331a40f11a6acda566de",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5e64093f20dfed2dd1564956ae40ccdd695a18b9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b6d4186544bac1021a31b559178bef640f3a1c30",
+          "width": 64
+        }
+      ],
+      "name": "Yirmi Dört (Re-Vocal Version)",
+      "release_date": "2019-02-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4fPfDHIQGWPfxj5BSyrjqS"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Ka0DJNXh6FuyjAbd3FqUk"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Ka0DJNXh6FuyjAbd3FqUk",
+      "id": "5Ka0DJNXh6FuyjAbd3FqUk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7c6d38582c45a612df51fc0397a3b55723141a23",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/559171d2a9dd92b4452cca35ac31d5b28f1044cb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ad01ef9b6e66693fff39e8f17e5c4c109411a577",
+          "width": 64
+        }
+      ],
+      "name": "Serbest",
+      "release_date": "2018-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5Ka0DJNXh6FuyjAbd3FqUk"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1w1kVhv7uGjc0KXgpwW6dV"
+      },
+      "href": "https://api.spotify.com/v1/albums/1w1kVhv7uGjc0KXgpwW6dV",
+      "id": "1w1kVhv7uGjc0KXgpwW6dV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a9ae58b46ae92dcc5db6f56410b3d3ce0bdee569",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/115d1d4fe4ada61412e4c87388100ba06456acb3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/eed205e2732f0634bc51d2cd9679b4638cfbb4a4",
+          "width": 64
+        }
+      ],
+      "name": "Sorun Var (No Joke Melankolik Mix)",
+      "release_date": "2018-05-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1w1kVhv7uGjc0KXgpwW6dV"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6J1hCyKQec7sQ1yNCp38it"
+      },
+      "href": "https://api.spotify.com/v1/albums/6J1hCyKQec7sQ1yNCp38it",
+      "id": "6J1hCyKQec7sQ1yNCp38it",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a770b26d654b9d888e70241dfc73c672bb1fcf3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cbf36ba7bdbdc222fc2898ae9214d4a2e3a5d694",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e0320f42a3cf9d0de2c5dc78d7a8e984ee0e2923",
+          "width": 64
+        }
+      ],
+      "name": "Sessiz Ve Yalnız",
+      "release_date": "2018-05-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6J1hCyKQec7sQ1yNCp38it"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/61DW1ZHu6DmX1EAh7dLid8"
+      },
+      "href": "https://api.spotify.com/v1/albums/61DW1ZHu6DmX1EAh7dLid8",
+      "id": "61DW1ZHu6DmX1EAh7dLid8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a6674719eeb833c1630827ec3a3650774ab0907d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cbdf037bcdfb9352124726c085494cdd4dc93fb7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/be758bd5f7e3a734aabae93b277394ca7d1a9f98",
+          "width": 64
+        }
+      ],
+      "name": "Sorun Var",
+      "release_date": "2018-01-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:61DW1ZHu6DmX1EAh7dLid8"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1JlmM2ykTBMa1j5u1fjBwf"
+      },
+      "href": "https://api.spotify.com/v1/albums/1JlmM2ykTBMa1j5u1fjBwf",
+      "id": "1JlmM2ykTBMa1j5u1fjBwf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/27fde0bc27b2a246aec7f176a17032a2932fb6e7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6e8c4dbabf205460ecb8bc2723af21eb33596cf4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fdf13f650d4629cb19ba2c1aa309aa4003b39edb",
+          "width": 64
+        }
+      ],
+      "name": "Sertlik Kanında Var Hayatın",
+      "release_date": "2017-04-29",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1JlmM2ykTBMa1j5u1fjBwf"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7iUUDACmgVYi1kS4xSPI6S"
+      },
+      "href": "https://api.spotify.com/v1/albums/7iUUDACmgVYi1kS4xSPI6S",
+      "id": "7iUUDACmgVYi1kS4xSPI6S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/29b8d629b6c94c41cacf84889a43ecb05302d5df",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1e6422378a7dd7a02e824f6ba6fa6d689d802568",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bdb6ef76e06efe3113e42d04654c8a45946eb994",
+          "width": 64
+        }
+      ],
+      "name": "Ne Kaybederdin",
+      "release_date": "2017-01-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7iUUDACmgVYi1kS4xSPI6S"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3u2FaquJ6j3qbKUoGH8A4G"
+      },
+      "href": "https://api.spotify.com/v1/albums/3u2FaquJ6j3qbKUoGH8A4G",
+      "id": "3u2FaquJ6j3qbKUoGH8A4G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/00faaa9c35564fc461d15c21e1106f5d890fb9a4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5124cf1b81e4bdc368304498db247d0fbe7fca1d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bd286d29cb1e1ce7a5cab938db14de0e50ef1ff6",
+          "width": 64
+        }
+      ],
+      "name": "366.Gün",
+      "release_date": "2017-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3u2FaquJ6j3qbKUoGH8A4G"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/55vTkTRtk9K4BBkrSHYleC"
+      },
+      "href": "https://api.spotify.com/v1/albums/55vTkTRtk9K4BBkrSHYleC",
+      "id": "55vTkTRtk9K4BBkrSHYleC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c9a60c30e7e1aacdf9de5a55c0781ed3737f7c9f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0ec52866ae339c14bc572486bc7924d3c339684b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/260179809a4d382743e46d970c04d34d1ab37bc5",
+          "width": 64
+        }
+      ],
+      "name": "Bilmiyorum",
+      "release_date": "2015-06-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:55vTkTRtk9K4BBkrSHYleC"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+          },
+          "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+          "id": "1KXTegXtnCPKXjRaX1llcD",
+          "name": "Sagopa Kajmer",
+          "type": "artist",
+          "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0RGLRTlIyZUHrh9fGzEYgn"
+      },
+      "href": "https://api.spotify.com/v1/albums/0RGLRTlIyZUHrh9fGzEYgn",
+      "id": "0RGLRTlIyZUHrh9fGzEYgn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2682e4915d7d43df8740e9960c0267ecd14a9ff6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e0fd4bd51ffc25ef59e0c30da6c468ac1f27d43d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f6143a0f1048f79dc5ed03ecbb9df5a5f607b917",
+          "width": 64
+        }
+      ],
+      "name": "Saykodelik - EP",
+      "release_date": "2009-03-18",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:0RGLRTlIyZUHrh9fGzEYgn"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1h68MYJ2aAOSDF8KBNkYxj"
+          },
+          "href": "https://api.spotify.com/v1/artists/1h68MYJ2aAOSDF8KBNkYxj",
+          "id": "1h68MYJ2aAOSDF8KBNkYxj",
+          "name": "DJ Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:1h68MYJ2aAOSDF8KBNkYxj"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Loo2ztn0FjWD0uNI0ILBQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Loo2ztn0FjWD0uNI0ILBQ",
+      "id": "6Loo2ztn0FjWD0uNI0ILBQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/50786d33b169bc1bf70f1a24506d06230f5df96f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5cca4d8780d0676aa17c0f46cb868d9381ff27a6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9e2c1e87b2d890b041f02bae7f485135e560f01e",
+          "width": 64
+        }
+      ],
+      "name": "Oldu Olanlar (Instrumental Mix)",
+      "release_date": "2018-10-17",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6Loo2ztn0FjWD0uNI0ILBQ"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1h68MYJ2aAOSDF8KBNkYxj"
+          },
+          "href": "https://api.spotify.com/v1/artists/1h68MYJ2aAOSDF8KBNkYxj",
+          "id": "1h68MYJ2aAOSDF8KBNkYxj",
+          "name": "DJ Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:1h68MYJ2aAOSDF8KBNkYxj"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0KVq8B1AyzHU6WxJbV1Iwa"
+      },
+      "href": "https://api.spotify.com/v1/albums/0KVq8B1AyzHU6WxJbV1Iwa",
+      "id": "0KVq8B1AyzHU6WxJbV1Iwa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1bd434b547583f70bade8c2cf2a68e281fa9bd46",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/12d69aeb48aa3c10649a9c8cd95eb5a96b72b2ab",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c7ffca33bb9b5a7d1b536002271642d63c30fbc3",
+          "width": 64
+        }
+      ],
+      "name": "Oldu Olanlar",
+      "release_date": "2018-10-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0KVq8B1AyzHU6WxJbV1Iwa"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2WrrDGOjPL1QFuLB45DZ7Q"
+          },
+          "href": "https://api.spotify.com/v1/artists/2WrrDGOjPL1QFuLB45DZ7Q",
+          "id": "2WrrDGOjPL1QFuLB45DZ7Q",
+          "name": "Kolera",
+          "type": "artist",
+          "uri": "spotify:artist:2WrrDGOjPL1QFuLB45DZ7Q"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0KW5Yo9h3UVkKab5Ntn5oR"
+      },
+      "href": "https://api.spotify.com/v1/albums/0KW5Yo9h3UVkKab5Ntn5oR",
+      "id": "0KW5Yo9h3UVkKab5Ntn5oR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1af1ac5827748f52abaaf8719c632345cbe85fde",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/48c2a0eaa12acb8f00a9dd519f47215ce4a8d8c3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e70bd2d23ced6de5ffbf6b724498607c2feeb238",
+          "width": 64
+        }
+      ],
+      "name": "Kolokolik",
+      "release_date": "2016-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0KW5Yo9h3UVkKab5Ntn5oR"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1h68MYJ2aAOSDF8KBNkYxj"
+          },
+          "href": "https://api.spotify.com/v1/artists/1h68MYJ2aAOSDF8KBNkYxj",
+          "id": "1h68MYJ2aAOSDF8KBNkYxj",
+          "name": "DJ Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:1h68MYJ2aAOSDF8KBNkYxj"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4BNPkzyXCz9778CmSswzTJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/4BNPkzyXCz9778CmSswzTJ",
+      "id": "4BNPkzyXCz9778CmSswzTJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6efcce1c5337f36adcac7bae51a7021dafadc584",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e0e14af17f7171557132ca8dcdcd12c96a7064c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4c51653211eb0f59c62e960e9b2f2e16940ad61c",
+          "width": 64
+        }
+      ],
+      "name": "Tecrübe",
+      "release_date": "2016-03-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4BNPkzyXCz9778CmSswzTJ"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bqLkcEDetOdSIa2XZeQ8T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bqLkcEDetOdSIa2XZeQ8T",
+          "id": "0bqLkcEDetOdSIa2XZeQ8T",
+          "name": "Shi 360",
+          "type": "artist",
+          "uri": "spotify:artist:0bqLkcEDetOdSIa2XZeQ8T"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4XArVBv6Hs2EwqPopZHWYd"
+      },
+      "href": "https://api.spotify.com/v1/albums/4XArVBv6Hs2EwqPopZHWYd",
+      "id": "4XArVBv6Hs2EwqPopZHWYd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3c6bed73758838209b769d26cfca32fc20cc6869",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d7e6effaa120d49833c759937d6a38d08aa8c07e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/958704c02689895ed968705ddcb88022422a5c39",
+          "width": 64
+        }
+      ],
+      "name": "Chapters: Jewish Rap Bar Mitzvah",
+      "release_date": "2015-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4XArVBv6Hs2EwqPopZHWYd"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Nq1Eu5UJhX02GUiQknLkb"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Nq1Eu5UJhX02GUiQknLkb",
+          "id": "4Nq1Eu5UJhX02GUiQknLkb",
+          "name": "Shi",
+          "type": "artist",
+          "uri": "spotify:artist:4Nq1Eu5UJhX02GUiQknLkb"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7GVd4GBw8G6CurLfle84QR"
+      },
+      "href": "https://api.spotify.com/v1/albums/7GVd4GBw8G6CurLfle84QR",
+      "id": "7GVd4GBw8G6CurLfle84QR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/563ffc8d755359ac6d6b96f26b4b9c9039fef36f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/be5c413f62786dcc4930cdded0a0419ecf12067c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7fea256f1c427a0dae0ac7618167deda44fa199f",
+          "width": 64
+        }
+      ],
+      "name": "Chapters (Bar Mitzvah Edition)",
+      "release_date": "2015-12-06",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:7GVd4GBw8G6CurLfle84QR"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5QERdsBJhGnPU3rfYE1RIA"
+          },
+          "href": "https://api.spotify.com/v1/artists/5QERdsBJhGnPU3rfYE1RIA",
+          "id": "5QERdsBJhGnPU3rfYE1RIA",
+          "name": "Birol Giray (BeeGee)",
+          "type": "artist",
+          "uri": "spotify:artist:5QERdsBJhGnPU3rfYE1RIA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5mmrWTCC8OPLpwmqLwSJRG"
+      },
+      "href": "https://api.spotify.com/v1/albums/5mmrWTCC8OPLpwmqLwSJRG",
+      "id": "5mmrWTCC8OPLpwmqLwSJRG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/efce3a6ac1f766342c554ceb22447dc0b1e73428",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/78485e4496938199c9c9f7835e8ea9db30a68de1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a553f7a15efbff354031aee57371e2ece4b83509",
+          "width": 64
+        }
+      ],
+      "name": "Naber",
+      "release_date": "2015-11-12",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5mmrWTCC8OPLpwmqLwSJRG"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj"
+          },
+          "href": "https://api.spotify.com/v1/artists/2AWUCT9xtcvkjpFq1ZgpPj",
+          "id": "2AWUCT9xtcvkjpFq1ZgpPj",
+          "name": "Cem Adrian",
+          "type": "artist",
+          "uri": "spotify:artist:2AWUCT9xtcvkjpFq1ZgpPj"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3w8uUhW3lk2kk5yeSB6e3x"
+      },
+      "href": "https://api.spotify.com/v1/albums/3w8uUhW3lk2kk5yeSB6e3x",
+      "id": "3w8uUhW3lk2kk5yeSB6e3x",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/642524c28483fe2f5b27ad5c7559640a1796e60e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1b6373f2cbfb4c8461aa0332a2a220a6c42c9b07",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4b26d8f19ddb0a9da8d27fce80d8c786d290fa69",
+          "width": 64
+        }
+      ],
+      "name": "Sana Bunları Hiç Bilmediğin Bir Yerden Yazıyorum",
+      "release_date": "2014-10-28",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3w8uUhW3lk2kk5yeSB6e3x"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5mTyFUntC6y5JLKULFk7ab"
+          },
+          "href": "https://api.spotify.com/v1/artists/5mTyFUntC6y5JLKULFk7ab",
+          "id": "5mTyFUntC6y5JLKULFk7ab",
+          "name": "Birol Giray",
+          "type": "artist",
+          "uri": "spotify:artist:5mTyFUntC6y5JLKULFk7ab"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3VMsBwSLFjrGftMuNbANj1"
+      },
+      "href": "https://api.spotify.com/v1/albums/3VMsBwSLFjrGftMuNbANj1",
+      "id": "3VMsBwSLFjrGftMuNbANj1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5d5cfa773d74b2769d099a0d63fc37915f84e810",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/df1505227326f716e1934a85869d8a944442495a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0efefc13baa8c3b11d212ddff4266346ac4ef710",
+          "width": 64
+        }
+      ],
+      "name": "Abrakadabra",
+      "release_date": "2014-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3VMsBwSLFjrGftMuNbANj1"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4BVMkN8p8RownQwZqSv3kI"
+      },
+      "href": "https://api.spotify.com/v1/albums/4BVMkN8p8RownQwZqSv3kI",
+      "id": "4BVMkN8p8RownQwZqSv3kI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/858d7ff76adf37bdb55830c33dc8c62429b88948",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/199b261fbac358135b124b566c3fc058ebc1ed23",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9fd1d57e5cc3cbe26d3ef0c36c0b440ad2d2b415",
+          "width": 64
+        }
+      ],
+      "name": "Hit 2014",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:4BVMkN8p8RownQwZqSv3kI"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bqLkcEDetOdSIa2XZeQ8T"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bqLkcEDetOdSIa2XZeQ8T",
+          "id": "0bqLkcEDetOdSIa2XZeQ8T",
+          "name": "Shi 360",
+          "type": "artist",
+          "uri": "spotify:artist:0bqLkcEDetOdSIa2XZeQ8T"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6nARyZGKuj9gcboKmxWmpC"
+      },
+      "href": "https://api.spotify.com/v1/albums/6nARyZGKuj9gcboKmxWmpC",
+      "id": "6nARyZGKuj9gcboKmxWmpC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a47fb0cca8b969c8c2553cef9e38e6a946efb36c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b2f68f99957a523228164054667c307f8aee2492",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1cfdcd8e8c42f18157e952d73141421209f96bf1",
+          "width": 64
+        }
+      ],
+      "name": "Israel Hip Hop: Jewish Rap Starz Vol. Aleph",
+      "release_date": "2013-07-02",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6nARyZGKuj9gcboKmxWmpC"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5tZ9DHJeM6h9a6OIev41ix"
+      },
+      "href": "https://api.spotify.com/v1/albums/5tZ9DHJeM6h9a6OIev41ix",
+      "id": "5tZ9DHJeM6h9a6OIev41ix",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1d6761f90c65b7c22ec47194b1f16a4cc69c77d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/aa5ed1e2093c6f0a4c0a5749f7ba956d0b843440",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d482ce7ff04d5463a005d50de0fe5df635ef5f2d",
+          "width": 64
+        }
+      ],
+      "name": "İ-Rap",
+      "release_date": "2007-10-19",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:5tZ9DHJeM6h9a6OIev41ix"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0lk56yoXCItpOyPqywrbXL"
+      },
+      "href": "https://api.spotify.com/v1/albums/0lk56yoXCItpOyPqywrbXL",
+      "id": "0lk56yoXCItpOyPqywrbXL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c9f16688dfc15218d9e51b120c5f91f4012ce313",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ed88afbdd3f39bc39ee8d80bf74ba85ef5867d98",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab5c757826ede2727de65d0650974db9347df459",
+          "width": 64
+        }
+      ],
+      "name": "Kafile",
+      "release_date": "2006",
+      "release_date_precision": "year",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0lk56yoXCItpOyPqywrbXL"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2WrrDGOjPL1QFuLB45DZ7Q"
+          },
+          "href": "https://api.spotify.com/v1/artists/2WrrDGOjPL1QFuLB45DZ7Q",
+          "id": "2WrrDGOjPL1QFuLB45DZ7Q",
+          "name": "Kolera",
+          "type": "artist",
+          "uri": "spotify:artist:2WrrDGOjPL1QFuLB45DZ7Q"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3q451AJLrHOqx1YVOWZzho"
+      },
+      "href": "https://api.spotify.com/v1/albums/3q451AJLrHOqx1YVOWZzho",
+      "id": "3q451AJLrHOqx1YVOWZzho",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/075239105227b4676779fd344a5e80e8fc04a588",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/806ad27e0e191620a92938a23713085df33ba2e1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ae0b15d2695b1c60a1d81925c6b1fad723bd61de",
+          "width": 64
+        }
+      ],
+      "name": "Karantina Embryo",
+      "release_date": "2005-09-21",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:3q451AJLrHOqx1YVOWZzho"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4gcJBoFpYirWxOVOZhBLjA"
+      },
+      "href": "https://api.spotify.com/v1/albums/4gcJBoFpYirWxOVOZhBLjA",
+      "id": "4gcJBoFpYirWxOVOZhBLjA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9a9929382810c47f3f3cf9d05f46e2bed48832b7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/81b14bcbdb731324ada46235cdee6848acc007f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/13933736ec81ac18d21535ea757df0ad4e976a7a",
+          "width": 64
+        }
+      ],
+      "name": "G.O.R.A. (Orijinal Film Müzikleri)",
+      "release_date": "2004-11-08",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:4gcJBoFpYirWxOVOZhBLjA"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tRmpYzDIjWoRHzbJO7Cpx"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tRmpYzDIjWoRHzbJO7Cpx",
+          "id": "6tRmpYzDIjWoRHzbJO7Cpx",
+          "name": "Fuat",
+          "type": "artist",
+          "uri": "spotify:artist:6tRmpYzDIjWoRHzbJO7Cpx"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5YoVLVoT8C3gs5nQuM8k2l"
+      },
+      "href": "https://api.spotify.com/v1/albums/5YoVLVoT8C3gs5nQuM8k2l",
+      "id": "5YoVLVoT8C3gs5nQuM8k2l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7d0dcc386234d27e1a5630e77339dbdbcda97870",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5f5ee72006b837ab4a0db5bc8fee22113d9109cd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/22e1691c5562e10823734d2e5e81a25c81a8cf29",
+          "width": 64
+        }
+      ],
+      "name": "Hassickdir? III",
+      "release_date": "2003-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5YoVLVoT8C3gs5nQuM8k2l"
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 41
+}
