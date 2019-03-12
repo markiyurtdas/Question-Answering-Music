@@ -1,4 +1,13 @@
-[şarkıcı ismi] + [şarkıcı soyismi] kim ?
+[şarkıcı ismi] kim ?
 [şarkıcı ismi] kaç albüm ?
-[şarkı] kimin ?
+[şarkıcı ismi] kaç takipçi ?
+[şarkıcı ismi] şarkı tipi ?
+[şarkıcı ismi] bütün şarkılar ?
+[şarkı] kime ait ?
 [şarkı] süresi ?
+[albüm] kime ait ?
+[albüm] çıkış tarihi ?
+[albüm] toplam satış ?
+
+
+
