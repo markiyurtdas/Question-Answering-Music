@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author marki
+ * @author erdem
  */
 public class Track {
     private Album album;
