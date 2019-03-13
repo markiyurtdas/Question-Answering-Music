@@ -5,8 +5,13 @@
  */
 package softwareproject.utils;
 
+import java.io.FileReader;
+import jdk.nashorn.internal.parser.JSONParser;
+
 /**
  *
  * @author marki
  */
-
+public  class FileReaderArtist {
+    
+}

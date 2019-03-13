@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.SQLNonTransientConnectionException;
 import java.sql.Statement;
+import softwareproject.constants.DatabaseInfo;
 /**
  *
  * @author marki
@@ -14,36 +15,19 @@ import java.sql.Statement;
 /*
 
 public class DatabaseHandler {
-
-    public static void main(String[] args) throws SQLNonTransientConnectionException 
-        ,IOException, SQLException {
-
-        String instanceConnectionName = "middle:us-central1:software-project";
-        String databaseName = "SAP";
+        Class.forName("com.mysql.jdbc.Driver");
+        DatabaseInfo dbInfo = new DatabaseInfo();
+        
+        String instanceConnectionName =dbInfo.getInstanceConnectionName();
+        String databaseName = dbInfo.getDatabaseName() ;
 
        
-        String IP_of_instance = "35.226.86.133";
-        String username = "software ";
-        String password = "a123";
+        String IP_of_instance =dbInfo.getIP_of_instance();
+        String username =dbInfo.getUsername();
+        String password = dbInfo.getPassword();
 
-        String jdbcUrl = String.format(
-            "jdbc:mysql://%s/%s?cloudSqlInstance=%s"
-                + "&socketFactory=com.google.cloud.sql.mysql.SocketFactory&useSSL=false",
-        IP_of_instance,
-            databaseName,
-            instanceConnectionName);
-
-        Connection connection = (Connection)DriverManager.getConnection(jdbcUrl, username, password);
-
-        try (Statement statement = connection.createStatement()) {
-          ResultSet resultSet = statement.executeQuery("SHOW TABLES");
-          while (resultSet.next()) {
-            System.out.println(resultSet.getString(1));
-          }
-        }catch(Exception e){
-          e.printStackTrace();
-
-        }
-
-    }
+        String jdbcUrl = String.format( 
+                "jdbc:mysql://" + IP_of_instance +  ":3306/"+
+                        databaseName + "?zeroDateTimeBehavior=convertToNull"
+ );
 }*/

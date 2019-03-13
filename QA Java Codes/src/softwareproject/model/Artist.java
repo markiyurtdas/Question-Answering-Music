@@ -65,6 +65,14 @@ public class Artist {
     public ArrayList<String> getGenres() {
         return genres;
     }
+     public String getAllGenres() {
+         String str="";
+         for(int i=0 ; i<genres.size();i++){
+             str += genres.get(i) +",";
+         }
+         
+        return str;
+    }
 
     public void setGenres(ArrayList<String> genres) {
         this.genres = genres;
@@ -117,12 +125,20 @@ public class Artist {
     public void setType(String type) {
         this.type = type;
     }
-    
-    
-    
-    
-    
-    
-    
+
+    @Override
+    public String toString() {
+        return "Artist{" + "externalUrl=" + externalUrl + ", followersTotal=" + followersTotal + ", genres=" + genres + ", href=" + href + ", spotifyId=" + spotifyId + ", imageUrl=" + imageUrl + ", artistName=" + artistName + ", popularity=" + popularity + ", type=" + type + '}';
+    }
+    public String prepareForDB() {
+        return "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
+                   + "Followers`, `Genres`, `Href`, `"
+                   + "Image_url`, `Popularity`, `Type`) "
+                   + "VALUES (" +artistName +"," +spotifyId + externalUrl +"," 
+                +followersTotal +"," +getAllGenres() +href +","
+                   +imageUrl +","+popularity +","+ type+ ")";
+        
+    }
+      
     
 }

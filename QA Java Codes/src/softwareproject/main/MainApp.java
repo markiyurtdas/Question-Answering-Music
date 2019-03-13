@@ -1,37 +1,68 @@
 import java.io.IOException;
 import java.sql.*; 
+import java.util.ArrayList;
+import softwareproject.constants.DatabaseInfo;
 // need to import this as the STEP 1. Has the classes that you mentioned  
 public class MainApp {
     public static void main(String[] args) throws SQLNonTransientConnectionException 
         ,IOException, SQLException, ClassNotFoundException {
+        
         Class.forName("com.mysql.jdbc.Driver");
-
-        String instanceConnectionName = "middle:us-central1:software-project";
-        String databaseName = "SAP";
-
-       
-        String IP_of_instance = "35.226.86.133";
-        String username = "software ";
-        String password = "a123";
+        DatabaseInfo dbInfo = new DatabaseInfo();
+        
+        String instanceConnectionName =dbInfo.getInstanceConnectionName();
+        String databaseName = dbInfo.getDatabaseName() ;
+        String IP_of_instance =dbInfo.getIP_of_instance();
+        String username =dbInfo.getUsername();
+        String password = dbInfo.getPassword();
 
         String jdbcUrl = String.format( 
-                "jdbc:mysql://" + IP_of_instance + 
-                        ":3306/"+
-                        databaseName +
-                        "?zeroDateTimeBehavior=convertToNull"
+                "jdbc:mysql://" + IP_of_instance +  ":3306/"+
+                        databaseName + "?zeroDateTimeBehavior=convertToNull"
  );
-
-        Connection connection = (Connection)DriverManager.getConnection(jdbcUrl, username, password);
-
+        
+        
+        String sqlInsert = "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
+                   + "Followers`, `Genres`, `Href`, `"
+                   + "Image_url`, `Popularity`, `Type`) "
+                   + "VALUES ('eminem', 'asd5a5d', 'asda', "
+                   + "45245, 'asd,asda,asd', 'asdada', "
+                   + "'asdasd', 55, 'artist" +
+"     ')";
+        
+        
+        Connection connection = null; 
+        Statement stmt = null;
+        
         try (Statement statement = connection.createStatement()) {
-          ResultSet resultSet = statement.executeQuery("SHOW TABLES");
-          while (resultSet.next()) {
-            System.out.println(resultSet.getString(1));
-          }
+           System.out.println("Connecting to a selected database...");
+           connection = DriverManager.getConnection(jdbcUrl, username, password);
+           System.out.println("Connected database successfully...");
+           
+           insertIntoDB(stmt, connection, sqlInsert);
+           
+           
+           
+         
         }catch(Exception e){
           e.printStackTrace();
 
         }
 
     }
+    
+    public static void insertIntoDB (Statement stmt, Connection conn, String string) throws SQLException {
+        
+         stmt = conn.createStatement();
+         stmt.executeUpdate(string);
+    }
+    
+    
+    
+    public void loadArtistToDb(){
+        
+    }
+    
+    
+    
 }
