@@ -1,0 +1,38 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+  },
+  "followers": {
+    "href": null,
+    "total": 24959230
+  },
+  "genres": [
+    "detroit hip hop",
+    "g funk",
+    "hip hop",
+    "rap"
+  ],
+  "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+  "id": "7dGJo4pcD2V6oG8kP0tJRR",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/60c4daa4721f666c6afaee82a39bd413979a0474",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ae8dd3b01ada324eeb8c0b341e8f7ebda406095e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ed213a32e1327f3f2d7b2539eb1db57f55b68dbb",
+      "width": 160
+    }
+  ],
+  "name": "Eminem",
+  "popularity": 93,
+  "type": "artist",
+  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+}
