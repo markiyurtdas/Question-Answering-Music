@@ -8,12 +8,11 @@ package model;
 import java.util.ArrayList;
 
 /**
- *
  * @author marki
  */
 public class Artist {
     private String externalUrl;
-    private int  followersTotal;
+    private int followersTotal;
     private ArrayList<String> genres;
     private String href;
     private String spotifyId;
@@ -26,19 +25,19 @@ public class Artist {
     }
 
     //general cons
-    public Artist( String artistName,String id, String type) {
+    public Artist(String artistName, String id, String type) {
         this.artistName = artistName;
         this.type = type;
         this.spotifyId = id;
     }
 
-    public Artist( String artistName,String id) {
+    public Artist(String artistName, String id) {
         this.artistName = artistName;
         this.spotifyId = id;
     }
 
     //Spotify cons
-    public Artist(String externalUrl, int followersTotal, ArrayList<String> genres, String href, String spotifyId,  String artistName, int popularity, String type) {
+    public Artist(String externalUrl, int followersTotal, ArrayList<String> genres, String href, String spotifyId, String artistName, int popularity, String type) {
         this.externalUrl = externalUrl;
         this.followersTotal = followersTotal;
         this.genres = genres;
@@ -68,12 +67,13 @@ public class Artist {
     public ArrayList<String> getGenres() {
         return genres;
     }
-     public String getAllGenres() {
-         String str="";
-         for(int i=0 ; i<genres.size();i++){
-             str += genres.get(i) +",";
-         }
-         
+
+    public String getAllGenres() {
+        String str = "";
+        for (int i = 0; i < genres.size(); i++) {
+            str += genres.get(i) + ",";
+        }
+
         return str;
     }
 
@@ -96,7 +96,6 @@ public class Artist {
     public void setSpotifyId(String spotifyId) {
         this.spotifyId = spotifyId;
     }
-
 
 
     public String getArtistName() {
@@ -125,17 +124,18 @@ public class Artist {
 
     @Override
     public String toString() {
-        return "Artist{" + "externalUrl=" + externalUrl + ", followersTotal=" + followersTotal + ", genres=" + genres + ", href=" + href + ", spotifyId=" + spotifyId   + ", artistName=" + artistName + ", popularity=" + popularity + ", type=" + type + '}';
+        return "Artist{" + "externalUrl=" + externalUrl + ", followersTotal=" + followersTotal + ", genres=" + genres + ", href=" + href + ", spotifyId=" + spotifyId + ", artistName=" + artistName + ", popularity=" + popularity + ", type=" + type + '}';
     }
+
     public String prepareForDB() {
         return "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
-                   + "Followers`, `Genres`, `Href`, `"
-                   + "`Popularity`, `Type`) "
-                   + "VALUES (" +artistName +"," +spotifyId + externalUrl +"," 
-                +followersTotal +"," +getAllGenres() +href +","
-                +","+popularity +","+ type+ ")";
-        
+                + "Followers`, `Genres`, `Href`, `"
+                + "`Popularity`, `Type`) "
+                + "VALUES (" + artistName + "," + spotifyId + externalUrl + ","
+                + followersTotal + "," + getAllGenres() + href + ","
+                + "," + popularity + "," + type + ")";
+
     }
-      
-    
+
+
 }
