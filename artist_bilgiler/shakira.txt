@@ -1,0 +1,40 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+  },
+  "followers": {
+    "href": null,
+    "total": 15640297
+  },
+  "genres": [
+    "colombian pop",
+    "dance pop",
+    "latin",
+    "latin pop",
+    "mexican pop",
+    "pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+  "id": "0EmeFodog0BfCgMzAIvKQp",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/5a8d19c199d9c097600cafefdb967ab0bbdd8c3b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/e748f801d281e33ddaa71b6cdbde6292982a4780",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/866f85c29888247940c06cc3918c11163442b28a",
+      "width": 160
+    }
+  ],
+  "name": "Shakira",
+  "popularity": 83,
+  "type": "artist",
+  "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+}

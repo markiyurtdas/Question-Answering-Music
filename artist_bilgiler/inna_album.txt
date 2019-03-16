@@ -1,0 +1,2320 @@
+{
+  "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7BFdSsn1PPKIOXO1di6WUb"
+      },
+      "href": "https://api.spotify.com/v1/albums/7BFdSsn1PPKIOXO1di6WUb",
+      "id": "7BFdSsn1PPKIOXO1di6WUb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9b8e3d0a4c8a4db3bbc8effd583c27c6e935d0ef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b161b248b6ba6c5db5f5102b9bf853808ad926ab",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7ef24526183e3c402e66323c3c4f511da1ad2885",
+          "width": 64
+        }
+      ],
+      "name": "Hot",
+      "release_date": "2018-04-11",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:7BFdSsn1PPKIOXO1di6WUb"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Igb99I0VWK5MpW8DeXwPz"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Igb99I0VWK5MpW8DeXwPz",
+      "id": "6Igb99I0VWK5MpW8DeXwPz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cad927211cb83545e8b9da5f4b7448d1de8d7c00",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2e575ee685c1607d43bd6784c33981be49f9edc8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1dd462c17c7f490e207936705809c54373f60fc7",
+          "width": 64
+        }
+      ],
+      "name": "Nirvana",
+      "release_date": "2018-02-02",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6Igb99I0VWK5MpW8DeXwPz"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2dShHS0yNQ4Jl31wZ0zwLa"
+      },
+      "href": "https://api.spotify.com/v1/albums/2dShHS0yNQ4Jl31wZ0zwLa",
+      "id": "2dShHS0yNQ4Jl31wZ0zwLa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a6aa93f64de75f782a6ee78ebc88e2c03cc86d97",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a1c72decf2fa99403380d73736917e3592f860aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d5f4c2bff7a3c571518a35b1cbf744572d45c4f9",
+          "width": 64
+        }
+      ],
+      "name": "Gimme Gimme (Remixes)",
+      "release_date": "2017-04-14",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2dShHS0yNQ4Jl31wZ0zwLa"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0cd4ZCOgEnB3QRy7LICjMu"
+      },
+      "href": "https://api.spotify.com/v1/albums/0cd4ZCOgEnB3QRy7LICjMu",
+      "id": "0cd4ZCOgEnB3QRy7LICjMu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9e4fa7d47b0c3dd8a1dbdac043fc65c25cb01525",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/27e60f1d356f17888831bae40a2e81c6152799d7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b0e664eb59cb7a63082668cb5bdf5413e6bf5851",
+          "width": 64
+        }
+      ],
+      "name": "Heaven",
+      "release_date": "2016-08-02",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:0cd4ZCOgEnB3QRy7LICjMu"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6g6wQLLQUr47E98d8Kaqy7"
+      },
+      "href": "https://api.spotify.com/v1/albums/6g6wQLLQUr47E98d8Kaqy7",
+      "id": "6g6wQLLQUr47E98d8Kaqy7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a85f7bbd70ef6ff7e4c8f45906d1837bbc92d6a4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c9787312c41dc70b926ae7ce3f78f9798b6ff7b2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e63697182b61e2985d462754f708d704659175f5",
+          "width": 64
+        }
+      ],
+      "name": "Rendez Vous (Remixes)",
+      "release_date": "2016-03-24",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:6g6wQLLQUr47E98d8Kaqy7"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3y90u9zL6KlZGnYhdLSh0T"
+      },
+      "href": "https://api.spotify.com/v1/albums/3y90u9zL6KlZGnYhdLSh0T",
+      "id": "3y90u9zL6KlZGnYhdLSh0T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/775f1e4e606d796753449f8c1bac9743c6a13108",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cc9e3a0da3939bc857f0e6942784dbf9f031716b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a54b4d318b3d4d5ff72f3f2777d22da308cf0406",
+          "width": 64
+        }
+      ],
+      "name": "Bop Bop (Remixes)",
+      "release_date": "2015-12-24",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:3y90u9zL6KlZGnYhdLSh0T"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5VmN2i7UQh8rHZX6cxRwIw"
+      },
+      "href": "https://api.spotify.com/v1/albums/5VmN2i7UQh8rHZX6cxRwIw",
+      "id": "5VmN2i7UQh8rHZX6cxRwIw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1fdf967dd92a0aea25fbddded48d76a0aaac9635",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/df47bc3b581c30a1aec475d4976f8ef8f386b673",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8834c254da8e2798ee5decfa437aa5a9c051752a",
+          "width": 64
+        }
+      ],
+      "name": "Inna",
+      "release_date": "2015-11-06",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:5VmN2i7UQh8rHZX6cxRwIw"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0enH5anKe0o0jMpdM8NCZK"
+      },
+      "href": "https://api.spotify.com/v1/albums/0enH5anKe0o0jMpdM8NCZK",
+      "id": "0enH5anKe0o0jMpdM8NCZK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f24c7a744fd2615c76b4b4978ed9bb69509ac468",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1d0f7f54e9649224f4464294de724a41ff90cf54",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/56fd0e6c045981ae73742991242e84deea720da3",
+          "width": 64
+        }
+      ],
+      "name": "INNdiA",
+      "release_date": "2013",
+      "release_date_precision": "year",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:0enH5anKe0o0jMpdM8NCZK"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VWu7uSPJZ5ETaqLei6hf5"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VWu7uSPJZ5ETaqLei6hf5",
+      "id": "2VWu7uSPJZ5ETaqLei6hf5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cfd54ea09683c94cd87af0539f882a7b0fedce41",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e2f4adf9a432fb323a50c9b936786158f005e596",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/03bb7b36c6bb7e1b3810ba8dfc484e00f220b385",
+          "width": 64
+        }
+      ],
+      "name": "More Than Friends",
+      "release_date": "2013",
+      "release_date_precision": "year",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:2VWu7uSPJZ5ETaqLei6hf5"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1IFY0AXPqYFozB90MYPma2"
+      },
+      "href": "https://api.spotify.com/v1/albums/1IFY0AXPqYFozB90MYPma2",
+      "id": "1IFY0AXPqYFozB90MYPma2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b35d6c4172e8022ad2a51f37f159b83d05f00ea3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6b738e9c153a9d1e21dc1595d5911f9b2a7626bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/91be55cc899360fc950aba9e426c3c048362d954",
+          "width": 64
+        }
+      ],
+      "name": "I Am the Club Rocker",
+      "release_date": "2011-12-12",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:1IFY0AXPqYFozB90MYPma2"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4UmxGKx0oAB7vzKoxhOKO1"
+      },
+      "href": "https://api.spotify.com/v1/albums/4UmxGKx0oAB7vzKoxhOKO1",
+      "id": "4UmxGKx0oAB7vzKoxhOKO1",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/b3e4e433d7927f7c2f5d7bac654cde68e4d87f28",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/22b0e4b4ee39f2f1c581d3152d68743412883e72",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab1e984389eb56d743fb57397b946c99a9e9c1e7",
+          "width": 64
+        }
+      ],
+      "name": "Hot",
+      "release_date": "2010-04-19",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4UmxGKx0oAB7vzKoxhOKO1"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ZgEzflxty87XgjrxU3qIJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ZgEzflxty87XgjrxU3qIJ",
+      "id": "0ZgEzflxty87XgjrxU3qIJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e2d7142c98d035319507cb51c8ec44fda89807d4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/144769b5aac1f83235ab2e71de5a4a956f77f963",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8e1d2f0437cb50e292174cb7313b39db00dbcf55",
+          "width": 64
+        }
+      ],
+      "name": "Tu Manera",
+      "release_date": "2019-03-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0ZgEzflxty87XgjrxU3qIJ"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0miggCdTfw4NsqNfj1pbIW"
+      },
+      "href": "https://api.spotify.com/v1/albums/0miggCdTfw4NsqNfj1pbIW",
+      "id": "0miggCdTfw4NsqNfj1pbIW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5a62e159c01481bf923cec41358ee2e98abd9eea",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3c00c5e350e9ebc3d4a465fdeabc0ca19a3bcc61",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f13bb5e12687d88ef0bece17c2b79acbfab7c9c8",
+          "width": 64
+        }
+      ],
+      "name": "Sin Ti",
+      "release_date": "2019-01-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0miggCdTfw4NsqNfj1pbIW"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/14mk1H4BOjxc5dO9j41rSK"
+      },
+      "href": "https://api.spotify.com/v1/albums/14mk1H4BOjxc5dO9j41rSK",
+      "id": "14mk1H4BOjxc5dO9j41rSK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/99c6791e18135cee7f36ec16dbedd71978e87117",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a2d8c86c213a17bffb2f9f987d7d6f851271f8ab",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ea9e89fc105e7b0b8e7eae1d0d23d9ac4ceee071",
+          "width": 64
+        }
+      ],
+      "name": "Iguana",
+      "release_date": "2018-11-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:14mk1H4BOjxc5dO9j41rSK"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5uQmEPXtSJrCwVKFkfcujV"
+      },
+      "href": "https://api.spotify.com/v1/albums/5uQmEPXtSJrCwVKFkfcujV",
+      "id": "5uQmEPXtSJrCwVKFkfcujV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/eda953a31d494160c1fca1571e957ccfb7de5bf4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/af56bc7c46d5b4a03e42d977480822fbc13ec560",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/08fbd233d7d6aa7446cbdd8d8acf8769aab2e75c",
+          "width": 64
+        }
+      ],
+      "name": "RA",
+      "release_date": "2018-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5uQmEPXtSJrCwVKFkfcujV"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4OhQ71XhOnq2altqCgrSjx"
+      },
+      "href": "https://api.spotify.com/v1/albums/4OhQ71XhOnq2altqCgrSjx",
+      "id": "4OhQ71XhOnq2altqCgrSjx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bd2e15340d66bfdd46b392a83c4daeb7401a25f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3bcd22b654e60c9ad4fa53587e0b75a2addd0ad4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8d63b25c9e8ba654d53861006b0832789070b35b",
+          "width": 64
+        }
+      ],
+      "name": "No Help",
+      "release_date": "2018-09-28",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4OhQ71XhOnq2altqCgrSjx"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YeBK2Xpnx9UuwvOHpcxoJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YeBK2Xpnx9UuwvOHpcxoJ",
+          "id": "0YeBK2Xpnx9UuwvOHpcxoJ",
+          "name": "Dirty Nano",
+          "type": "artist",
+          "uri": "spotify:artist:0YeBK2Xpnx9UuwvOHpcxoJ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VVoUgCn5jWCA67pyrIXR3"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VVoUgCn5jWCA67pyrIXR3",
+      "id": "2VVoUgCn5jWCA67pyrIXR3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a3bef6c92e3e2365d6ea43f796a9ecc17975f246",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/396a9d16f47b41f56480c4ccc84f876d98ce1479",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5f4afd24365d8aacb6d68368089f0ab16b8344b2",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (Dirty Nano Remix)",
+      "release_date": "2018-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2VVoUgCn5jWCA67pyrIXR3"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/40szNsFUIusE3NuZWV6boR"
+      },
+      "href": "https://api.spotify.com/v1/albums/40szNsFUIusE3NuZWV6boR",
+      "id": "40szNsFUIusE3NuZWV6boR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e6a90859cbd295cb12fb5c3693414f1114ea2e9c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/de9d847bd008a680a8863aad98728c0b2f863587",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d26df7338b97b1175300f0977f654b8a05a8fd59",
+          "width": 64
+        }
+      ],
+      "name": "Me Gusta (Remixes)",
+      "release_date": "2018-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:40szNsFUIusE3NuZWV6boR"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4lAI6jiWfiec8dgvxMUyFe"
+          },
+          "href": "https://api.spotify.com/v1/artists/4lAI6jiWfiec8dgvxMUyFe",
+          "id": "4lAI6jiWfiec8dgvxMUyFe",
+          "name": "Asher",
+          "type": "artist",
+          "uri": "spotify:artist:4lAI6jiWfiec8dgvxMUyFe"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3vUwto7uuXxWRa9IMhDQz0"
+      },
+      "href": "https://api.spotify.com/v1/albums/3vUwto7uuXxWRa9IMhDQz0",
+      "id": "3vUwto7uuXxWRa9IMhDQz0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c78df92909fe6e496242e12e6e471b7563e07bc3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0599485be46064dc061acf34a38c6290613e1d99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/be397a1289b54e854aec32d9e0652fc41d9f1683",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (Asher Remix)",
+      "release_date": "2018-05-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3vUwto7uuXxWRa9IMhDQz0"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5kVjcnxjRpiLJoFBMV5o4J"
+          },
+          "href": "https://api.spotify.com/v1/artists/5kVjcnxjRpiLJoFBMV5o4J",
+          "id": "5kVjcnxjRpiLJoFBMV5o4J",
+          "name": "Dario Vega",
+          "type": "artist",
+          "uri": "spotify:artist:5kVjcnxjRpiLJoFBMV5o4J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2Do322H0G4l7AWAS6R3lAF"
+      },
+      "href": "https://api.spotify.com/v1/albums/2Do322H0G4l7AWAS6R3lAF",
+      "id": "2Do322H0G4l7AWAS6R3lAF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9901c99a6311e5eb3adfc2ca62a5646d7e395fbf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2be77e17b88898e6b5e231f25ac8fe3cbc6eaf07",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/13d24966f5b7ccb23955d038173b3bf7145b2018",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (Dario Vega Remix)",
+      "release_date": "2018-05-31",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2Do322H0G4l7AWAS6R3lAF"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2eSRB1cHVDUOG86uC2qlaR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2eSRB1cHVDUOG86uC2qlaR",
+          "id": "2eSRB1cHVDUOG86uC2qlaR",
+          "name": "DJ Criswell",
+          "type": "artist",
+          "uri": "spotify:artist:2eSRB1cHVDUOG86uC2qlaR"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/04cCLOxEkrqYPk6GhSETkO"
+      },
+      "href": "https://api.spotify.com/v1/albums/04cCLOxEkrqYPk6GhSETkO",
+      "id": "04cCLOxEkrqYPk6GhSETkO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/767621658cbb146ef4ca092c8ebe607ca0fa83f5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d3301e996c268f0f38d55e5fb4dba1ddf2eab122",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ca703c367c7a3d475af075d88c55ea04b37a151b",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (DJ Criswell Remix)",
+      "release_date": "2018-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:04cCLOxEkrqYPk6GhSETkO"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7KuO3mvpWbSf7o7iR8fvOn"
+          },
+          "href": "https://api.spotify.com/v1/artists/7KuO3mvpWbSf7o7iR8fvOn",
+          "id": "7KuO3mvpWbSf7o7iR8fvOn",
+          "name": "Elemer",
+          "type": "artist",
+          "uri": "spotify:artist:7KuO3mvpWbSf7o7iR8fvOn"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5o59pEHruZnGJUcCyehNBf"
+      },
+      "href": "https://api.spotify.com/v1/albums/5o59pEHruZnGJUcCyehNBf",
+      "id": "5o59pEHruZnGJUcCyehNBf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6db1c2c325268786099f68e244042e39106d8863",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f693c0162567907cc78e36eefe0fa435812399b8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/646f0422d5bcbba3ed91316f88619cff88246082",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (Elemer Remix)",
+      "release_date": "2018-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5o59pEHruZnGJUcCyehNBf"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/165m8YN3rBIGS2BrmshPNB"
+          },
+          "href": "https://api.spotify.com/v1/artists/165m8YN3rBIGS2BrmshPNB",
+          "id": "165m8YN3rBIGS2BrmshPNB",
+          "name": "Nema Cutura",
+          "type": "artist",
+          "uri": "spotify:artist:165m8YN3rBIGS2BrmshPNB"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3TIr0srqUVcDCRCLnhzBBs"
+      },
+      "href": "https://api.spotify.com/v1/albums/3TIr0srqUVcDCRCLnhzBBs",
+      "id": "3TIr0srqUVcDCRCLnhzBBs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d5075701dc505ef579d5ab03283fe853b3256186",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9b08c5dd65d1ddc549f9c4628cd24d3645495d6f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/28878121335504698a1e4d17fa5573b4f81eeb0a",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (Nema Cutura Remix)",
+      "release_date": "2018-05-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3TIr0srqUVcDCRCLnhzBBs"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5v6CgRyYharxumHzMpzctL"
+          },
+          "href": "https://api.spotify.com/v1/artists/5v6CgRyYharxumHzMpzctL",
+          "id": "5v6CgRyYharxumHzMpzctL",
+          "name": "Midi Culture",
+          "type": "artist",
+          "uri": "spotify:artist:5v6CgRyYharxumHzMpzctL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0sdBl2YakeaGt6Kt96boXY"
+      },
+      "href": "https://api.spotify.com/v1/albums/0sdBl2YakeaGt6Kt96boXY",
+      "id": "0sdBl2YakeaGt6Kt96boXY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b49f1bfc83520ef6d556aea1c45fa0e739819130",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1b12af9406cda0bf8378cf1f2215cb425a750c69",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fe45b3cc3ea922b704f28712409e4c1bbe60c452",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (Midi Culture Remix)",
+      "release_date": "2018-05-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0sdBl2YakeaGt6Kt96boXY"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZlpXPwPvzYv6o6ngJkmmo"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ZlpXPwPvzYv6o6ngJkmmo",
+          "id": "2ZlpXPwPvzYv6o6ngJkmmo",
+          "name": "Vladish",
+          "type": "artist",
+          "uri": "spotify:artist:2ZlpXPwPvzYv6o6ngJkmmo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1FTYDFA0a6tWiGcFQFTL1f"
+      },
+      "href": "https://api.spotify.com/v1/albums/1FTYDFA0a6tWiGcFQFTL1f",
+      "id": "1FTYDFA0a6tWiGcFQFTL1f",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1a098e854a97990f35bb9fd2619fe52c50ea4135",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/eebde79040ba726ce27271529cab4513240d88ea",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/40c0e60c2c7d46269278a91ee6b9cbf6461de6de",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca (Vladish Remix)",
+      "release_date": "2018-05-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1FTYDFA0a6tWiGcFQFTL1f"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/70dqTiFt2SG6hNdwTD2IK8"
+      },
+      "href": "https://api.spotify.com/v1/albums/70dqTiFt2SG6hNdwTD2IK8",
+      "id": "70dqTiFt2SG6hNdwTD2IK8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/fc28617a15e388669e88d0244e47388137cd489d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/743b292c231299b0279cff37a657bec2e6dde22e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/526090ca2fb739298ae713dbf73f44ef0c9a0aec",
+          "width": 64
+        }
+      ],
+      "name": "Pentru Ca",
+      "release_date": "2018-04-26",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:70dqTiFt2SG6hNdwTD2IK8"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3pC13jKEk8g0kyb3K600Rv"
+      },
+      "href": "https://api.spotify.com/v1/albums/3pC13jKEk8g0kyb3K600Rv",
+      "id": "3pC13jKEk8g0kyb3K600Rv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/66bc08981d896d1210a24066b6727ccd9a7f06c8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/49728e6f3a49d0ba565c65b7b12b010f6f61414f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e8f4ae2f922d5f46b4666be044e9505f1994d2da",
+          "width": 64
+        }
+      ],
+      "name": "Nirvana (Remixes)",
+      "release_date": "2018-03-30",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:3pC13jKEk8g0kyb3K600Rv"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Cg9uxEU2I8SkXwdNaobLv"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Cg9uxEU2I8SkXwdNaobLv",
+      "id": "1Cg9uxEU2I8SkXwdNaobLv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/79887307056e288bfac8bd1f7fce79940a96141a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/62e58e177a4c32fa287a33096c6cd35d2a607d45",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e222c4f41f41bdda9bb7882e42b841f4b053af4a",
+          "width": 64
+        }
+      ],
+      "name": "Me Gusta",
+      "release_date": "2018-03-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1Cg9uxEU2I8SkXwdNaobLv"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+          },
+          "href": "https://api.spotify.com/v1/artists/1PFc84GHTYPL0G12JHh9Mc",
+          "id": "1PFc84GHTYPL0G12JHh9Mc",
+          "name": "Dannic",
+          "type": "artist",
+          "uri": "spotify:artist:1PFc84GHTYPL0G12JHh9Mc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3P5RyxRSauLp1Zj0kYeAK9"
+      },
+      "href": "https://api.spotify.com/v1/albums/3P5RyxRSauLp1Zj0kYeAK9",
+      "id": "3P5RyxRSauLp1Zj0kYeAK9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ca5d4e47d63c02d69efe7dc83d01b6ab51bed0e9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d5a6abc11ce2dcd8e06c2f32d4e6ea49a290a920",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/11cd405a8d4b61f7b912632ec5cdca4a75d28eec",
+          "width": 64
+        }
+      ],
+      "name": "Stay (feat. INNA)",
+      "release_date": "2018-03-09",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3P5RyxRSauLp1Zj0kYeAK9"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3y2HFZWWVg8VwbMdN8kyLt"
+      },
+      "href": "https://api.spotify.com/v1/albums/3y2HFZWWVg8VwbMdN8kyLt",
+      "id": "3y2HFZWWVg8VwbMdN8kyLt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9edf0f35ca4ab98b1e3c057367bc4da54dc97329",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4c4a1b059654ee3dede10dad2ca2b22091648305",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b5f589394d00d821207f3076e74457f24f0c2a07",
+          "width": 64
+        }
+      ],
+      "name": "Nirvana",
+      "release_date": "2018-01-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3y2HFZWWVg8VwbMdN8kyLt"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4JKEnEMQQAG3mkeRb3dmS8"
+      },
+      "href": "https://api.spotify.com/v1/albums/4JKEnEMQQAG3mkeRb3dmS8",
+      "id": "4JKEnEMQQAG3mkeRb3dmS8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/43fbbdd5dda9c091813ec8fff92ac392bb228051",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/bdcb43bb6f754dbe09e90661c5920a7e503552b1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a41d2f46a917de1187643398a9243638316fa85f",
+          "width": 64
+        }
+      ],
+      "name": "Ruleta (Remixes)",
+      "release_date": "2017-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:4JKEnEMQQAG3mkeRb3dmS8"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3wB5GhQ53pSmbQAcZCe0yw"
+      },
+      "href": "https://api.spotify.com/v1/albums/3wB5GhQ53pSmbQAcZCe0yw",
+      "id": "3wB5GhQ53pSmbQAcZCe0yw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d6fe77b37b04d69f047806fe4048c31434b2dd38",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/07b1c680d0d49e6881c51027adcd820501be41cd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6cbdbfa5092156b1e296e010a02f3a1c67d34017",
+          "width": 64
+        }
+      ],
+      "name": "Ruleta",
+      "release_date": "2017-07-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3wB5GhQ53pSmbQAcZCe0yw"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6HAY4AjDTrO89YkE1HJJ6n"
+      },
+      "href": "https://api.spotify.com/v1/albums/6HAY4AjDTrO89YkE1HJJ6n",
+      "id": "6HAY4AjDTrO89YkE1HJJ6n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6ceae17476a4f0f44fd3c9f4b848be07384fb251",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a308cdf43c0cf6bdc364c1680562da5389e9ca91",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7672764f3ecb914e62ceca4cab75d1c5c13084a3",
+          "width": 64
+        }
+      ],
+      "name": "INNA Hits (Remixed by Armageddon Turk)",
+      "release_date": "2017-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:6HAY4AjDTrO89YkE1HJJ6n"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3PUhRmdioFYRuFoPD11ls0"
+      },
+      "href": "https://api.spotify.com/v1/albums/3PUhRmdioFYRuFoPD11ls0",
+      "id": "3PUhRmdioFYRuFoPD11ls0",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/51a0354152cc4aabbfb76308cc577cf471e23f58",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/998cecc09e831b428671f7e7cc695f75ed15cf53",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2579a6f3055a5e04695cc78efd2a20f50ef4326d",
+          "width": 64
+        }
+      ],
+      "name": "Gimme Gimme (Andros Remix)",
+      "release_date": "2017-03-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3PUhRmdioFYRuFoPD11ls0"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3aD6v38gvpLvrrWvtj7otI"
+      },
+      "href": "https://api.spotify.com/v1/albums/3aD6v38gvpLvrrWvtj7otI",
+      "id": "3aD6v38gvpLvrrWvtj7otI",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/51a0354152cc4aabbfb76308cc577cf471e23f58",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/998cecc09e831b428671f7e7cc695f75ed15cf53",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2579a6f3055a5e04695cc78efd2a20f50ef4326d",
+          "width": 64
+        }
+      ],
+      "name": "Gimme Gimme (Ness Remix)",
+      "release_date": "2017-03-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3aD6v38gvpLvrrWvtj7otI"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2GI6omUKRJ7a8tY0S2nNFj"
+      },
+      "href": "https://api.spotify.com/v1/albums/2GI6omUKRJ7a8tY0S2nNFj",
+      "id": "2GI6omUKRJ7a8tY0S2nNFj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/595394818647efeecec5b3d57219f9b12bca5db6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/fe3749c4387f32a862b17e7eedf08794a815d719",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b8b0aa0e144b062ef0b51cdb51caf4308308230f",
+          "width": 64
+        }
+      ],
+      "name": "Gimme Gimme",
+      "release_date": "2017-02-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2GI6omUKRJ7a8tY0S2nNFj"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2RzF0uxGLzL5SFo55pgG4U"
+      },
+      "href": "https://api.spotify.com/v1/albums/2RzF0uxGLzL5SFo55pgG4U",
+      "id": "2RzF0uxGLzL5SFo55pgG4U",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/3ad03c8d759a3d6eae54da8875aea848b0f5882e",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ba084d4072197a198c5062cd0d65f99b2a8c6349",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/09bd4f3bf3c84d306272f8e86c15a1145dc9709c",
+          "width": 64
+        }
+      ],
+      "name": "Cum Ar Fi (Pascal Junior Remix)",
+      "release_date": "2016-11-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2RzF0uxGLzL5SFo55pgG4U"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0pp44LrwCqHh9i5YLeJkZj"
+      },
+      "href": "https://api.spotify.com/v1/albums/0pp44LrwCqHh9i5YLeJkZj",
+      "id": "0pp44LrwCqHh9i5YLeJkZj",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/3ad03c8d759a3d6eae54da8875aea848b0f5882e",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ba084d4072197a198c5062cd0d65f99b2a8c6349",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/09bd4f3bf3c84d306272f8e86c15a1145dc9709c",
+          "width": 64
+        }
+      ],
+      "name": "Cum ar fi",
+      "release_date": "2016-11-14",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:0pp44LrwCqHh9i5YLeJkZj"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6CLFBeQSotMRgbdHLlXofB"
+      },
+      "href": "https://api.spotify.com/v1/albums/6CLFBeQSotMRgbdHLlXofB",
+      "id": "6CLFBeQSotMRgbdHLlXofB",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/a183d3599559c0e7218d5cbe3f7f756ba8506d30",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/191acf226419b37359002919b547213f98358765",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/51326c10e85ab4b45486f302f5261a9e8ae57b90",
+          "width": 64
+        }
+      ],
+      "name": "Say It with Your Body",
+      "release_date": "2016-10-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6CLFBeQSotMRgbdHLlXofB"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2h8tJJnSUp1z45AiD8lGTp"
+      },
+      "href": "https://api.spotify.com/v1/albums/2h8tJJnSUp1z45AiD8lGTp",
+      "id": "2h8tJJnSUp1z45AiD8lGTp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5138dfef450fa69e2a39a89a7c824a842ee632df",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/28fc9781881ddd0c5b590171238c47e03804f5a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cb0cc8c1ea0fdc7608e9b657e7cdf8a05291d365",
+          "width": 64
+        }
+      ],
+      "name": "Rendez Vous",
+      "release_date": "2016-02-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2h8tJJnSUp1z45AiD8lGTp"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0abfQrQUMnzNyQbTid4gu9"
+      },
+      "href": "https://api.spotify.com/v1/albums/0abfQrQUMnzNyQbTid4gu9",
+      "id": "0abfQrQUMnzNyQbTid4gu9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/196c0671cce1a6744b657e82426278d9473fb59e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a86ed817f58fe5b54095c81fc310d41ac4ec240f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/351a704e35b4b535a137d48f757a0a7fba562013",
+          "width": 64
+        }
+      ],
+      "name": "Yalla (Remixes)",
+      "release_date": "2015-12-24",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:0abfQrQUMnzNyQbTid4gu9"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3GJQ3Nsh3NWNeZgGdQ83j0"
+      },
+      "href": "https://api.spotify.com/v1/albums/3GJQ3Nsh3NWNeZgGdQ83j0",
+      "id": "3GJQ3Nsh3NWNeZgGdQ83j0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d75c3e8735ac150d80c5a311575c6f5a50dd65f9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/703de3bec54ed6032a6cdbb205792d5d21b9fcc9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9a883acfaf42ca18a10868eca1bc707defd43772",
+          "width": 64
+        }
+      ],
+      "name": "Yalla - Single",
+      "release_date": "2015-11-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3GJQ3Nsh3NWNeZgGdQ83j0"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+          },
+          "href": "https://api.spotify.com/v1/artists/14dmbYen0AciYxu5n4Fkpd",
+          "id": "14dmbYen0AciYxu5n4Fkpd",
+          "name": "DJ Bobo",
+          "type": "artist",
+          "uri": "spotify:artist:14dmbYen0AciYxu5n4Fkpd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5jlxG6ZTut9lKl65g0BasA"
+      },
+      "href": "https://api.spotify.com/v1/albums/5jlxG6ZTut9lKl65g0BasA",
+      "id": "5jlxG6ZTut9lKl65g0BasA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e811abaf1b9fe363f38414a274ddf165fde80e89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/aa4d54d1d72493c82ef9d6c103f74391db206027",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c6cf3a9694fc5c6567a9d72835abaa50aa60bcfc",
+          "width": 64
+        }
+      ],
+      "name": "Everybody (Mike Candys Remix)",
+      "release_date": "2015-08-07",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:5jlxG6ZTut9lKl65g0BasA"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4rFg3ZAJDWmzkSpmg6ObDX"
+      },
+      "href": "https://api.spotify.com/v1/albums/4rFg3ZAJDWmzkSpmg6ObDX",
+      "id": "4rFg3ZAJDWmzkSpmg6ObDX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8e4bf9e5eef234f7c53664e9365a3312c0aa30ba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4d5cb9434c21dacfa4c9d3709965975a1a9282b2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/31c9d1d473d436fbd4d35f7bf13029f500f98bc7",
+          "width": 64
+        }
+      ],
+      "name": "Bop Bop (feat. Eric Turner)",
+      "release_date": "2015-07-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4rFg3ZAJDWmzkSpmg6ObDX"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0BmLNz4nSLfoWYW1cYsElL",
+          "id": "0BmLNz4nSLfoWYW1cYsElL",
+          "name": "Alexandra Stan",
+          "type": "artist",
+          "uri": "spotify:artist:0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/07eueB3iCKhE371PVIMPvH"
+      },
+      "href": "https://api.spotify.com/v1/albums/07eueB3iCKhE371PVIMPvH",
+      "id": "07eueB3iCKhE371PVIMPvH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/58c4c10431c7fc44e94543dd6885add0401179eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/feb48a115542b3c4c28f7be7efba9d9adf40fff0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e095ed440effbcffde2298ec532a77e0874eefb2",
+          "width": 64
+        }
+      ],
+      "name": "We Wanna",
+      "release_date": "2015-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:07eueB3iCKhE371PVIMPvH"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5XXNUf1JOPWFE2EK26MpA4"
+      },
+      "href": "https://api.spotify.com/v1/albums/5XXNUf1JOPWFE2EK26MpA4",
+      "id": "5XXNUf1JOPWFE2EK26MpA4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/72ee4ee431f2de9bd147ae931081568214d6c7dd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9c375a9fbdf28ab2b77ee356b47c721978184cf6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/18c0130f477c4bea174a1bdfb11c3130eb98f636",
+          "width": 64
+        }
+      ],
+      "name": "Diggy Down (feat. Marian Hill)",
+      "release_date": "2014-12-03",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5XXNUf1JOPWFE2EK26MpA4"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0LmEG3bIDEk1cpW0ckMOIn"
+      },
+      "href": "https://api.spotify.com/v1/albums/0LmEG3bIDEk1cpW0ckMOIn",
+      "id": "0LmEG3bIDEk1cpW0ckMOIn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/fb07b12759e7565cad9e78b1428c731cc2b7b22c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/78e14b95d1802cf33b7a3183aa0d8c621a9715e5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6daf658bfc12a3093f077edccdf36510f257058d",
+          "width": 64
+        }
+      ],
+      "name": "Take Me Higher",
+      "release_date": "2014-09-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0LmEG3bIDEk1cpW0ckMOIn"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7zY7XHPgFLYyfOj1nG0peV"
+      },
+      "href": "https://api.spotify.com/v1/albums/7zY7XHPgFLYyfOj1nG0peV",
+      "id": "7zY7XHPgFLYyfOj1nG0peV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a312bc32795051d0e2ac009dd3c5a872f34b3353",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b4240a95bf677a4b7fdf4041c65d10a9cb6f3469",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bcf8744391aba95b2c0563dbd961c1a522a3f336",
+          "width": 64
+        }
+      ],
+      "name": "Cola Song (feat. J Balvin)",
+      "release_date": "2014-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:7zY7XHPgFLYyfOj1nG0peV"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1MiqNzBTyRXLH4QMbJRkj9"
+      },
+      "href": "https://api.spotify.com/v1/albums/1MiqNzBTyRXLH4QMbJRkj9",
+      "id": "1MiqNzBTyRXLH4QMbJRkj9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/583523f3b6a86ceb94c576fc2e6a00fdd2a08810",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b905f82bea5001a8c8c7a01dbc31c7e8414da93a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/463b986deeda5c11010e61f5f79d30612b059837",
+          "width": 64
+        }
+      ],
+      "name": "Good Time (feat. Pitbull)",
+      "release_date": "2014-07-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1MiqNzBTyRXLH4QMbJRkj9"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+          "id": "2w9zwq3AktTeYYMuhMjju8",
+          "name": "INNA",
+          "type": "artist",
+          "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3153stlyNnwZT5tDZY6bZL"
+      },
+      "href": "https://api.spotify.com/v1/albums/3153stlyNnwZT5tDZY6bZL",
+      "id": "3153stlyNnwZT5tDZY6bZL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/822995b4661433c31e25c67126496531220bf353",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0ff6979a31a653245c99f6bc50de4b58f31fea5a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fabcadaa0eb8022bfa60b31b08f1e83d98620795",
+          "width": 64
+        }
+      ],
+      "name": "Cola Song (feat. J Balvin)",
+      "release_date": "2014-04-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3153stlyNnwZT5tDZY6bZL"
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8/albums?offset=50&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "offset": 0,
+  "previous": null,
+  "total": 109
+}

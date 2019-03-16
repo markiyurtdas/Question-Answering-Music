@@ -1,0 +1,2210 @@
+{
+  "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4fJzakARJP2UfOjSj5Q9s1"
+      },
+      "href": "https://api.spotify.com/v1/albums/4fJzakARJP2UfOjSj5Q9s1",
+      "id": "4fJzakARJP2UfOjSj5Q9s1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/05e5bfa44803e95d387c5a419604e09066c82eba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/bc4001f30e55c1b823133f86503d6196909ee061",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f5c6e9980a812dcd2effc8a438633a784c634aed",
+          "width": 64
+        }
+      ],
+      "name": "10",
+      "release_date": "2017-06-29",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4fJzakARJP2UfOjSj5Q9s1"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2aQVeTTX8pWySezhlVrEmU"
+      },
+      "href": "https://api.spotify.com/v1/albums/2aQVeTTX8pWySezhlVrEmU",
+      "id": "2aQVeTTX8pWySezhlVrEmU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/58708d6ab752bd71f57af82261725de0b114dbf0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/971ed47adb48af1c21fc959bdc42847eeeb28024",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/993636202bc44996840f571df57b17ce2d2b08f3",
+          "width": 64
+        }
+      ],
+      "name": "Ahde Vefa",
+      "release_date": "2016-03-11",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:2aQVeTTX8pWySezhlVrEmU"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/07WMV8iIHfOabKs2ztS8m3"
+      },
+      "href": "https://api.spotify.com/v1/albums/07WMV8iIHfOabKs2ztS8m3",
+      "id": "07WMV8iIHfOabKs2ztS8m3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6a0c882cd3e9bd9057febcb61054ccc9f6b1eec1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2bb7424b27608e3e2fcfc15b6bb0908982094608",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/579ddd81610e09940a90fa81e4bca32d6e440cb9",
+          "width": 64
+        }
+      ],
+      "name": "Adýmý Kalbine Yaz",
+      "release_date": "2010-07-12",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:07WMV8iIHfOabKs2ztS8m3"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0yoy3Hh3yFZGb2KdXw10GQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/0yoy3Hh3yFZGb2KdXw10GQ",
+      "id": "0yoy3Hh3yFZGb2KdXw10GQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aedbbf3589c3f6d3d6a14cd560413f8d628dc901",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/048b4a8096548ff215798ce0e1de6405a98c5fe6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c2f0f37769b053d8403ecd2bf2f69539dc7c4b2c",
+          "width": 64
+        }
+      ],
+      "name": "Metamorfoz Remixes",
+      "release_date": "2008-07-28",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0yoy3Hh3yFZGb2KdXw10GQ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5EQ1xbQhWAeZR9ZXKKG78I"
+      },
+      "href": "https://api.spotify.com/v1/albums/5EQ1xbQhWAeZR9ZXKKG78I",
+      "id": "5EQ1xbQhWAeZR9ZXKKG78I",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c2fc155c0fee7a2f39468fcc77d00d2752c04289",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/224104e5a2f540832e565e32c1057b3da260a0ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/80df13ceebebf5b91d534548fd324c71e5c46f44",
+          "width": 64
+        }
+      ],
+      "name": "Metamorfoz",
+      "release_date": "2007-12-17",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5EQ1xbQhWAeZR9ZXKKG78I"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2xkVkoJSMHvsiHP05RLvso"
+      },
+      "href": "https://api.spotify.com/v1/albums/2xkVkoJSMHvsiHP05RLvso",
+      "id": "2xkVkoJSMHvsiHP05RLvso",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/858fddcb9c19cc260ef832c24368d3cc631642bc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0b4c6c278318a6b24d8ca0c48f7fe935b5eca08e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/975f26bcbd1fb08c3dbfb6bbef8a1542675680a7",
+          "width": 64
+        }
+      ],
+      "name": "Come Closer",
+      "release_date": "2006-04-06",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:2xkVkoJSMHvsiHP05RLvso"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6KRSnxZYBwY1Ml1K15pEXc"
+      },
+      "href": "https://api.spotify.com/v1/albums/6KRSnxZYBwY1Ml1K15pEXc",
+      "id": "6KRSnxZYBwY1Ml1K15pEXc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/157d06cba03a206245391fd58881ab783bdd8d98",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7d5190e374e77aae6a08c1a5f6e3dcfcace4b771",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ba158915f7730e1e45e91d2f1f944aa4d6c704a3",
+          "width": 64
+        }
+      ],
+      "name": "Bounce",
+      "release_date": "2005-10-20",
+      "release_date_precision": "day",
+      "total_tracks": 7,
+      "type": "album",
+      "uri": "spotify:album:6KRSnxZYBwY1Ml1K15pEXc"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Ef8YFStO2a27lfMlhH9XR"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Ef8YFStO2a27lfMlhH9XR",
+      "id": "6Ef8YFStO2a27lfMlhH9XR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cb19b9f82147bf60becbf12915f4f347729f5fe4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/30bae90eb9731cc5ba2183a2dcd0075838b71f97",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c880d0e018e026f85e966949477f456a72d2d17c",
+          "width": 64
+        }
+      ],
+      "name": "Dudu",
+      "release_date": "2003-06-20",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6Ef8YFStO2a27lfMlhH9XR"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/65mRgbebDQ3Y6uzeLyN5PA"
+      },
+      "href": "https://api.spotify.com/v1/albums/65mRgbebDQ3Y6uzeLyN5PA",
+      "id": "65mRgbebDQ3Y6uzeLyN5PA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/75ce143137fa8a56c00e4bddf4aa72687b167c21",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/98624ccfa05cadc2e1d1d7d4f14421f629b2064d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6d0b76853178e76f1abae070b151631d8ab1ca4e",
+          "width": 64
+        }
+      ],
+      "name": "Hüp (Remix)",
+      "release_date": "2001-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:65mRgbebDQ3Y6uzeLyN5PA"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/32fmr8WaoHl7XJXnlzyVyX"
+      },
+      "href": "https://api.spotify.com/v1/albums/32fmr8WaoHl7XJXnlzyVyX",
+      "id": "32fmr8WaoHl7XJXnlzyVyX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/be1443cb39dbcbfcbcfa6a4a9f224397f1c4b762",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/51a942f70e02965a2baa76c2f3ca7b9b2d0d3dfd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b4e440f39d0f0e4f352ed4fd4b5bb54f061bc8d7",
+          "width": 64
+        }
+      ],
+      "name": "Kuzu Kuzu",
+      "release_date": "2001-01-25",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:32fmr8WaoHl7XJXnlzyVyX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
+      },
+      "href": "https://api.spotify.com/v1/albums/11KfFiHZxXiBoEq52HAsJi",
+      "id": "11KfFiHZxXiBoEq52HAsJi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a13f0e8cb580743999942da889958ac9d54e643e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/eb5ec18185b64481ce432c623159d4e053fb3252",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0ad7c71b32add95b2baac7f55b36ef1df2d40312",
+          "width": 64
+        }
+      ],
+      "name": "Karma",
+      "release_date": "2001",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:11KfFiHZxXiBoEq52HAsJi"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ebdbUXZn5AURKeRNXqiay",
+      "id": "6ebdbUXZn5AURKeRNXqiay",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/df136a90338003c21b1554be87841ca249b0ff5c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d0f64e70cf28f27f4ec4eb709498f18ce77b9f11",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d9cce925c183a2e6c6795eb49ae77b9f99a0b3e2",
+          "width": 64
+        }
+      ],
+      "name": "Ölürüm Sana",
+      "release_date": "1997",
+      "release_date_precision": "year",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:6ebdbUXZn5AURKeRNXqiay"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e"
+      },
+      "href": "https://api.spotify.com/v1/albums/06EBiLh3V0q2dOUdXnic7e",
+      "id": "06EBiLh3V0q2dOUdXnic7e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a8b10344c874089eb73ff0e91b5e4bdd0c4191b9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/625daf688255d876dd78b33b4ae2c5cfa03bb408",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f15856c512d64a93ec5e667dcfae0b8d5041e568",
+          "width": 64
+        }
+      ],
+      "name": "Aacayipsin",
+      "release_date": "1994",
+      "release_date_precision": "year",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:06EBiLh3V0q2dOUdXnic7e"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2N5Cp0xZ2gm0QqMWRCALQB"
+      },
+      "href": "https://api.spotify.com/v1/albums/2N5Cp0xZ2gm0QqMWRCALQB",
+      "id": "2N5Cp0xZ2gm0QqMWRCALQB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6ef7f8883a5e97c68f65d87dbf120fbbf62926a9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/08a970cf0c69c5385180bda9c8aa48858c101ddb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/629a92c822e44101e383662054fa3af7b84bd4f1",
+          "width": 64
+        }
+      ],
+      "name": "Yine Sensiz",
+      "release_date": "1993-06-21",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:2N5Cp0xZ2gm0QqMWRCALQB"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/23BlbL6DeyQgaPfSyfJkAt"
+      },
+      "href": "https://api.spotify.com/v1/albums/23BlbL6DeyQgaPfSyfJkAt",
+      "id": "23BlbL6DeyQgaPfSyfJkAt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/09897abfe98e8a3de63e161b5a783f44c9c3296a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/522d2f8696c05abaf76eceb22562ec21a35eb596",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a3ef56da9a52eefdfbf1b8ad54ec5e81e6303643",
+          "width": 64
+        }
+      ],
+      "name": "Yolla (Pop Orient Mix)",
+      "release_date": "2018-12-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:23BlbL6DeyQgaPfSyfJkAt"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0otSJG2LDqZRTXK1LAFN8P"
+      },
+      "href": "https://api.spotify.com/v1/albums/0otSJG2LDqZRTXK1LAFN8P",
+      "id": "0otSJG2LDqZRTXK1LAFN8P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f27a9f3db9828a28d7f0a1e851b9d911a4d35253",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/61bf734c78903b7b7cb267023af93e2a5660f556",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/92414d0ef09967abfbde9d6cb9c2e2e73e1e4883",
+          "width": 64
+        }
+      ],
+      "name": "Cuppa",
+      "release_date": "2016-07-14",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0otSJG2LDqZRTXK1LAFN8P"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4IMp5fNjMZwPCrhMGnHsX9"
+      },
+      "href": "https://api.spotify.com/v1/albums/4IMp5fNjMZwPCrhMGnHsX9",
+      "id": "4IMp5fNjMZwPCrhMGnHsX9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c610529b11e68dd46cab3a217e7bf2708524f442",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a782b0f3f08d502bddea4ebc91241f5e42cec5a8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fda06e0f5aa6bae03350cae9bb10ad0321ea113d",
+          "width": 64
+        }
+      ],
+      "name": "Kara Toprak",
+      "release_date": "2011",
+      "release_date_precision": "year",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4IMp5fNjMZwPCrhMGnHsX9"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3MbntMs0IVi9tR7OakhyUL"
+      },
+      "href": "https://api.spotify.com/v1/albums/3MbntMs0IVi9tR7OakhyUL",
+      "id": "3MbntMs0IVi9tR7OakhyUL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/222e5f8766cb871223b83e6a20cfa834fcdcd5f2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f6f231be69c2f0ca87752c045d26f1df9f76278a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/356b40344997ce14646fe24f60da308dbfe87109",
+          "width": 64
+        }
+      ],
+      "name": "Uyan",
+      "release_date": "2008-07-01",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:3MbntMs0IVi9tR7OakhyUL"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7LpiJDCKsaokbDb6k0ZIRm"
+      },
+      "href": "https://api.spotify.com/v1/albums/7LpiJDCKsaokbDb6k0ZIRm",
+      "id": "7LpiJDCKsaokbDb6k0ZIRm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6f95c96d23020c2219a92a2ec5d7c418fbec9780",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/26f4c490c7f381ffeab7c09a480622d72eef8dae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6c1088fc295ed9439f0bc2677d90224393bedf79",
+          "width": 64
+        }
+      ],
+      "name": "Start the Fire",
+      "release_date": "2006-09-07",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:7LpiJDCKsaokbDb6k0ZIRm"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1PepQbnYBRGH531lWuTqsI"
+      },
+      "href": "https://api.spotify.com/v1/albums/1PepQbnYBRGH531lWuTqsI",
+      "id": "1PepQbnYBRGH531lWuTqsI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dc6bbd7af59a7898424a973df54a8287f9cb8509",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/952ca7ce6296748789e34980eedb4f35561f70c4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/28d91590715aa5c75405e65ed870cb48bdeb92f0",
+          "width": 64
+        }
+      ],
+      "name": "Ayrýlýk Zor",
+      "release_date": "2005-05-02",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:1PepQbnYBRGH531lWuTqsI"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3LltPHJCUupOCPgFPOOssJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3LltPHJCUupOCPgFPOOssJ",
+      "id": "3LltPHJCUupOCPgFPOOssJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d71d64a719a3293a9edc72c86dd51e6b6652c68b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/91d06affa6a1af31dfe7fec0d58d6248a867e745",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/249f77477551889e275393e2362ae533438cb0ec",
+          "width": 64
+        }
+      ],
+      "name": "Bir Oluruz Yolunda",
+      "release_date": "2002-04-25",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:3LltPHJCUupOCPgFPOOssJ"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+          },
+          "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+          "id": "2yMN0IP20GOaN6q0p0zL5k",
+          "name": "Tarkan",
+          "type": "artist",
+          "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1nUq6VRLczH4fAwnVQuSU5"
+      },
+      "href": "https://api.spotify.com/v1/albums/1nUq6VRLczH4fAwnVQuSU5",
+      "id": "1nUq6VRLczH4fAwnVQuSU5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ccbcd3f44ca1780feaf666342b785f3861021448",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/83fc9c30365ca10e842ba1f77a740709c04ee333",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c0f67ef47df2012650ba33817a75e94384c3a6f0",
+          "width": 64
+        }
+      ],
+      "name": "Özgürlük içimizde",
+      "release_date": "2002",
+      "release_date_precision": "year",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:1nUq6VRLczH4fAwnVQuSU5"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0cHmPmxWjzFSTGHkfb9bi1"
+      },
+      "href": "https://api.spotify.com/v1/albums/0cHmPmxWjzFSTGHkfb9bi1",
+      "id": "0cHmPmxWjzFSTGHkfb9bi1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4918b0f85916b1b50f8e32f3da778ff3f88636e3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5acb71513d89d3411c573decb0307c1beea089e8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6f5b9e64407b5990395f18fdb9b5dba638bd541d",
+          "width": 64
+        }
+      ],
+      "name": "Ve Nazan Öncel Þarkýlarý",
+      "release_date": "2018-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:0cHmPmxWjzFSTGHkfb9bi1"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/78XamUAUXTbaM3ytY9aBJu"
+          },
+          "href": "https://api.spotify.com/v1/artists/78XamUAUXTbaM3ytY9aBJu",
+          "id": "78XamUAUXTbaM3ytY9aBJu",
+          "name": "Yaþar Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:78XamUAUXTbaM3ytY9aBJu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/62p5KLAC1tseifub2uuhoS"
+      },
+      "href": "https://api.spotify.com/v1/albums/62p5KLAC1tseifub2uuhoS",
+      "id": "62p5KLAC1tseifub2uuhoS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/36c0f77a4a6a39fa18ca0533876e1bb7f1e85713",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ce71472486b1968fadaeb345c7fc45f56e74914c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/abf2dbd85115d296b8ccf1acabb546ef436a0d2e",
+          "width": 64
+        }
+      ],
+      "name": "Alakasýz Þarkýlar, Vol. 1",
+      "release_date": "2017-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:62p5KLAC1tseifub2uuhoS"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1LxZvGa9e6yxEmab3xxIOo"
+      },
+      "href": "https://api.spotify.com/v1/albums/1LxZvGa9e6yxEmab3xxIOo",
+      "id": "1LxZvGa9e6yxEmab3xxIOo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e375f0e403a4253e09c55d959ea0f9baa68ddbd1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4b79f5f1174ae29b6d85cfc07dfeb0f1874eadf0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/745b10281ea83912d8c146a0a950d175a9ff8bbb",
+          "width": 64
+        }
+      ],
+      "name": "Kayahan'ýn En Ýyileri 1",
+      "release_date": "2015-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:1LxZvGa9e6yxEmab3xxIOo"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2l2sdc3srGk4fcn4RkkNr0"
+      },
+      "href": "https://api.spotify.com/v1/albums/2l2sdc3srGk4fcn4RkkNr0",
+      "id": "2l2sdc3srGk4fcn4RkkNr0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7bd4ff3f2e2d0550bc205bde1fc18e6e6ca751ef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/edf9d7b2015d056b1d575c4e40f8ca4233238908",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9d2f35178d0733ff3e888ea2b9e34387881529fc",
+          "width": 64
+        }
+      ],
+      "name": "Aþk Þarkýlarý, Vol. 2",
+      "release_date": "2014-02-10",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:2l2sdc3srGk4fcn4RkkNr0"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Bdl0yn7LkIjVNkIcA5qb5"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Bdl0yn7LkIjVNkIcA5qb5",
+          "id": "3Bdl0yn7LkIjVNkIcA5qb5",
+          "name": "Asena",
+          "type": "artist",
+          "uri": "spotify:artist:3Bdl0yn7LkIjVNkIcA5qb5"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5BUGRG0BXMXQ3dA5MaLyWO"
+      },
+      "href": "https://api.spotify.com/v1/albums/5BUGRG0BXMXQ3dA5MaLyWO",
+      "id": "5BUGRG0BXMXQ3dA5MaLyWO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/15ce659cd7295c87042e03892421854d9860a638",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/84cad8894a90710ffb2473178d1b524f847ece20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7734522ac9c0250e6f8ecd235b8af18b24269697",
+          "width": 64
+        }
+      ],
+      "name": "Asena, Vol. 1",
+      "release_date": "2014-01-15",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5BUGRG0BXMXQ3dA5MaLyWO"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut"
+          },
+          "href": "https://api.spotify.com/v1/artists/6xLv41SHPrVVfvyGd1M7ut",
+          "id": "6xLv41SHPrVVfvyGd1M7ut",
+          "name": "Ozan Doðulu",
+          "type": "artist",
+          "uri": "spotify:artist:6xLv41SHPrVVfvyGd1M7ut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3RBv7xzNiNq3UUha9y5guu"
+      },
+      "href": "https://api.spotify.com/v1/albums/3RBv7xzNiNq3UUha9y5guu",
+      "id": "3RBv7xzNiNq3UUha9y5guu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/23a757c964e197d944ddee2094cc426550d52206",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ead2472a09480e03fb959a0c8fbbf8ad5efc8b8b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/44e91f834b5d3c64cea45f5e1a0f706a86302ea0",
+          "width": 64
+        }
+      ],
+      "name": "130 Bpm Quartet",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "total_tracks": 37,
+      "type": "album",
+      "uri": "spotify:album:3RBv7xzNiNq3UUha9y5guu"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4li4dx5mFgZlMVeHlARBHP",
+          "id": "4li4dx5mFgZlMVeHlARBHP",
+          "name": "Nazan Öncel",
+          "type": "artist",
+          "uri": "spotify:artist:4li4dx5mFgZlMVeHlARBHP"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7cowm1nChIszYiHSR4Y2wm"
+      },
+      "href": "https://api.spotify.com/v1/albums/7cowm1nChIszYiHSR4Y2wm",
+      "id": "7cowm1nChIszYiHSR4Y2wm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0c5d9bdd1340fb33f929f9dc2454ae2eb6e4a469",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/640668054d050f3cb5eed2d75947cd4b7af4109b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/37d28d625cdc1e3b8005be30f073e43ce3c5f6f2",
+          "width": 64
+        }
+      ],
+      "name": "Bazý Þeyler",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:7cowm1nChIszYiHSR4Y2wm"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4BVMkN8p8RownQwZqSv3kI"
+      },
+      "href": "https://api.spotify.com/v1/albums/4BVMkN8p8RownQwZqSv3kI",
+      "id": "4BVMkN8p8RownQwZqSv3kI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/858d7ff76adf37bdb55830c33dc8c62429b88948",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/199b261fbac358135b124b566c3fc058ebc1ed23",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9fd1d57e5cc3cbe26d3ef0c36c0b440ad2d2b415",
+          "width": 64
+        }
+      ],
+      "name": "Hit 2014",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:4BVMkN8p8RownQwZqSv3kI"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/41rbd3YKGK2LiBty2QWmdN"
+          },
+          "href": "https://api.spotify.com/v1/artists/41rbd3YKGK2LiBty2QWmdN",
+          "id": "41rbd3YKGK2LiBty2QWmdN",
+          "name": "Iskender Paydas",
+          "type": "artist",
+          "uri": "spotify:artist:41rbd3YKGK2LiBty2QWmdN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4cXZZDrs1iLLUv8sM6bE8t"
+      },
+      "href": "https://api.spotify.com/v1/albums/4cXZZDrs1iLLUv8sM6bE8t",
+      "id": "4cXZZDrs1iLLUv8sM6bE8t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/24b0091ed1267429a4032148a097f480326cb992",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7cb363e2165f2115086afc7365d750384d502f7c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ec2add3fcfee5bdbf3446da62dc6177a8944192a",
+          "width": 64
+        }
+      ],
+      "name": "Hop De - Zamansýz Þarkýlar, Vol. 2",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4cXZZDrs1iLLUv8sM6bE8t"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/41rbd3YKGK2LiBty2QWmdN"
+          },
+          "href": "https://api.spotify.com/v1/artists/41rbd3YKGK2LiBty2QWmdN",
+          "id": "41rbd3YKGK2LiBty2QWmdN",
+          "name": "Iskender Paydas",
+          "type": "artist",
+          "uri": "spotify:artist:41rbd3YKGK2LiBty2QWmdN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1u0XcSG0gJgikIijiklOxw"
+      },
+      "href": "https://api.spotify.com/v1/albums/1u0XcSG0gJgikIijiklOxw",
+      "id": "1u0XcSG0gJgikIijiklOxw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c507f6c3f62be9bb4005b8cb14dd83db3852c60d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6f6380bd8d72d3fcdce15b1a176ad8c3c34979d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0f48de75505099833f80dd63365aaa8de74be2f7",
+          "width": 64
+        }
+      ],
+      "name": "Zamansýz Þarkýlar, Vol. 2",
+      "release_date": "2014",
+      "release_date_precision": "year",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1u0XcSG0gJgikIijiklOxw"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5LxM8IFLrXvMQq9xYvkfm1"
+      },
+      "href": "https://api.spotify.com/v1/albums/5LxM8IFLrXvMQq9xYvkfm1",
+      "id": "5LxM8IFLrXvMQq9xYvkfm1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bf4ac4335784d549b8a41419c12a8986d3c3db41",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/fd3215899be103bbb3244e81387c1b392b076cfc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e9b9d3ee3c6dc84bb39ea279714d552fdd843c1c",
+          "width": 64
+        }
+      ],
+      "name": "Orhan Gencebay Þarkýlarý, Vol. 1",
+      "release_date": "2013-11-27",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:5LxM8IFLrXvMQq9xYvkfm1"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hqQ9vRM886JrV2W2xWWV0"
+      },
+      "href": "https://api.spotify.com/v1/albums/0hqQ9vRM886JrV2W2xWWV0",
+      "id": "0hqQ9vRM886JrV2W2xWWV0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/93fbcd84fa78878874fdd8e06e29302eacadefc6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9e0ef9a52418034dcb31288769860ae70bd5657c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0a05ce63b258c7942daac1bc8e466e2cb53cc311",
+          "width": 64
+        }
+      ],
+      "name": "Aysel'in",
+      "release_date": "2013-06-25",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0hqQ9vRM886JrV2W2xWWV0"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4bWwXOUk1t8CoWbzLQv4o4"
+      },
+      "href": "https://api.spotify.com/v1/albums/4bWwXOUk1t8CoWbzLQv4o4",
+      "id": "4bWwXOUk1t8CoWbzLQv4o4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/da933a5c8d78f956c570f9f25c4b508561a18297",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0ed7ed7d4a827b306365b4219b9338a67b579e7e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/39907658e86c12281810b3e41a98a0bcb932bba4",
+          "width": 64
+        }
+      ],
+      "name": "Romantik Komedi, Vol. 2 (Bekarlýða Veda Soundtrack)",
+      "release_date": "2013-04-11",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:4bWwXOUk1t8CoWbzLQv4o4"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0VQqByPs0IkJziD1meZ4pr"
+      },
+      "href": "https://api.spotify.com/v1/albums/0VQqByPs0IkJziD1meZ4pr",
+      "id": "0VQqByPs0IkJziD1meZ4pr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/00a2d80a5053a3b655f46b6f16e88daa24b15acc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4946dc0bd89499154817fe7d4f2cf246c096d3b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/84834f8a8acaf1fa6007e6b9d000c1db525feb77",
+          "width": 64
+        }
+      ],
+      "name": "Bar de Lune presents Arabic Life",
+      "release_date": "2013-02-05",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:0VQqByPs0IkJziD1meZ4pr"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qMU11EGOWoOFrHlrHpbLd",
+          "id": "7qMU11EGOWoOFrHlrHpbLd",
+          "name": "Müzeyyen Senar",
+          "type": "artist",
+          "uri": "spotify:artist:7qMU11EGOWoOFrHlrHpbLd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4W7Eu7byykY9qjmgYp7nDe"
+      },
+      "href": "https://api.spotify.com/v1/albums/4W7Eu7byykY9qjmgYp7nDe",
+      "id": "4W7Eu7byykY9qjmgYp7nDe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ef156dc8e358b17c410cfcb09f290f0d3edc34aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/66fd4109dd57b35fd02c49f0407d37b6eb2d30bc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c23760bd2c298a14dfd96fcff7b2a942c0bb4aa6",
+          "width": 64
+        }
+      ],
+      "name": "Best of Müzeyyen Senar + Bir Ömre Bedel",
+      "release_date": "2013",
+      "release_date_precision": "year",
+      "total_tracks": 57,
+      "type": "album",
+      "uri": "spotify:album:4W7Eu7byykY9qjmgYp7nDe"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5aQtDeFrf910u6oSOMvvTx"
+      },
+      "href": "https://api.spotify.com/v1/albums/5aQtDeFrf910u6oSOMvvTx",
+      "id": "5aQtDeFrf910u6oSOMvvTx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d49a5c145d9de4b4be6c69a19423311956516684",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/06c937b463c1d5d8e8ee4cb1a78ed9bf5398c788",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/22675d29c6be94262a18286b7d5b4e6993bcb17a",
+          "width": 64
+        }
+      ],
+      "name": "Reina Istanbul Special - 10 Years",
+      "release_date": "2012-05-02",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5aQtDeFrf910u6oSOMvvTx"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1ekNbG3tiwZasW1bfHYpSO"
+          },
+          "href": "https://api.spotify.com/v1/artists/1ekNbG3tiwZasW1bfHYpSO",
+          "id": "1ekNbG3tiwZasW1bfHYpSO",
+          "name": "Ozan Çolakoðlu",
+          "type": "artist",
+          "uri": "spotify:artist:1ekNbG3tiwZasW1bfHYpSO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7jGD2aXIrMkc9XAR0ADgvq"
+      },
+      "href": "https://api.spotify.com/v1/albums/7jGD2aXIrMkc9XAR0ADgvq",
+      "id": "7jGD2aXIrMkc9XAR0ADgvq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8a54418d20d4ebb6a5a2f8c8d1afc4af478abc69",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/daefc9bcefdb8ebf1066a681e86822d04f7cf52e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/59d6db4dd89a2bf33c49bfd1c831650de4266d78",
+          "width": 64
+        }
+      ],
+      "name": "01",
+      "release_date": "2012",
+      "release_date_precision": "year",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:7jGD2aXIrMkc9XAR0ADgvq"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1KL5UsK6jh0K3D7wEfVv1W"
+      },
+      "href": "https://api.spotify.com/v1/albums/1KL5UsK6jh0K3D7wEfVv1W",
+      "id": "1KL5UsK6jh0K3D7wEfVv1W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/144a4bac6bd4f9563150a9199cb54d845cd1420a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a64b6baee2829ff96d70bb6fdb2a5541bcf54d98",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/32f3f0638e915293c85f61ea8431e1adfab5b142",
+          "width": 64
+        }
+      ],
+      "name": "Orhan Gencebay ile Bir Ömür, Vol.2",
+      "release_date": "2012",
+      "release_date_precision": "year",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:1KL5UsK6jh0K3D7wEfVv1W"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZXSO4o28gKUfDbnrwtPmd"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ZXSO4o28gKUfDbnrwtPmd",
+          "id": "4ZXSO4o28gKUfDbnrwtPmd",
+          "name": "Bülent Ersoy",
+          "type": "artist",
+          "uri": "spotify:artist:4ZXSO4o28gKUfDbnrwtPmd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3TtOXQxdy6fKdWnWxS4igx"
+      },
+      "href": "https://api.spotify.com/v1/albums/3TtOXQxdy6fKdWnWxS4igx",
+      "id": "3TtOXQxdy6fKdWnWxS4igx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/00592b87725f14087214097c24f13ee2c00c88b0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/28a68ee6befc9e49989d58b0d67b334280fe44c3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/95706abdc17a617075aad635476fc715a1a00449",
+          "width": 64
+        }
+      ],
+      "name": "Aþktan Sabýkalý",
+      "release_date": "2011-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3TtOXQxdy6fKdWnWxS4igx"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/48YY6aiKWaZArUgoH6tcuW"
+      },
+      "href": "https://api.spotify.com/v1/albums/48YY6aiKWaZArUgoH6tcuW",
+      "id": "48YY6aiKWaZArUgoH6tcuW",
+      "images": [
+        {
+          "height": 560,
+          "url": "https://i.scdn.co/image/95fb5db6687d212edeae16f18906b5ccb604eb2e",
+          "width": 640
+        },
+        {
+          "height": 262,
+          "url": "https://i.scdn.co/image/6a70ed9b7b7927cef1591a06569d9399aee1e21f",
+          "width": 300
+        },
+        {
+          "height": 56,
+          "url": "https://i.scdn.co/image/1d09704f431181710ddf5046911889000d078197",
+          "width": 64
+        }
+      ],
+      "name": "100 Beats: Arabica",
+      "release_date": "2011-04-05",
+      "release_date_precision": "day",
+      "total_tracks": 100,
+      "type": "album",
+      "uri": "spotify:album:48YY6aiKWaZArUgoH6tcuW"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0UyDbmVHKEREbUyFTNc9mf"
+          },
+          "href": "https://api.spotify.com/v1/artists/0UyDbmVHKEREbUyFTNc9mf",
+          "id": "0UyDbmVHKEREbUyFTNc9mf",
+          "name": "Suat Ateþdaðlý",
+          "type": "artist",
+          "uri": "spotify:artist:0UyDbmVHKEREbUyFTNc9mf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6yy49wWkJsid25jKjItV20"
+      },
+      "href": "https://api.spotify.com/v1/albums/6yy49wWkJsid25jKjItV20",
+      "id": "6yy49wWkJsid25jKjItV20",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ddaf6761c9ceef1ea067f88e058df8b5c64c7628",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cd105ef4dee1b3106aa8c6a7cfcbf9d16729612b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/73939dbfbe235b79869a874dc06a7f33297b8eaf",
+          "width": 64
+        }
+      ],
+      "name": "Bosphorus Night, Vol. 4",
+      "release_date": "2011-04-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6yy49wWkJsid25jKjItV20"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3SxUY2VunulkJkj7klCtzj"
+      },
+      "href": "https://api.spotify.com/v1/albums/3SxUY2VunulkJkj7klCtzj",
+      "id": "3SxUY2VunulkJkj7klCtzj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/48bff489a44a4a617d29ecec4892b5c5c11113dc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/de7075cf5cd1d303bfa29afde08c92b847e115e3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a3104a2e3a4d47871274ec70b01a115ac558b102",
+          "width": 64
+        }
+      ],
+      "name": "Söz & Müzik Ümit Sayýn",
+      "release_date": "2011-03-07",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3SxUY2VunulkJkj7klCtzj"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Uxd5x92nW0Q06DoHcpSBJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Uxd5x92nW0Q06DoHcpSBJ",
+          "id": "2Uxd5x92nW0Q06DoHcpSBJ",
+          "name": "Enbe Orkestrasý",
+          "type": "artist",
+          "uri": "spotify:artist:2Uxd5x92nW0Q06DoHcpSBJ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2STwQXPSiZEs1qQGwAQ7TW"
+      },
+      "href": "https://api.spotify.com/v1/albums/2STwQXPSiZEs1qQGwAQ7TW",
+      "id": "2STwQXPSiZEs1qQGwAQ7TW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/02d18bb2c98e1a06df43c8a3adfbd3f3b58b9306",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9b37eafe17c498510624d6c620e0e1f20f9d8ccb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/667ca71cce28f5919d686c406cca295ba009395a",
+          "width": 64
+        }
+      ],
+      "name": "Kalbim",
+      "release_date": "2010-12-01",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2STwQXPSiZEs1qQGwAQ7TW"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0UyDbmVHKEREbUyFTNc9mf"
+          },
+          "href": "https://api.spotify.com/v1/artists/0UyDbmVHKEREbUyFTNc9mf",
+          "id": "0UyDbmVHKEREbUyFTNc9mf",
+          "name": "Suat Ateþdaðlý",
+          "type": "artist",
+          "uri": "spotify:artist:0UyDbmVHKEREbUyFTNc9mf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3dHQ5Ely1Vo59ijjeeHWdL"
+      },
+      "href": "https://api.spotify.com/v1/albums/3dHQ5Ely1Vo59ijjeeHWdL",
+      "id": "3dHQ5Ely1Vo59ijjeeHWdL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1c651d2b1d859e25d591037077f73cfcd3a41087",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6275408e345099e4ce362fda93120a28fa0dc0c1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a014aa5301a891704b923fd9a887741cc8339835",
+          "width": 64
+        }
+      ],
+      "name": "Snob Black",
+      "release_date": "2010-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:3dHQ5Ely1Vo59ijjeeHWdL"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut"
+          },
+          "href": "https://api.spotify.com/v1/artists/6xLv41SHPrVVfvyGd1M7ut",
+          "id": "6xLv41SHPrVVfvyGd1M7ut",
+          "name": "Ozan Doðulu",
+          "type": "artist",
+          "uri": "spotify:artist:6xLv41SHPrVVfvyGd1M7ut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5AW5T48YywJb1YfqroKCfs"
+      },
+      "href": "https://api.spotify.com/v1/albums/5AW5T48YywJb1YfqroKCfs",
+      "id": "5AW5T48YywJb1YfqroKCfs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ac9c25d64fafcee61f168da24e36e33177a08e73",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/bc9cea936e89d499ea7d12189cdf938821f8f2b9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c1bbdd38f5a67631618e474b7eb10fbdfef9c9d5",
+          "width": 64
+        }
+      ],
+      "name": "130 Bpm",
+      "release_date": "2010-06-15",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:5AW5T48YywJb1YfqroKCfs"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/70rMWfPwcXFRKHOPZ5LwQd"
+      },
+      "href": "https://api.spotify.com/v1/albums/70rMWfPwcXFRKHOPZ5LwQd",
+      "id": "70rMWfPwcXFRKHOPZ5LwQd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/121dbf311a46709c8b6743c12ea2d27111d02930",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/87d68e7a4296039f38d1931dafa98c0b1075b31c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/62c9719cf0356f7047ffef8fbe2fba19ef250b7b",
+          "width": 64
+        }
+      ],
+      "name": "Bosphorus Night, Vol. 3 (By Suat Ateþdaðlý)",
+      "release_date": "2009-04-02",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:70rMWfPwcXFRKHOPZ5LwQd"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0yexwPip28Iog3UH49RMk8"
+      },
+      "href": "https://api.spotify.com/v1/albums/0yexwPip28Iog3UH49RMk8",
+      "id": "0yexwPip28Iog3UH49RMk8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c555d97fb33ceb3a0ac0ce0491e0ba69e06a1696",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/302365e01846657e587d2f79d93638802847fcc7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/edce61d772e7bc2970b40ede897d0d1db4eedd88",
+          "width": 64
+        }
+      ],
+      "name": "Ýz",
+      "release_date": "2008-07-14",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0yexwPip28Iog3UH49RMk8"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Mj20Zm7PRpGzoNN453mSq"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Mj20Zm7PRpGzoNN453mSq",
+          "id": "6Mj20Zm7PRpGzoNN453mSq",
+          "name": "Fahir Atakoðlu",
+          "type": "artist",
+          "uri": "spotify:artist:6Mj20Zm7PRpGzoNN453mSq"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5K3VV9ERNmpTS9sCzFwoHr"
+      },
+      "href": "https://api.spotify.com/v1/albums/5K3VV9ERNmpTS9sCzFwoHr",
+      "id": "5K3VV9ERNmpTS9sCzFwoHr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0499702aa4892b8d102af0f1ec5e5db827437a0a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/87a32c4ba2c64fdeba39a5c686c71624157e1dd4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c975d28aa51b36c3d5cf946643cd4552a913fff2",
+          "width": 64
+        }
+      ],
+      "name": "Iz",
+      "release_date": "2008-02-08",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5K3VV9ERNmpTS9sCzFwoHr"
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k/albums?offset=50&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "offset": 0,
+  "previous": null,
+  "total": 55
+}

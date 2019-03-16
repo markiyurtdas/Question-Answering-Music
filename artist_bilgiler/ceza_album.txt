@@ -1,0 +1,2240 @@
+{
+  "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1VQUcp2UiwP7EEqGlbWRjg"
+      },
+      "href": "https://api.spotify.com/v1/albums/1VQUcp2UiwP7EEqGlbWRjg",
+      "id": "1VQUcp2UiwP7EEqGlbWRjg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7fd6b39455227e8be79142433cc0d8d05cd4bffc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3291057d99e4cab251cac3f930eeaca8b40202aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/49ae74d1c6a35ee55e65937e41a134ba62d49827",
+          "width": 64
+        }
+      ],
+      "name": "Suspus",
+      "release_date": "2015-05-06",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:1VQUcp2UiwP7EEqGlbWRjg"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7aB9tgAIH10tgawGPxNnyp"
+      },
+      "href": "https://api.spotify.com/v1/albums/7aB9tgAIH10tgawGPxNnyp",
+      "id": "7aB9tgAIH10tgawGPxNnyp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3185c8290cd7cab5a6ddc3b3f21a1518a85d567d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c698b87fd7cb8c8649813c2773bf996288852a4b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/289e0283b316e69e95e5766db271ff95c41f65b1",
+          "width": 64
+        }
+      ],
+      "name": "Onuncu Köy",
+      "release_date": "2010-06-16",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:7aB9tgAIH10tgawGPxNnyp"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HLErdUiPhh7mg5AxVEAX0"
+          },
+          "href": "https://api.spotify.com/v1/artists/7HLErdUiPhh7mg5AxVEAX0",
+          "id": "7HLErdUiPhh7mg5AxVEAX0",
+          "name": "Killa Hakan",
+          "type": "artist",
+          "uri": "spotify:artist:7HLErdUiPhh7mg5AxVEAX0"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2uPjh1XNy2UqHgvcw0EJak"
+      },
+      "href": "https://api.spotify.com/v1/albums/2uPjh1XNy2UqHgvcw0EJak",
+      "id": "2uPjh1XNy2UqHgvcw0EJak",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b98404c3651a4facc9950dc14c1ee5e3560b3144",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ed1c333101c084ec8cb2bb9ccc539bddc844dbc7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cd9b85ffa4c86c5d43fd7a1a9a47e641162645c9",
+          "width": 64
+        }
+      ],
+      "name": "Bomba Plak",
+      "release_date": "2008-12-24",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:2uPjh1XNy2UqHgvcw0EJak"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/10CwjWqsjmBVbs1eOHcFz5"
+      },
+      "href": "https://api.spotify.com/v1/albums/10CwjWqsjmBVbs1eOHcFz5",
+      "id": "10CwjWqsjmBVbs1eOHcFz5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d90a710e2dbaad6537bfb0c38d7b23f5285db606",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/203b2710d7744d320b4954a64641cdd9a1b62b53",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab9965fb3ec65e9cdc87039114cf7f90cd9b8dc2",
+          "width": 64
+        }
+      ],
+      "name": "Yerli Plaka",
+      "release_date": "2007-02-13",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:10CwjWqsjmBVbs1eOHcFz5"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2rXqr1wMTX1ULlszIUT1lr"
+      },
+      "href": "https://api.spotify.com/v1/albums/2rXqr1wMTX1ULlszIUT1lr",
+      "id": "2rXqr1wMTX1ULlszIUT1lr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/acc0af4493f7234c96363997c999566f3cb021de",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e902e5f23c693c9869a8a53c43999f75c6050aba",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0ffe00ad397280b5afa6860b100581ea4cc85e17",
+          "width": 64
+        }
+      ],
+      "name": "Rapstar",
+      "release_date": "2004-07-01",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:2rXqr1wMTX1ULlszIUT1lr"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3DO0zQlMhCOttXi6mCTnC8"
+      },
+      "href": "https://api.spotify.com/v1/albums/3DO0zQlMhCOttXi6mCTnC8",
+      "id": "3DO0zQlMhCOttXi6mCTnC8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f9ce6868cab624cd14488a884f00100ddab05457",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/19e6684f274833b0cd28f15a55e9edbfeb930240",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/598b08e57a68ffca8838bc1f2aa87e30eaf8aa90",
+          "width": 64
+        }
+      ],
+      "name": "Medcezir",
+      "release_date": "2002-02-02",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:3DO0zQlMhCOttXi6mCTnC8"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6GSzKpUZexDhXE2oCJV4pI"
+      },
+      "href": "https://api.spotify.com/v1/albums/6GSzKpUZexDhXE2oCJV4pI",
+      "id": "6GSzKpUZexDhXE2oCJV4pI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c1b6d3448038e5b786195055a54ba6fc8e6b4b4c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/38643681a8285d558862ee496191369088c8ebda",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6eea551b35283786c9a941d40c57bc758cac9996",
+          "width": 64
+        }
+      ],
+      "name": "Bi Liran Var Mý ?",
+      "release_date": "2018-12-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6GSzKpUZexDhXE2oCJV4pI"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3VKDs4No5QgeKVINwG2T5s"
+      },
+      "href": "https://api.spotify.com/v1/albums/3VKDs4No5QgeKVINwG2T5s",
+      "id": "3VKDs4No5QgeKVINwG2T5s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cb98c7c32eb221fccf5f38a4b13dcd13433b2226",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/414214384c8f67430b84d42bf4ab233616244aca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4f534843fcbb9c84f4eeb713e0a1e089dfd55d61",
+          "width": 64
+        }
+      ],
+      "name": "Denizci",
+      "release_date": "2018-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3VKDs4No5QgeKVINwG2T5s"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0kxGbgAEItL9u1DCxUfvJz"
+      },
+      "href": "https://api.spotify.com/v1/albums/0kxGbgAEItL9u1DCxUfvJz",
+      "id": "0kxGbgAEItL9u1DCxUfvJz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/fe2f82e01613dfbd83e90301863f119da6f10f4a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e483ab8075de3b9d28982e3f819ad4f2eb9bbc27",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d9f97add90a15880baa9c042b83b4177954572f2",
+          "width": 64
+        }
+      ],
+      "name": "Türk Marþý",
+      "release_date": "2012-11-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0kxGbgAEItL9u1DCxUfvJz"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1YVYB5MG0REfVZlhsbc7DL"
+      },
+      "href": "https://api.spotify.com/v1/albums/1YVYB5MG0REfVZlhsbc7DL",
+      "id": "1YVYB5MG0REfVZlhsbc7DL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e6771d10e7bda89fd96df76242bd4b975c046a7a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6787b97c5423ebcd66fc1325f6c3a310f2a056d0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ce5828412043cd7f050bb9c8ff1798652a6a361c",
+          "width": 64
+        }
+      ],
+      "name": "Sen De Biraz Delisin (Organize Oluyoruz Vol. 1)",
+      "release_date": "2011-06-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1YVYB5MG0REfVZlhsbc7DL"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/54C8b74XQl35SpnDt3ilS8"
+      },
+      "href": "https://api.spotify.com/v1/albums/54C8b74XQl35SpnDt3ilS8",
+      "id": "54C8b74XQl35SpnDt3ilS8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aa2b6e17bd9f4bbcbcce2b0be5679fa8b7207295",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/866257e7153ecaae56e1f327e1ad4cab0f275046",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/43aa78812b302eee03c0ccfafc692f1b7d4b9f05",
+          "width": 64
+        }
+      ],
+      "name": "Artýk Suç Deðil Sevgi Ýþleyin (Yüksek Gerilim)",
+      "release_date": "2010-08-02",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:54C8b74XQl35SpnDt3ilS8"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
+          },
+          "href": "https://api.spotify.com/v1/artists/2RQ8NtUmg5y6tfbvCwX8jI",
+          "id": "2RQ8NtUmg5y6tfbvCwX8jI",
+          "name": "Kenan Doðulu",
+          "type": "artist",
+          "uri": "spotify:artist:2RQ8NtUmg5y6tfbvCwX8jI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
+          },
+          "href": "https://api.spotify.com/v1/artists/4Bdqzh78prwuqwInMb555P",
+          "id": "4Bdqzh78prwuqwInMb555P",
+          "name": "Pinhani",
+          "type": "artist",
+          "uri": "spotify:artist:4Bdqzh78prwuqwInMb555P"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4566dnB2oKIx1az0c0baDy"
+      },
+      "href": "https://api.spotify.com/v1/albums/4566dnB2oKIx1az0c0baDy",
+      "id": "4566dnB2oKIx1az0c0baDy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/746df407e73fefee91207ad28a33458d84ff0c7b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/14e67be19750c785d97520517191043241910f54",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6c520490195480785aaa445604a7eb9c83493131",
+          "width": 64
+        }
+      ],
+      "name": "Festival 2009",
+      "release_date": "2009",
+      "release_date_precision": "year",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:4566dnB2oKIx1az0c0baDy"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+          },
+          "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+          "id": "28Qbi9jTj2eej21P2mImZI",
+          "name": "Ceza",
+          "type": "artist",
+          "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ak26akOPzQO4saOs1IYRo"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ak26akOPzQO4saOs1IYRo",
+      "id": "3ak26akOPzQO4saOs1IYRo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/be2d8042cb998a7950ed5882a3f4eb1d70f39d59",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/48d09b9d5e0351b342423b9acc367b50a17dd521",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/a5d50baff6ca34e51ca38312e8a08149b4054caf",
+          "width": 64
+        }
+      ],
+      "name": "Feyz Al",
+      "release_date": "2006",
+      "release_date_precision": "year",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:3ak26akOPzQO4saOs1IYRo"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BIstgCvSej0qux7NXoorb"
+          },
+          "href": "https://api.spotify.com/v1/artists/1BIstgCvSej0qux7NXoorb",
+          "id": "1BIstgCvSej0qux7NXoorb",
+          "name": "Matteo",
+          "type": "artist",
+          "uri": "spotify:artist:1BIstgCvSej0qux7NXoorb"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2szOjtp5oL9xcSlPFjJ6jK"
+      },
+      "href": "https://api.spotify.com/v1/albums/2szOjtp5oL9xcSlPFjJ6jK",
+      "id": "2szOjtp5oL9xcSlPFjJ6jK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bbe1fbe49268b680dad140223ebc80ae82297b19",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8f2413ec5b20aa30a0e775985909376904b993cd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/882edc6e7de0611d4a6c7faaa46eeccf6adf9282",
+          "width": 64
+        }
+      ],
+      "name": "Scaglia",
+      "release_date": "2018-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2szOjtp5oL9xcSlPFjJ6jK"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZWZXikULqt9U0f3oR2SgP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZWZXikULqt9U0f3oR2SgP",
+          "id": "5ZWZXikULqt9U0f3oR2SgP",
+          "name": "Haze Rap",
+          "type": "artist",
+          "uri": "spotify:artist:5ZWZXikULqt9U0f3oR2SgP"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7xjcI4NrFcDY0StQB92fP8"
+      },
+      "href": "https://api.spotify.com/v1/albums/7xjcI4NrFcDY0StQB92fP8",
+      "id": "7xjcI4NrFcDY0StQB92fP8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1a3c0e1c867f7db59a49c95fdf68353f217df47c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f3f8e01989a7adf0173ad21414ee8b09023c2d96",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5e88073886ee7bced08002a4f3b028e718ca54f4",
+          "width": 64
+        }
+      ],
+      "name": "Nós Dois É o Trem",
+      "release_date": "2018-11-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7xjcI4NrFcDY0StQB92fP8"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ekFq5fQY5a5UX7mEu17s1"
+          },
+          "href": "https://api.spotify.com/v1/artists/2ekFq5fQY5a5UX7mEu17s1",
+          "id": "2ekFq5fQY5a5UX7mEu17s1",
+          "name": "VV Clã",
+          "type": "artist",
+          "uri": "spotify:artist:2ekFq5fQY5a5UX7mEu17s1"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5KEsW9cCWSgq71SnygstFS"
+      },
+      "href": "https://api.spotify.com/v1/albums/5KEsW9cCWSgq71SnygstFS",
+      "id": "5KEsW9cCWSgq71SnygstFS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/04c88c599de640ac9678ad4d7abb50b14753b47d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/05d80d332ca091aaa4cdeede50a1e4c7cbd6ae97",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2625e084f73319f5cf1d9c94aadbeee2045581eb",
+          "width": 64
+        }
+      ],
+      "name": "High",
+      "release_date": "2018-11-15",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5KEsW9cCWSgq71SnygstFS"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nB1a3hqZj8y8uEa7SPMPJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nB1a3hqZj8y8uEa7SPMPJ",
+          "id": "6nB1a3hqZj8y8uEa7SPMPJ",
+          "name": "Gekko G",
+          "type": "artist",
+          "uri": "spotify:artist:6nB1a3hqZj8y8uEa7SPMPJ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5vkHy6vVSYozw9Uf5cO7Ar"
+      },
+      "href": "https://api.spotify.com/v1/albums/5vkHy6vVSYozw9Uf5cO7Ar",
+      "id": "5vkHy6vVSYozw9Uf5cO7Ar",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5fdb75f28f1c2477da470c12c9d74f8c73ce8a14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7009fdeec7adf1ea608c484586470047ad3beb29",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8bd26754d6979b026eee80d13fd31a3746cc1120",
+          "width": 64
+        }
+      ],
+      "name": "Zirve",
+      "release_date": "2018-09-07",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:5vkHy6vVSYozw9Uf5cO7Ar"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40bYqIaccudTMs82AcD335"
+          },
+          "href": "https://api.spotify.com/v1/artists/40bYqIaccudTMs82AcD335",
+          "id": "40bYqIaccudTMs82AcD335",
+          "name": "Jovem Flap",
+          "type": "artist",
+          "uri": "spotify:artist:40bYqIaccudTMs82AcD335"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3NvkyUMRfE3bJjnS86OuDG"
+      },
+      "href": "https://api.spotify.com/v1/albums/3NvkyUMRfE3bJjnS86OuDG",
+      "id": "3NvkyUMRfE3bJjnS86OuDG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3c07eba2f2a709b86395c4db2261f2f8bbb8340f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a74eead246c4a38dfd47912c2928fd61327ed62d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2b191ca43e54ab36f7562634cbb22e7c7bfb5cae",
+          "width": 64
+        }
+      ],
+      "name": "Deja Vu (Mixtape)",
+      "release_date": "2018-08-16",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:3NvkyUMRfE3bJjnS86OuDG"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ZWZXikULqt9U0f3oR2SgP"
+          },
+          "href": "https://api.spotify.com/v1/artists/5ZWZXikULqt9U0f3oR2SgP",
+          "id": "5ZWZXikULqt9U0f3oR2SgP",
+          "name": "Haze Rap",
+          "type": "artist",
+          "uri": "spotify:artist:5ZWZXikULqt9U0f3oR2SgP"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ZzB5uZ20q4gyFTnt4csbX"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ZzB5uZ20q4gyFTnt4csbX",
+      "id": "2ZzB5uZ20q4gyFTnt4csbX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9fc67a8d57e6af2be72b05291ccc5cb61bdc74f3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/449295adbb25e4eb18ae99f6377f6c128b7a1670",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab62287e9a8907f0ed654dd6a570abfb1637fd3b",
+          "width": 64
+        }
+      ],
+      "name": "Gucci Lady",
+      "release_date": "2018-04-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2ZzB5uZ20q4gyFTnt4csbX"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4B744cRUGT2IOu9Uuh7Ad7"
+          },
+          "href": "https://api.spotify.com/v1/artists/4B744cRUGT2IOu9Uuh7Ad7",
+          "id": "4B744cRUGT2IOu9Uuh7Ad7",
+          "name": "Ayben",
+          "type": "artist",
+          "uri": "spotify:artist:4B744cRUGT2IOu9Uuh7Ad7"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0f9m9vsWWDGCoUsp9dkIvi"
+      },
+      "href": "https://api.spotify.com/v1/albums/0f9m9vsWWDGCoUsp9dkIvi",
+      "id": "0f9m9vsWWDGCoUsp9dkIvi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/328354d74f9884c36cbf999e76b15cbaf2c79fd3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/61bfc02c70e5ab6fb8d1039db02b50226ba08677",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8b1028e30143d71e6371cde8afbd1d17d00b7832",
+          "width": 64
+        }
+      ],
+      "name": "Baþkan",
+      "release_date": "2017-11-24",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0f9m9vsWWDGCoUsp9dkIvi"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3vJJGsSAF5zQegZo5sJEh6",
+          "id": "3vJJGsSAF5zQegZo5sJEh6",
+          "name": "Can Bonomo",
+          "type": "artist",
+          "uri": "spotify:artist:3vJJGsSAF5zQegZo5sJEh6"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/77YZKaEgNmRir1hcQURskz"
+      },
+      "href": "https://api.spotify.com/v1/albums/77YZKaEgNmRir1hcQURskz",
+      "id": "77YZKaEgNmRir1hcQURskz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a6cb4411c4de24111d9e2e91bfa75b3d8bdcb4c1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9bae9cf5020b10531d88486b571f7e5dc42872b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4111dba81355b3e3d64f698e3fdd8005d6eebe75",
+          "width": 64
+        }
+      ],
+      "name": "Kâinat Sustu",
+      "release_date": "2017-03-03",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:77YZKaEgNmRir1hcQURskz"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9"
+          },
+          "href": "https://api.spotify.com/v1/artists/6hxb4rGrYXtrAZbUK7uzt9",
+          "id": "6hxb4rGrYXtrAZbUK7uzt9",
+          "name": "Sansar Salvo",
+          "type": "artist",
+          "uri": "spotify:artist:6hxb4rGrYXtrAZbUK7uzt9"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ma28T1gi5ZmB8sDbgPJLD"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ma28T1gi5ZmB8sDbgPJLD",
+      "id": "6ma28T1gi5ZmB8sDbgPJLD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e3f9121ba6f16672d80ac1fa5d1628040762c124",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/29648ba883fd171bf0a77e29715853bd502ce0ad",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7aa826292aa87754be90a151cdcdbb690d52919c",
+          "width": 64
+        }
+      ],
+      "name": "Þimdi Sans",
+      "release_date": "2017-02-17",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:6ma28T1gi5ZmB8sDbgPJLD"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qEe41eKKbBS39DqP2OtbX"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qEe41eKKbBS39DqP2OtbX",
+          "id": "7qEe41eKKbBS39DqP2OtbX",
+          "name": "The Orchestra of Syrian Musicians & Guests",
+          "type": "artist",
+          "uri": "spotify:artist:7qEe41eKKbBS39DqP2OtbX"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/06t9KCN62qb25VPZkUl31T"
+      },
+      "href": "https://api.spotify.com/v1/albums/06t9KCN62qb25VPZkUl31T",
+      "id": "06t9KCN62qb25VPZkUl31T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8d3b67ba1143f6d4a3a2d1d0546e5c7d4099a55e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1bf791420eeac13703ea6e0aca9883c4820e71a9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e181728548916b54d3ded868166895c93e1cd835",
+          "width": 64
+        }
+      ],
+      "name": "Africa Express Presents… the Orchestra of Syrian Musicians & Guests",
+      "release_date": "2017-01-13",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:06t9KCN62qb25VPZkUl31T"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/52KgCdZCBgAse8sC2nscfi"
+          },
+          "href": "https://api.spotify.com/v1/artists/52KgCdZCBgAse8sC2nscfi",
+          "id": "52KgCdZCBgAse8sC2nscfi",
+          "name": "Kaan",
+          "type": "artist",
+          "uri": "spotify:artist:52KgCdZCBgAse8sC2nscfi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ITUVsj4fg5rg4bFWiX2cM"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ITUVsj4fg5rg4bFWiX2cM",
+      "id": "4ITUVsj4fg5rg4bFWiX2cM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e46cfb99cdeeef3d78b0c1a6361f405dac705ef4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/08e19f9ab3c5c441fb38433541a22f7e50be860e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/63ade35352dfb0b9755471bb95428c5f532e62cf",
+          "width": 64
+        }
+      ],
+      "name": "Mind Right",
+      "release_date": "2016-11-11",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4ITUVsj4fg5rg4bFWiX2cM"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Fu5huGG8iXC85P9akyYrr",
+          "id": "2Fu5huGG8iXC85P9akyYrr",
+          "name": "Joker",
+          "type": "artist",
+          "uri": "spotify:artist:2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/29ANT0m8q0RbxDQX1Fmq3x"
+      },
+      "href": "https://api.spotify.com/v1/albums/29ANT0m8q0RbxDQX1Fmq3x",
+      "id": "29ANT0m8q0RbxDQX1Fmq3x",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6729847c389a909090db972756f3326bd1576b6e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b710c51202771431b2f04c7b0b700b6db5abcae9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0ccf9a87914cbc3788423ba128d4ee270a20dc7c",
+          "width": 64
+        }
+      ],
+      "name": "Rhymestein",
+      "release_date": "2016-10-10",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:29ANT0m8q0RbxDQX1Fmq3x"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Fu5huGG8iXC85P9akyYrr",
+          "id": "2Fu5huGG8iXC85P9akyYrr",
+          "name": "Joker",
+          "type": "artist",
+          "uri": "spotify:artist:2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0dr86VgT91NG6nbnr92kat"
+      },
+      "href": "https://api.spotify.com/v1/albums/0dr86VgT91NG6nbnr92kat",
+      "id": "0dr86VgT91NG6nbnr92kat",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1013b87c0a257262ba278afd9bae5097895ddd1a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/99b4c0b8faa9ba03fc80aff63b7cd1226e4a8684",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b884af5e10a9a8f02eae04268dd8cecab06fe538",
+          "width": 64
+        }
+      ],
+      "name": "Çocuklar P2",
+      "release_date": "2016-10-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0dr86VgT91NG6nbnr92kat"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6tMDQ0YndnAw0oNeLm460R"
+      },
+      "href": "https://api.spotify.com/v1/albums/6tMDQ0YndnAw0oNeLm460R",
+      "id": "6tMDQ0YndnAw0oNeLm460R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/95b1b01417af77c3d6e8d5638941a13f9484459f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3d9a4adb638924422817d3f7d6753d26caa737b7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/abdd0af865dccd369530166ec82fee41c14e49ba",
+          "width": 64
+        }
+      ],
+      "name": "Annem'e",
+      "release_date": "2016-05-07",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6tMDQ0YndnAw0oNeLm460R"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tRmpYzDIjWoRHzbJO7Cpx"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tRmpYzDIjWoRHzbJO7Cpx",
+          "id": "6tRmpYzDIjWoRHzbJO7Cpx",
+          "name": "Fuat",
+          "type": "artist",
+          "uri": "spotify:artist:6tRmpYzDIjWoRHzbJO7Cpx"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4iODI3GN6P2Ln9SzfZYRIj"
+      },
+      "href": "https://api.spotify.com/v1/albums/4iODI3GN6P2Ln9SzfZYRIj",
+      "id": "4iODI3GN6P2Ln9SzfZYRIj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e8c43d825cd345f0f88fe6ba4d34437f40ae94ce",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/93602d71eb8ebd677366682883fb4442e795d24a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d1737f2b5d98d1ae6dd468261e67f802479871a7",
+          "width": 64
+        }
+      ],
+      "name": "Her Ayýn Elemaný",
+      "release_date": "2014-09-16",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4iODI3GN6P2Ln9SzfZYRIj"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3bOUL4UpX1YtzoLTSibfZR"
+      },
+      "href": "https://api.spotify.com/v1/albums/3bOUL4UpX1YtzoLTSibfZR",
+      "id": "3bOUL4UpX1YtzoLTSibfZR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c1315296b7b2d2171a4f746f197c0fa3af077f8f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f2e150e2e1fb6e9efba0c084ea24ed1d7446a896",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/93a134118b67f25205d18d4fc1e10cd3eee1ed20",
+          "width": 64
+        }
+      ],
+      "name": "Bir Eksiðiz: Ahmet Kaya",
+      "release_date": "2014-03-03",
+      "release_date_precision": "day",
+      "total_tracks": 23,
+      "type": "album",
+      "uri": "spotify:album:3bOUL4UpX1YtzoLTSibfZR"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6nHDuiu6PIpfWt6DswQHvL"
+          },
+          "href": "https://api.spotify.com/v1/artists/6nHDuiu6PIpfWt6DswQHvL",
+          "id": "6nHDuiu6PIpfWt6DswQHvL",
+          "name": "Alpa Gun",
+          "type": "artist",
+          "uri": "spotify:artist:6nHDuiu6PIpfWt6DswQHvL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/05oewuuO7I1GNoJYIX8yiu"
+      },
+      "href": "https://api.spotify.com/v1/albums/05oewuuO7I1GNoJYIX8yiu",
+      "id": "05oewuuO7I1GNoJYIX8yiu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1a75367cc9d8cb439795d46e62a50ac939b2bee5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9d61b781d35cb8bf2c6fee6d5bf5b7017363130d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/11fbd547e3d059ba504430780d59d1fe66ff7b50",
+          "width": 64
+        }
+      ],
+      "name": "Alles kommt zurück (Premium edition)",
+      "release_date": "2013-04-12",
+      "release_date_precision": "day",
+      "total_tracks": 24,
+      "type": "album",
+      "uri": "spotify:album:05oewuuO7I1GNoJYIX8yiu"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/72ECb9RQXGrWahmCGQ9zil"
+          },
+          "href": "https://api.spotify.com/v1/artists/72ECb9RQXGrWahmCGQ9zil",
+          "id": "72ECb9RQXGrWahmCGQ9zil",
+          "name": "C Dell",
+          "type": "artist",
+          "uri": "spotify:artist:72ECb9RQXGrWahmCGQ9zil"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1TDWw6LfdCCYz3BMkxV68e"
+      },
+      "href": "https://api.spotify.com/v1/albums/1TDWw6LfdCCYz3BMkxV68e",
+      "id": "1TDWw6LfdCCYz3BMkxV68e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/669eb754eb6b368a1192a5049bae5183ee70a654",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5a07046af387cbe51c778576d69cab8d0959d749",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1effc497cee7509fb8951d2b502c576fac167536",
+          "width": 64
+        }
+      ],
+      "name": "Midst of the Struggle",
+      "release_date": "2013-02-27",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:1TDWw6LfdCCYz3BMkxV68e"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Ml6UQvSODdViugwulEjWk",
+          "id": "7Ml6UQvSODdViugwulEjWk",
+          "name": "Da Poet",
+          "type": "artist",
+          "uri": "spotify:artist:7Ml6UQvSODdViugwulEjWk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/732cQAG1ejfuV6kBfZkfsE"
+      },
+      "href": "https://api.spotify.com/v1/albums/732cQAG1ejfuV6kBfZkfsE",
+      "id": "732cQAG1ejfuV6kBfZkfsE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4853945b3a02f53cb757cb66abe7928fb07f870a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7f7afbca3338d22bcd7158990bfc1452c83e6a14",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/148007c1eb7c9ddb4b2cf9578382aa2984125372",
+          "width": 64
+        }
+      ],
+      "name": "Poetika",
+      "release_date": "2011-04-27",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:732cQAG1ejfuV6kBfZkfsE"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3075SHeKLGDhvvC1aJVfjD"
+      },
+      "href": "https://api.spotify.com/v1/albums/3075SHeKLGDhvvC1aJVfjD",
+      "id": "3075SHeKLGDhvvC1aJVfjD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/65b210357b701a5ab35c1d716802d3ac140027a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/eb55e80be9257feb9c70aff5df0cd382b6aacc06",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c59925fda9e806a09ec8007a2a4325361b5f3b33",
+          "width": 64
+        }
+      ],
+      "name": "Organize Oluyoruz, Vol. 1",
+      "release_date": "2011",
+      "release_date_precision": "year",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:3075SHeKLGDhvvC1aJVfjD"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/72ECb9RQXGrWahmCGQ9zil"
+          },
+          "href": "https://api.spotify.com/v1/artists/72ECb9RQXGrWahmCGQ9zil",
+          "id": "72ECb9RQXGrWahmCGQ9zil",
+          "name": "C Dell",
+          "type": "artist",
+          "uri": "spotify:artist:72ECb9RQXGrWahmCGQ9zil"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6jrwexOVFwJPlIOxqRnlQk"
+      },
+      "href": "https://api.spotify.com/v1/albums/6jrwexOVFwJPlIOxqRnlQk",
+      "id": "6jrwexOVFwJPlIOxqRnlQk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/13b071a44e4eea054122e30f67496e369b73feb1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4ff3d3bafb258c017c2881507105f071aac3ffef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/12883cad507f42d667a2c8e17a6bc9e1e97105dd",
+          "width": 64
+        }
+      ],
+      "name": "Why Bite My Tongue",
+      "release_date": "2010-06-13",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6jrwexOVFwJPlIOxqRnlQk"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Hw6zmpru6uNDiUWep8ENG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Hw6zmpru6uNDiUWep8ENG",
+          "id": "6Hw6zmpru6uNDiUWep8ENG",
+          "name": "Selo",
+          "type": "artist",
+          "uri": "spotify:artist:6Hw6zmpru6uNDiUWep8ENG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0gHIDh5zGPY3xRoGzZrFgc"
+      },
+      "href": "https://api.spotify.com/v1/albums/0gHIDh5zGPY3xRoGzZrFgc",
+      "id": "0gHIDh5zGPY3xRoGzZrFgc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2329515a1f0c9e1d022ac6de78702525369a5400",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a643df2665fd39c91ecf97b56dc09f074beca03a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/126e8036f7f48104b0a916e57c8f884fcbfb85bc",
+          "width": 64
+        }
+      ],
+      "name": "Savaþ Yeri",
+      "release_date": "2010-04-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0gHIDh5zGPY3xRoGzZrFgc"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Hw6zmpru6uNDiUWep8ENG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Hw6zmpru6uNDiUWep8ENG",
+          "id": "6Hw6zmpru6uNDiUWep8ENG",
+          "name": "Selo",
+          "type": "artist",
+          "uri": "spotify:artist:6Hw6zmpru6uNDiUWep8ENG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0Cl9tsrPC8buAeftrC6v0v"
+      },
+      "href": "https://api.spotify.com/v1/albums/0Cl9tsrPC8buAeftrC6v0v",
+      "id": "0Cl9tsrPC8buAeftrC6v0v",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/073072392858cd8427df4c95e0079bf2311a1a27",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f80b0522e4bf388077648e3adca87143867d99d9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7707381f4ad137611455ce832bc0ce93e50033ca",
+          "width": 64
+        }
+      ],
+      "name": "Street Biznezz",
+      "release_date": "2009-08-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0Cl9tsrPC8buAeftrC6v0v"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4cMwyqmHCwJjRZ3frIVHTr",
+          "id": "4cMwyqmHCwJjRZ3frIVHTr",
+          "name": "Müslüm Gürses",
+          "type": "artist",
+          "uri": "spotify:artist:4cMwyqmHCwJjRZ3frIVHTr"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5nga0EEdHIlQNkUWJoJYK2"
+      },
+      "href": "https://api.spotify.com/v1/albums/5nga0EEdHIlQNkUWJoJYK2",
+      "id": "5nga0EEdHIlQNkUWJoJYK2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d3edc32ab48287238c4738f8fbc223bead7fe005",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2e3284b0ed99fb3fbb108ac9e2e6566c2ea346a4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b1f2b5467e6601af39dabae3bc4f49136edc7274",
+          "width": 64
+        }
+      ],
+      "name": "Sandýk",
+      "release_date": "2009",
+      "release_date_precision": "year",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5nga0EEdHIlQNkUWJoJYK2"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1D3FmNSYE1xcv6FEEmyCQw"
+          },
+          "href": "https://api.spotify.com/v1/artists/1D3FmNSYE1xcv6FEEmyCQw",
+          "id": "1D3FmNSYE1xcv6FEEmyCQw",
+          "name": "Fuchs",
+          "type": "artist",
+          "uri": "spotify:artist:1D3FmNSYE1xcv6FEEmyCQw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1y0Lsl6nvm4BqwkIQHBJYQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/1y0Lsl6nvm4BqwkIQHBJYQ",
+      "id": "1y0Lsl6nvm4BqwkIQHBJYQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cfc7f8c2512125ec9a9d7a53add775cbf6612522",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5c95956759ef39e91db417447eaa99e0f2c29916",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/94ec097d77fe55c68b4230d3e3808fa99aea227f",
+          "width": 64
+        }
+      ],
+      "name": "Selam",
+      "release_date": "2008-12-25",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:1y0Lsl6nvm4BqwkIQHBJYQ"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5PANwMJFLick3ybBBikKKh"
+      },
+      "href": "https://api.spotify.com/v1/albums/5PANwMJFLick3ybBBikKKh",
+      "id": "5PANwMJFLick3ybBBikKKh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0da57e173200d6cc15eccef4d1d046d78122ceb3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/514743f630d74df0b871ae420080249d4e6e10b2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77dc4db62b680e178f0c7f14b9e2ad58c65fe82c",
+          "width": 64
+        }
+      ],
+      "name": "Homegrown Istanbul, Vol. 2",
+      "release_date": "2008",
+      "release_date_precision": "year",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5PANwMJFLick3ybBBikKKh"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR"
+          },
+          "href": "https://api.spotify.com/v1/artists/2whj83JLtxpbUQXJPAcgMR",
+          "id": "2whj83JLtxpbUQXJPAcgMR",
+          "name": "Yakup",
+          "type": "artist",
+          "uri": "spotify:artist:2whj83JLtxpbUQXJPAcgMR"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3xuqyfapguOv3p1NjJ9PWb"
+      },
+      "href": "https://api.spotify.com/v1/albums/3xuqyfapguOv3p1NjJ9PWb",
+      "id": "3xuqyfapguOv3p1NjJ9PWb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1226b5763949840ebad2aecaab0696b521a7d3a9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4eb4be66308392b2f5323d02818c2134baddb6be",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/98f57fefa06de11cc5867f3ab3e0217f5219b461",
+          "width": 64
+        }
+      ],
+      "name": "Kaos",
+      "release_date": "2008",
+      "release_date_precision": "year",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:3xuqyfapguOv3p1NjJ9PWb"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5njXl1kMhcOYx65ytDxwLV"
+          },
+          "href": "https://api.spotify.com/v1/artists/5njXl1kMhcOYx65ytDxwLV",
+          "id": "5njXl1kMhcOYx65ytDxwLV",
+          "name": "Sat5",
+          "type": "artist",
+          "uri": "spotify:artist:5njXl1kMhcOYx65ytDxwLV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ORUQq4tDtUfG2dVTkIwwU"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ORUQq4tDtUfG2dVTkIwwU",
+      "id": "3ORUQq4tDtUfG2dVTkIwwU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/73298835af0a76bcfd81600e1d031b95c08e6dbd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/914f54b48ec1856b66136951a6e99947d4bd2efc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/55d74b10f27f389faadc236a1dff6e7b96f2e6f6",
+          "width": 64
+        }
+      ],
+      "name": "Belki De Cennette",
+      "release_date": "2007-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:3ORUQq4tDtUfG2dVTkIwwU"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/05AuqXIInjEOYuuoSxlAKP"
+      },
+      "href": "https://api.spotify.com/v1/albums/05AuqXIInjEOYuuoSxlAKP",
+      "id": "05AuqXIInjEOYuuoSxlAKP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0ebff0fcfa9005eee2faada0e1d79f8422a6a0b5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4ef82c1043e857f646a3c08289406c288a35439b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/be690d203eaaaacef67d838486a78bb39b8b8288",
+          "width": 64
+        }
+      ],
+      "name": "Onno Tunc Sarkilari",
+      "release_date": "2007",
+      "release_date_precision": "year",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:05AuqXIInjEOYuuoSxlAKP"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Hw6zmpru6uNDiUWep8ENG"
+          },
+          "href": "https://api.spotify.com/v1/artists/6Hw6zmpru6uNDiUWep8ENG",
+          "id": "6Hw6zmpru6uNDiUWep8ENG",
+          "name": "Selo",
+          "type": "artist",
+          "uri": "spotify:artist:6Hw6zmpru6uNDiUWep8ENG"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0zQ8kKs5pvnrPNWToXLB0X"
+      },
+      "href": "https://api.spotify.com/v1/albums/0zQ8kKs5pvnrPNWToXLB0X",
+      "id": "0zQ8kKs5pvnrPNWToXLB0X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f67884f99950cda497c6580806f0926a3c72102c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/022e0109ada1d39ddaf88e64605d796eb5e0864e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f9179c94d4919d88765c39ba43aafc7f879764a7",
+          "width": 64
+        }
+      ],
+      "name": "Kadýköy Acil Bekler",
+      "release_date": "2006-08-30",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:0zQ8kKs5pvnrPNWToXLB0X"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2mi7DKhWyWCYVWfrRghsMM"
+          },
+          "href": "https://api.spotify.com/v1/artists/2mi7DKhWyWCYVWfrRghsMM",
+          "id": "2mi7DKhWyWCYVWfrRghsMM",
+          "name": "Mr.Loco aka Loc Da Smoke",
+          "type": "artist",
+          "uri": "spotify:artist:2mi7DKhWyWCYVWfrRghsMM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/30YejgKoYqO1IcNnmcPIWz"
+      },
+      "href": "https://api.spotify.com/v1/albums/30YejgKoYqO1IcNnmcPIWz",
+      "id": "30YejgKoYqO1IcNnmcPIWz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d18d8f7f89a9e028505e6fc56cde132b3a0810ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3395bb265e447a6b1e5019516c4f82dcb9762f12",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/67b6a01c1b00ede7e8e7a68962ff1c1004b99c22",
+          "width": 64
+        }
+      ],
+      "name": "The Thug Style Files",
+      "release_date": "2006-06-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:30YejgKoYqO1IcNnmcPIWz"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5p6o7vDUlPWiDE2go9eMpv"
+          },
+          "href": "https://api.spotify.com/v1/artists/5p6o7vDUlPWiDE2go9eMpv",
+          "id": "5p6o7vDUlPWiDE2go9eMpv",
+          "name": "Michael Mic",
+          "type": "artist",
+          "uri": "spotify:artist:5p6o7vDUlPWiDE2go9eMpv"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/68MDBQwx6PToqIjIYmIgGA"
+      },
+      "href": "https://api.spotify.com/v1/albums/68MDBQwx6PToqIjIYmIgGA",
+      "id": "68MDBQwx6PToqIjIYmIgGA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/41156e2560fd5b16bc37cf9bf6ec2610c68c80c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ff7fc2e0cdc84f8736ba81b6319eca25ee533df5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/903e4c2980ae59781db0b3a6388830db640e9f85",
+          "width": 64
+        }
+      ],
+      "name": "Willkommen im Bing",
+      "release_date": "2006",
+      "release_date_precision": "year",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:68MDBQwx6PToqIjIYmIgGA"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1miUsLStzWuB9PhN1G2BTP"
+          },
+          "href": "https://api.spotify.com/v1/artists/1miUsLStzWuB9PhN1G2BTP",
+          "id": "1miUsLStzWuB9PhN1G2BTP",
+          "name": "Ghostown",
+          "type": "artist",
+          "uri": "spotify:artist:1miUsLStzWuB9PhN1G2BTP"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0DnaDv4fmlsQOzvGckjAi1"
+      },
+      "href": "https://api.spotify.com/v1/albums/0DnaDv4fmlsQOzvGckjAi1",
+      "id": "0DnaDv4fmlsQOzvGckjAi1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/24705cff59dea06a52cf8ff5af615e9de5092a6d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f8f2a804be8290e3df2a2c0d2092582e64886fbd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5593212b0bdc312f9985fc8c7b1d4d2221a22da9",
+          "width": 64
+        }
+      ],
+      "name": "Just When You Thought It Was Safe: The Mixtape Vol. 2",
+      "release_date": "2005-11-02",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:0DnaDv4fmlsQOzvGckjAi1"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1miUsLStzWuB9PhN1G2BTP"
+          },
+          "href": "https://api.spotify.com/v1/artists/1miUsLStzWuB9PhN1G2BTP",
+          "id": "1miUsLStzWuB9PhN1G2BTP",
+          "name": "Ghostown",
+          "type": "artist",
+          "uri": "spotify:artist:1miUsLStzWuB9PhN1G2BTP"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ZdTrQdhVG7nvgOXCxyelM"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ZdTrQdhVG7nvgOXCxyelM",
+      "id": "0ZdTrQdhVG7nvgOXCxyelM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4c2bc5f5ef6f51027dad28f32ab1b3411aa95a50",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/fc6ed0d8498f3334acbbf7102f6ba536fd474580",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2d25cbdbe4b02806e5cfa0e651e1699e9bfc0036",
+          "width": 64
+        }
+      ],
+      "name": "Ghostown: The Mixtape",
+      "release_date": "2005-11-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:0ZdTrQdhVG7nvgOXCxyelM"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6tRmpYzDIjWoRHzbJO7Cpx"
+          },
+          "href": "https://api.spotify.com/v1/artists/6tRmpYzDIjWoRHzbJO7Cpx",
+          "id": "6tRmpYzDIjWoRHzbJO7Cpx",
+          "name": "Fuat",
+          "type": "artist",
+          "uri": "spotify:artist:6tRmpYzDIjWoRHzbJO7Cpx"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5YoVLVoT8C3gs5nQuM8k2l"
+      },
+      "href": "https://api.spotify.com/v1/albums/5YoVLVoT8C3gs5nQuM8k2l",
+      "id": "5YoVLVoT8C3gs5nQuM8k2l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7d0dcc386234d27e1a5630e77339dbdbcda97870",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5f5ee72006b837ab4a0db5bc8fee22113d9109cd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/22e1691c5562e10823734d2e5e81a25c81a8cf29",
+          "width": 64
+        }
+      ],
+      "name": "Hassickdir? III",
+      "release_date": "2003-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5YoVLVoT8C3gs5nQuM8k2l"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bWdlXc09oaocOvF02njP4"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bWdlXc09oaocOvF02njP4",
+          "id": "0bWdlXc09oaocOvF02njP4",
+          "name": "Fjärde Världen",
+          "type": "artist",
+          "uri": "spotify:artist:0bWdlXc09oaocOvF02njP4"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0wq9NBz2TnLFQZPV5rstjz"
+      },
+      "href": "https://api.spotify.com/v1/albums/0wq9NBz2TnLFQZPV5rstjz",
+      "id": "0wq9NBz2TnLFQZPV5rstjz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f51c25ea0abb8d785694eaebabf6bf455a73c69d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1329c72610f0b4e355fb0fc73673b1e7a93b7c8e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5b785ab738e6110ac032c2d4c7bcd8d01d2e44f1",
+          "width": 64
+        }
+      ],
+      "name": "Riktiga proffs",
+      "release_date": "2002-09-18",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:0wq9NBz2TnLFQZPV5rstjz"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0bWdlXc09oaocOvF02njP4"
+          },
+          "href": "https://api.spotify.com/v1/artists/0bWdlXc09oaocOvF02njP4",
+          "id": "0bWdlXc09oaocOvF02njP4",
+          "name": "Fjärde Världen",
+          "type": "artist",
+          "uri": "spotify:artist:0bWdlXc09oaocOvF02njP4"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1rtTfDRrilsGFZfNi3M8cv"
+      },
+      "href": "https://api.spotify.com/v1/albums/1rtTfDRrilsGFZfNi3M8cv",
+      "id": "1rtTfDRrilsGFZfNi3M8cv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b05998615be8c4afedfb7c5bbd9fa9c4630701e6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6ef2ee7435b32fe06a2fd5ddee7e6cb1300802a3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6eef3d4c71bd3aa43ec1957d106bd91db3fd7cb5",
+          "width": 64
+        }
+      ],
+      "name": "Världsomspegling",
+      "release_date": "2002-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:1rtTfDRrilsGFZfNi3M8cv"
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI/albums?offset=50&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "offset": 0,
+  "previous": null,
+  "total": 52
+}

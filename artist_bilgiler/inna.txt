@@ -1,0 +1,35 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+  },
+  "followers": {
+    "href": null,
+    "total": 765975
+  },
+  "genres": [
+    "dance pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+  "id": "2w9zwq3AktTeYYMuhMjju8",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/1aba070cfeaf1aa76e5e9ca747f2ece348fb3751",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/f7b1e769f80e8a01d846c4dac0a0412bff904282",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/a1e233879ae7c43ddca95e6f1571f7109967f4e5",
+      "width": 160
+    }
+  ],
+  "name": "INNA",
+  "popularity": 67,
+  "type": "artist",
+  "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+}

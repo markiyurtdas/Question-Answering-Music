@@ -1,0 +1,2260 @@
+{
+  "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6yYVJKYaBp37t9zJic1dA2"
+      },
+      "href": "https://api.spotify.com/v1/albums/6yYVJKYaBp37t9zJic1dA2",
+      "id": "6yYVJKYaBp37t9zJic1dA2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/52a8bcb381b309c55a886cf29bc39001d8ea1cbb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/42baa48e1a61d3bfa8049a281e10ac1156148e5e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/29d0c13d9bc76073778020898c1551441c178891",
+          "width": 64
+        }
+      ],
+      "name": "DEMO",
+      "release_date": "2018-12-04",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:6yYVJKYaBp37t9zJic1dA2"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6dlHYzKjV308UpXWu51S2d"
+          },
+          "href": "https://api.spotify.com/v1/artists/6dlHYzKjV308UpXWu51S2d",
+          "id": "6dlHYzKjV308UpXWu51S2d",
+          "name": "Serkan Gürkan",
+          "type": "artist",
+          "uri": "spotify:artist:6dlHYzKjV308UpXWu51S2d"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4gLEwXyDxugjpSwAhVTWPg"
+          },
+          "href": "https://api.spotify.com/v1/artists/4gLEwXyDxugjpSwAhVTWPg",
+          "id": "4gLEwXyDxugjpSwAhVTWPg",
+          "name": "String Ýnspirations Quintet",
+          "type": "artist",
+          "uri": "spotify:artist:4gLEwXyDxugjpSwAhVTWPg"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6TDz7LrOPUjFdey00QN1jM"
+      },
+      "href": "https://api.spotify.com/v1/albums/6TDz7LrOPUjFdey00QN1jM",
+      "id": "6TDz7LrOPUjFdey00QN1jM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab244b87ca67cd7e40b04634dfe64000aa017f60",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/bcfeaaaa2bfb21dd38e9c44ed2045ce864b04c15",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/efa88005d01809150a39ec747deebb054c84c46a",
+          "width": 64
+        }
+      ],
+      "name": "Kraliçe'nin Notalarý",
+      "release_date": "2018-02-01",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:6TDz7LrOPUjFdey00QN1jM"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1o7cfnAfgMridykJsTfEw3"
+      },
+      "href": "https://api.spotify.com/v1/albums/1o7cfnAfgMridykJsTfEw3",
+      "id": "1o7cfnAfgMridykJsTfEw3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a7d6f5eb3c937b66c2f3869d95376a180db626a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c3525cf54e29528d16de940a806704c23cfdd13e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/66ba96884f262ddfa649768f46c5e603fdcf71fd",
+          "width": 64
+        }
+      ],
+      "name": "Biraz Pop Biraz Sezen Remix",
+      "release_date": "2017-08-14",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:1o7cfnAfgMridykJsTfEw3"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ASZNCBMPPt60WdPJvMtue"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ASZNCBMPPt60WdPJvMtue",
+      "id": "1ASZNCBMPPt60WdPJvMtue",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/730dd060f8c12bbebab901736d2586497c9278d7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/849dbd92893c961027b68596e92a0ca1ea927e27",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6fd2971fe0ee549d9f4a8fc9620a820fb66b15dc",
+          "width": 64
+        }
+      ],
+      "name": "Biraz Pop Biraz Sezen",
+      "release_date": "2017-01-23",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:1ASZNCBMPPt60WdPJvMtue"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          },
+          "href": "https://api.spotify.com/v1/artists/0MvSBMGRQJY3mRwIbJsqF1",
+          "id": "0MvSBMGRQJY3mRwIbJsqF1",
+          "name": "Royal Philharmonic Orchestra",
+          "type": "artist",
+          "uri": "spotify:artist:0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3BqrySHHYpAYIMV7v1974H"
+          },
+          "href": "https://api.spotify.com/v1/artists/3BqrySHHYpAYIMV7v1974H",
+          "id": "3BqrySHHYpAYIMV7v1974H",
+          "name": "Marcello Rota",
+          "type": "artist",
+          "uri": "spotify:artist:3BqrySHHYpAYIMV7v1974H"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0UsXuATuIqx5ZEEEEVAKw3"
+      },
+      "href": "https://api.spotify.com/v1/albums/0UsXuATuIqx5ZEEEEVAKw3",
+      "id": "0UsXuATuIqx5ZEEEEVAKw3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/19e0fe7c18a4f9f8b468239cb8ee8daf2853d6e2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c93547cab1de98ddc4279dd52e5f77d6460bcfec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8d68af617ab0e804ba36472d525783133aaa0121",
+          "width": 64
+        }
+      ],
+      "name": "The Royal Philharmonic Orchestra Plays Sezen Aksu (Live)",
+      "release_date": "2016-02-19",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0UsXuATuIqx5ZEEEEVAKw3"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2wjZ1niSHHC7ym7Hvf4uja"
+      },
+      "href": "https://api.spotify.com/v1/albums/2wjZ1niSHHC7ym7Hvf4uja",
+      "id": "2wjZ1niSHHC7ym7Hvf4uja",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bb89d23020e9ed0be85ca00aa008e763d8ee89d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ba96ff43c135e7eb93b34e5d602e64a3f9ca3a6c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/16e2446a6a6a725c2a5a1e417fd5b136505eceb3",
+          "width": 64
+        }
+      ],
+      "name": "Öptüm Remix",
+      "release_date": "2011-12-06",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:2wjZ1niSHHC7ym7Hvf4uja"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1hOFeE5hZYxIO72UKhnrWS"
+      },
+      "href": "https://api.spotify.com/v1/albums/1hOFeE5hZYxIO72UKhnrWS",
+      "id": "1hOFeE5hZYxIO72UKhnrWS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4a68d70115b0cf393a1912786a9852151faaa08b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e1614f297aa9624700e2689c7dcf337b4150b141",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e13e26affefdbf2168826cbff6b9cebc198da660",
+          "width": 64
+        }
+      ],
+      "name": "Öptüm",
+      "release_date": "2011-05-23",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1hOFeE5hZYxIO72UKhnrWS"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6sWlSKv0AVDrF31OVeTvCh"
+      },
+      "href": "https://api.spotify.com/v1/albums/6sWlSKv0AVDrF31OVeTvCh",
+      "id": "6sWlSKv0AVDrF31OVeTvCh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ebfc973feab21eee050c629d0fdbcc4b9f83d1fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f9990a8f4c2dddac5befd6ac2c24f58bc32a17a4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/742364f9ab3b5cc7ed4b2943b294905f71de34ac",
+          "width": 64
+        }
+      ],
+      "name": "Yürüyorum Düþ Bahçeleri'nde, Vol. 2",
+      "release_date": "2009-06-05",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:6sWlSKv0AVDrF31OVeTvCh"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5iIzwGJ8IjjEUVC2OZoOuW"
+      },
+      "href": "https://api.spotify.com/v1/albums/5iIzwGJ8IjjEUVC2OZoOuW",
+      "id": "5iIzwGJ8IjjEUVC2OZoOuW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ebfc973feab21eee050c629d0fdbcc4b9f83d1fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f9990a8f4c2dddac5befd6ac2c24f58bc32a17a4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/742364f9ab3b5cc7ed4b2943b294905f71de34ac",
+          "width": 64
+        }
+      ],
+      "name": "Yürüyorum Düþ Bahçelerinde, Vol. 1",
+      "release_date": "2009-06-05",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:5iIzwGJ8IjjEUVC2OZoOuW"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4nsSpFG5INHqLvzf1OZbQ1"
+      },
+      "href": "https://api.spotify.com/v1/albums/4nsSpFG5INHqLvzf1OZbQ1",
+      "id": "4nsSpFG5INHqLvzf1OZbQ1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4edf1a3885d3534b949b43357d0cc5316a2e4a41",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/14289f74c5efd5b2b177c6390957cf795328d438",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ed52c8c08c2834d64d781d45a1a2b6abd5b4737d",
+          "width": 64
+        }
+      ],
+      "name": "Deniz Yýldýzý",
+      "release_date": "2008-06-18",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:4nsSpFG5INHqLvzf1OZbQ1"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5I7XD7PnAQz7apGrCh38Oj"
+      },
+      "href": "https://api.spotify.com/v1/albums/5I7XD7PnAQz7apGrCh38Oj",
+      "id": "5I7XD7PnAQz7apGrCh38Oj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/77a99d134dcc45f20a76d805450b67db48eaddf3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/40c6edbbae352e04ad5479f6efc405054fedb70c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7612377c4a7e30fb01ea96b161dcc6fa5e87f634",
+          "width": 64
+        }
+      ],
+      "name": "Kardelen",
+      "release_date": "2005-09-10",
+      "release_date_precision": "day",
+      "total_tracks": 8,
+      "type": "album",
+      "uri": "spotify:album:5I7XD7PnAQz7apGrCh38Oj"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6MEcxO0OTQx8auxuGkUe4O"
+      },
+      "href": "https://api.spotify.com/v1/albums/6MEcxO0OTQx8auxuGkUe4O",
+      "id": "6MEcxO0OTQx8auxuGkUe4O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9212cc26c6e8ba2efdb9ea4fa42dcb14e3e01616",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5ef88ffea56ba480da35f2bbe8647f597b792ed3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/67f63a515e00a6e238ab6efb1156a105b8adcab0",
+          "width": 64
+        }
+      ],
+      "name": "Bahane (Remixes)",
+      "release_date": "2005-06-23",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:6MEcxO0OTQx8auxuGkUe4O"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/01Lrs9sWurhYQpd9dT2eMF"
+      },
+      "href": "https://api.spotify.com/v1/albums/01Lrs9sWurhYQpd9dT2eMF",
+      "id": "01Lrs9sWurhYQpd9dT2eMF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a64643bd40608b2d885e21dbdfa6482791b34663",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6dd69473f798efa3991c7692d7011bad5a540bf4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9fd7ce3652ef1c66a605df8bfc246489ac6f54ba",
+          "width": 64
+        }
+      ],
+      "name": "Bahane / Remix",
+      "release_date": "2005-06-23",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:01Lrs9sWurhYQpd9dT2eMF"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3bxl6Vvb6z122wXPyvcdmN"
+      },
+      "href": "https://api.spotify.com/v1/albums/3bxl6Vvb6z122wXPyvcdmN",
+      "id": "3bxl6Vvb6z122wXPyvcdmN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/95fd5c7e3d3af2da0672566484430782d5c13ed6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8841ec2561befea8d710396a3d860b26a0b2addf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/61055bc1a11023d4a3c9e9aee503347236a2ee0f",
+          "width": 64
+        }
+      ],
+      "name": "Bahane",
+      "release_date": "2005-02-10",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:3bxl6Vvb6z122wXPyvcdmN"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3CNQN2dSsxCbMhOr6uK69f"
+      },
+      "href": "https://api.spotify.com/v1/albums/3CNQN2dSsxCbMhOr6uK69f",
+      "id": "3CNQN2dSsxCbMhOr6uK69f",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f8efe89e91c9f83efe6fad649ab29e5634754647",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e2aeea652152d6f4e1a6c554930b216ba8019ccc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/689c4bfacdbeba9060beaef8ec50eb11dbd62ae2",
+          "width": 64
+        }
+      ],
+      "name": "Yaz Bitmeden",
+      "release_date": "2003-08-06",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3CNQN2dSsxCbMhOr6uK69f"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU"
+      },
+      "href": "https://api.spotify.com/v1/albums/1EslpWF9y4x0g6h8yfZLvU",
+      "id": "1EslpWF9y4x0g6h8yfZLvU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/68fed1e657a93b4c484ce8254adf2a362c77d8c7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/12c28ccc02af2b766122829447bc0b1c1097aebc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ad06a1242975c577ca5bc5a84faa1dcb61b207c2",
+          "width": 64
+        }
+      ],
+      "name": "Þarký Söylemek Lazým",
+      "release_date": "2002-05-08",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:1EslpWF9y4x0g6h8yfZLvU"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ANvd2MxEvmlbHXGeIBjUf"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ANvd2MxEvmlbHXGeIBjUf",
+      "id": "2ANvd2MxEvmlbHXGeIBjUf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/45d95ce8da227f88ab238dc73c280fedc2616400",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e43e62b7e5215b38f3096ec635163905cb3108d9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c90953ce63f824fbce8ea892daaa2c714ffbdf0b",
+          "width": 64
+        }
+      ],
+      "name": "Deliveren",
+      "release_date": "2000-06-02",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2ANvd2MxEvmlbHXGeIBjUf"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6Hy4HtW7RUS2noRBu6QrT1"
+      },
+      "href": "https://api.spotify.com/v1/albums/6Hy4HtW7RUS2noRBu6QrT1",
+      "id": "6Hy4HtW7RUS2noRBu6QrT1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7e2f6fddc644bb5520eb0ae323dd42d31da53a88",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/88172277b2e8a746f78eda4b88d2333541e34b6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f1e223a219c51596e02e02f7d5bb71d9e0e01e2f",
+          "width": 64
+        }
+      ],
+      "name": "Düðün ve Cenaze",
+      "release_date": "1997-12-22",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:6Hy4HtW7RUS2noRBu6QrT1"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3pCSt4dgNRTTDVI1XO6nqZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3pCSt4dgNRTTDVI1XO6nqZ",
+      "id": "3pCSt4dgNRTTDVI1XO6nqZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/03f46e6106e1b0b163e1f7a316f5df3dd17920cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/90ab3eb6c6865dba424d1586e4d6db1ad3c9fb23",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dbb6d2800332145e36e739a2a21ccebcf946997f",
+          "width": 64
+        }
+      ],
+      "name": "Düþ Bahçeleri",
+      "release_date": "1996-07-14",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3pCSt4dgNRTTDVI1XO6nqZ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0k3NxaRC2BoaDFJyeZi5fv"
+      },
+      "href": "https://api.spotify.com/v1/albums/0k3NxaRC2BoaDFJyeZi5fv",
+      "id": "0k3NxaRC2BoaDFJyeZi5fv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dd30c8a430446c40a6f7c5fa16cbef6d86476a3e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c45941c3b5ef71838cc43bda2bdd8b55652f24cf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c9c04438a436f4fa4fdf51228ce918f38df83f47",
+          "width": 64
+        }
+      ],
+      "name": "Iþýk Doðudan Yükselir",
+      "release_date": "1995-06-28",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0k3NxaRC2BoaDFJyeZi5fv"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0lpZJieR70gMzhDbhJX2Tx"
+      },
+      "href": "https://api.spotify.com/v1/albums/0lpZJieR70gMzhDbhJX2Tx",
+      "id": "0lpZJieR70gMzhDbhJX2Tx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/813f87dba83dabb8dbb0c67cee5eba5acb73d365",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/659b4d967f1f26b7e1cf59542b9822dc471cd632",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f5f88e93158b4b37649de25fee9f0318055c5bab",
+          "width": 64
+        }
+      ],
+      "name": "Deli Kýzýn Türküsü",
+      "release_date": "1993-09-17",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:0lpZJieR70gMzhDbhJX2Tx"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1m07iv4leo4aoqFs60vHCK"
+      },
+      "href": "https://api.spotify.com/v1/albums/1m07iv4leo4aoqFs60vHCK",
+      "id": "1m07iv4leo4aoqFs60vHCK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e2ecaf9e9401b8c61fa57e88201d3ae44149d6aa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5cc571856e6b434b168f5c8e2312e3b39baa7720",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/403ed7bdf1fef20a30f9778db8d3b4377147cfee",
+          "width": 64
+        }
+      ],
+      "name": "Gülümse",
+      "release_date": "1991-07-16",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1m07iv4leo4aoqFs60vHCK"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3zNJLnED8xcOFXPonunYoW"
+      },
+      "href": "https://api.spotify.com/v1/albums/3zNJLnED8xcOFXPonunYoW",
+      "id": "3zNJLnED8xcOFXPonunYoW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f249b4ffe7e5f6920f3b39851289a807c3938a28",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/182ccd7cc1fbc6e07cb4933f1c19562d20aa3b92",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/35b4e80add1cea2812f08856065e04bfb057d489",
+          "width": 64
+        }
+      ],
+      "name": "Sezen Aksu Söylüyor",
+      "release_date": "1989-07-07",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3zNJLnED8xcOFXPonunYoW"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2omQcakXW44zpMNgLn1aLT"
+      },
+      "href": "https://api.spotify.com/v1/albums/2omQcakXW44zpMNgLn1aLT",
+      "id": "2omQcakXW44zpMNgLn1aLT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/46a3f4f6019b6087098d9bc2e03d15fb8fcb3bc9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/50ce99f1a1e046f4a4a65da27e8092e2bbea7ed0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9eb5aa307ef6f4834a65d95fb0b4cc61103f3360",
+          "width": 64
+        }
+      ],
+      "name": "Sezen Aksu '88",
+      "release_date": "1988-02-22",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2omQcakXW44zpMNgLn1aLT"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ZlXNFH4uuKV17hNfVAO4m"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ZlXNFH4uuKV17hNfVAO4m",
+      "id": "4ZlXNFH4uuKV17hNfVAO4m",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/395e7157f89a7871ee0bf385765499908b86608d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a657d254a10ccdd424fa7b41a13870b482ff9352",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bd10677c7c21fd7e4929548ce2fa5d26c7b74364",
+          "width": 64
+        }
+      ],
+      "name": "Git",
+      "release_date": "1986-09-02",
+      "release_date_precision": "day",
+      "total_tracks": 9,
+      "type": "album",
+      "uri": "spotify:album:4ZlXNFH4uuKV17hNfVAO4m"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/13JKU1RyLFS73hDvWnTHr1"
+      },
+      "href": "https://api.spotify.com/v1/albums/13JKU1RyLFS73hDvWnTHr1",
+      "id": "13JKU1RyLFS73hDvWnTHr1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c212faad83cd94739524d300732659333f1c3a33",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8c34f6927d2419ac72a9377469ca1b2f2403db20",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bd0cf4ba6655ee9f47005e6499b5c427d9472ee9",
+          "width": 64
+        }
+      ],
+      "name": "Sen Aðlama",
+      "release_date": "1984-09-06",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:13JKU1RyLFS73hDvWnTHr1"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3Thvcaq42db8HAeRt7wfgY"
+      },
+      "href": "https://api.spotify.com/v1/albums/3Thvcaq42db8HAeRt7wfgY",
+      "id": "3Thvcaq42db8HAeRt7wfgY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/05f6fb465328d1fb398c3f9d5c3c481cb4392a5b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ce03f79541b0f78f2ba8674dbf865b4eebf3af21",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8b663af8d9fb7e5f767aacd0295bb23e552651ee",
+          "width": 64
+        }
+      ],
+      "name": "Firuze",
+      "release_date": "1982-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3Thvcaq42db8HAeRt7wfgY"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4cBTJhDAk0ly2PASd9hsYo"
+      },
+      "href": "https://api.spotify.com/v1/albums/4cBTJhDAk0ly2PASd9hsYo",
+      "id": "4cBTJhDAk0ly2PASd9hsYo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6c2dab43e8ad78b84164b1344d2653771c158014",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5e6866113e6664ae1e0987f05752b610fd092230",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9ae3e6b7caab1e25159398c1ff653cfc185820cb",
+          "width": 64
+        }
+      ],
+      "name": "Aðlamak Güzeldir",
+      "release_date": "1981-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:4cBTJhDAk0ly2PASd9hsYo"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Nqygp8fSFpeODfPTTjNaH"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Nqygp8fSFpeODfPTTjNaH",
+      "id": "1Nqygp8fSFpeODfPTTjNaH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/78cf4357f372298d4a4e36dd170c989831a8a942",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/85f6a6ff0ac9faf8e451659c1ccbb27b752ae5f4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b07043ae90a4dbad8ca6b2574bcc52572409b3d2",
+          "width": 64
+        }
+      ],
+      "name": "Sevgilerimle",
+      "release_date": "1980-08-26",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:1Nqygp8fSFpeODfPTTjNaH"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3h6TmnGd7Y874WIkxZIVLY"
+      },
+      "href": "https://api.spotify.com/v1/albums/3h6TmnGd7Y874WIkxZIVLY",
+      "id": "3h6TmnGd7Y874WIkxZIVLY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/26d0004e3679395ccee8648952e14bc0c87708c3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/84f518cd46667b76a33fc905592af268caa1f94b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/f7a47bf04b7d2d4995e3be2ec30c456b7f1cf9f8",
+          "width": 64
+        }
+      ],
+      "name": "Serçe",
+      "release_date": "1978-07-01",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:3h6TmnGd7Y874WIkxZIVLY"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5L5HaLV87aUmh8vBIO78w9"
+      },
+      "href": "https://api.spotify.com/v1/albums/5L5HaLV87aUmh8vBIO78w9",
+      "id": "5L5HaLV87aUmh8vBIO78w9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cef1ab1ecfa909070290bbfbf984d2a005419b17",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3ba1ff0c230ca3240cde03bfef74593c001039c0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bd9a8034f896e4e11da47a7d44c313efb094e410",
+          "width": 64
+        }
+      ],
+      "name": "Allahaýsmarladýk",
+      "release_date": "1977-09-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:5L5HaLV87aUmh8vBIO78w9"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vQbPa0KFdcYCNhltFodRw"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vQbPa0KFdcYCNhltFodRw",
+          "id": "6vQbPa0KFdcYCNhltFodRw",
+          "name": "Nuri Harun Ateþ",
+          "type": "artist",
+          "uri": "spotify:artist:6vQbPa0KFdcYCNhltFodRw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7okQ2lEKbmiXxZIi8kfu9v"
+      },
+      "href": "https://api.spotify.com/v1/albums/7okQ2lEKbmiXxZIi8kfu9v",
+      "id": "7okQ2lEKbmiXxZIi8kfu9v",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1af9a079219b469c9e670920220b8c1069aedf3b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f56c99713338847ff6519efa91d96d9993d76a07",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2177554da7d56ebe0c008a3cee301c2a7cb61f24",
+          "width": 64
+        }
+      ],
+      "name": "Geçmiþe Susmasýný Söyle",
+      "release_date": "2018-12-18",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7okQ2lEKbmiXxZIi8kfu9v"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5svVmnKieALqbOLVDJIU27"
+      },
+      "href": "https://api.spotify.com/v1/albums/5svVmnKieALqbOLVDJIU27",
+      "id": "5svVmnKieALqbOLVDJIU27",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/355eee8afba87f3130c366f206f003e5ef318a12",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/003b44f8943153e905dfed8a86a6528c37827a6c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d46a4dcfc1b512a586e2dd434b8736fc905b434a",
+          "width": 64
+        }
+      ],
+      "name": "Veda (Kürk Mantolu Madonna Original Theatre Soundtrack)",
+      "release_date": "2018-06-01",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5svVmnKieALqbOLVDJIU27"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2k1YGlSy50vxdhDvp0rR3E"
+      },
+      "href": "https://api.spotify.com/v1/albums/2k1YGlSy50vxdhDvp0rR3E",
+      "id": "2k1YGlSy50vxdhDvp0rR3E",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/74be5812bc63da10c4814fdfbf7205a965fc8b8d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/09f81e25e8b4b9f03a2da30189626d1d9fc531b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c02d0b64e4cc6b71fcbb3b94abb7bdb283bd63be",
+          "width": 64
+        }
+      ],
+      "name": "Ýhtimal Ki (Cebimdeki Yabancý)",
+      "release_date": "2018-02-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2k1YGlSy50vxdhDvp0rR3E"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6oq4FU1VWrUei1Ra7cayeD"
+      },
+      "href": "https://api.spotify.com/v1/albums/6oq4FU1VWrUei1Ra7cayeD",
+      "id": "6oq4FU1VWrUei1Ra7cayeD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/da197ce42d6d7be7d7822e9a1397bb9373d4b2a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/51856e2a0738c31dbc9ce18d1d8e1fab53c2afa0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ee197372626cdaee17c45daf1187a89dd87a78e3",
+          "width": 64
+        }
+      ],
+      "name": "Ben Öyle Birini Sevdim ki (Delibal Original Soundtrack)",
+      "release_date": "2016-01-06",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6oq4FU1VWrUei1Ra7cayeD"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Gq7JHzXzsNvbm8gFGsBI8"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Gq7JHzXzsNvbm8gFGsBI8",
+      "id": "1Gq7JHzXzsNvbm8gFGsBI8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/96e49397716614c05583b3de7be850155ef7da9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3c75c6a6dc5971eccd4e3b03626b611484f4fb32",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e95ab7a81d2f5847607a12c64b4b61bb4a2a6129",
+          "width": 64
+        }
+      ],
+      "name": "Yeni ve Yeni Kalanlar",
+      "release_date": "2014-08-27",
+      "release_date_precision": "day",
+      "total_tracks": 5,
+      "type": "album",
+      "uri": "spotify:album:1Gq7JHzXzsNvbm8gFGsBI8"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          },
+          "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+          "id": "64d1rUxfizSAOE9UbMnUZd",
+          "name": "Sezen Aksu",
+          "type": "artist",
+          "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2KPaf5rq8utRkQDQTdSoQB"
+      },
+      "href": "https://api.spotify.com/v1/albums/2KPaf5rq8utRkQDQTdSoQB",
+      "id": "2KPaf5rq8utRkQDQTdSoQB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/05c8540432adf7b516138b258196777aa7c96324",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ca196e2b2987908e8eb66d8f332e9e43ff46312e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/38f1148f58f9b5f30bd1fea4f99d01231377b51e",
+          "width": 64
+        }
+      ],
+      "name": "Kayýp Þehir",
+      "release_date": "2013-02-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2KPaf5rq8utRkQDQTdSoQB"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4oXXXf5udQQWQfsQGBm7yC"
+      },
+      "href": "https://api.spotify.com/v1/albums/4oXXXf5udQQWQfsQGBm7yC",
+      "id": "4oXXXf5udQQWQfsQGBm7yC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c5e115d6f4ac82e519f2ab2346a7a5de19fa035f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/733f7286692b70b95652d839a4bbdcc9a6069e92",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b9894ec214a7466a39f612ccb475b6570705f4cd",
+          "width": 64
+        }
+      ],
+      "name": "Güçlü Kadýnlar Güçlü Þarkýlar",
+      "release_date": "2019-03-08",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:4oXXXf5udQQWQfsQGBm7yC"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5MGu1jDj4wvXMbpBffPfmi"
+      },
+      "href": "https://api.spotify.com/v1/albums/5MGu1jDj4wvXMbpBffPfmi",
+      "id": "5MGu1jDj4wvXMbpBffPfmi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/adbca586d97c8a7d32808ba9e16bafb84991356f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/eda6c2e0d0b31200fca2e05c7bfb1135579ddf12",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/23705ba1a9168c515157090980261fab4862828f",
+          "width": 64
+        }
+      ],
+      "name": "Þarký Gibi Þarkýlar (Nino Varon)",
+      "release_date": "2018-12-14",
+      "release_date_precision": "day",
+      "total_tracks": 20,
+      "type": "album",
+      "uri": "spotify:album:5MGu1jDj4wvXMbpBffPfmi"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0cHmPmxWjzFSTGHkfb9bi1"
+      },
+      "href": "https://api.spotify.com/v1/albums/0cHmPmxWjzFSTGHkfb9bi1",
+      "id": "0cHmPmxWjzFSTGHkfb9bi1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4918b0f85916b1b50f8e32f3da778ff3f88636e3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5acb71513d89d3411c573decb0307c1beea089e8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6f5b9e64407b5990395f18fdb9b5dba638bd541d",
+          "width": 64
+        }
+      ],
+      "name": "Ve Nazan Öncel Þarkýlarý",
+      "release_date": "2018-08-17",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:0cHmPmxWjzFSTGHkfb9bi1"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5UmCoD3EDaN3wlFKul5sDK"
+      },
+      "href": "https://api.spotify.com/v1/albums/5UmCoD3EDaN3wlFKul5sDK",
+      "id": "5UmCoD3EDaN3wlFKul5sDK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b8ccdf860e61a84f29f9006a3933fd662900fd81",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/dbe67d93ca48531e7518d3d9f75ed58aa715ffd1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/19812278aa5d1cc221a9777ea4d248b562b55d98",
+          "width": 64
+        }
+      ],
+      "name": "Geceye Eþlik Eden Þarkýlar",
+      "release_date": "2018-06-05",
+      "release_date_precision": "day",
+      "total_tracks": 17,
+      "type": "album",
+      "uri": "spotify:album:5UmCoD3EDaN3wlFKul5sDK"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YCbq8656cGkwlNOPF0dkc"
+          },
+          "href": "https://api.spotify.com/v1/artists/0YCbq8656cGkwlNOPF0dkc",
+          "id": "0YCbq8656cGkwlNOPF0dkc",
+          "name": "Muazzez Abacý",
+          "type": "artist",
+          "uri": "spotify:artist:0YCbq8656cGkwlNOPF0dkc"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/26SQE24pMNrTyftrH642z3"
+      },
+      "href": "https://api.spotify.com/v1/albums/26SQE24pMNrTyftrH642z3",
+      "id": "26SQE24pMNrTyftrH642z3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2675c6ef5c9c06465fff6b18fe3133ac441fb1fe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ffceffdbe247b4fe200058f3844c80799db83082",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/81ee2d1ca785565ddcc377e599b370fe28a6dae1",
+          "width": 64
+        }
+      ],
+      "name": "Sezen'imin Þarkýlarý",
+      "release_date": "2018-02-16",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:26SQE24pMNrTyftrH642z3"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5S0Uo4o9Y4q3Wm7Og7hNdT"
+      },
+      "href": "https://api.spotify.com/v1/albums/5S0Uo4o9Y4q3Wm7Og7hNdT",
+      "id": "5S0Uo4o9Y4q3Wm7Og7hNdT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bc8348be96f55f7247c523c18161ebc5110d1601",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c023740be6ed6ef1a98752c433f1a3f6eff1ba6f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/611aecbf82824b66693cd49ce9ea786090b98f76",
+          "width": 64
+        }
+      ],
+      "name": "Aþka Dair",
+      "release_date": "2018-02-14",
+      "release_date_precision": "day",
+      "total_tracks": 34,
+      "type": "album",
+      "uri": "spotify:album:5S0Uo4o9Y4q3Wm7Og7hNdT"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/78XamUAUXTbaM3ytY9aBJu"
+          },
+          "href": "https://api.spotify.com/v1/artists/78XamUAUXTbaM3ytY9aBJu",
+          "id": "78XamUAUXTbaM3ytY9aBJu",
+          "name": "Yaþar Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:78XamUAUXTbaM3ytY9aBJu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/62p5KLAC1tseifub2uuhoS"
+      },
+      "href": "https://api.spotify.com/v1/albums/62p5KLAC1tseifub2uuhoS",
+      "id": "62p5KLAC1tseifub2uuhoS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/36c0f77a4a6a39fa18ca0533876e1bb7f1e85713",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ce71472486b1968fadaeb345c7fc45f56e74914c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/abf2dbd85115d296b8ccf1acabb546ef436a0d2e",
+          "width": 64
+        }
+      ],
+      "name": "Alakasýz Þarkýlar, Vol. 1",
+      "release_date": "2017-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:62p5KLAC1tseifub2uuhoS"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/78XamUAUXTbaM3ytY9aBJu"
+          },
+          "href": "https://api.spotify.com/v1/artists/78XamUAUXTbaM3ytY9aBJu",
+          "id": "78XamUAUXTbaM3ytY9aBJu",
+          "name": "Yaþar Gaga",
+          "type": "artist",
+          "uri": "spotify:artist:78XamUAUXTbaM3ytY9aBJu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3BRflUoANvbus0JPpwLt7s"
+      },
+      "href": "https://api.spotify.com/v1/albums/3BRflUoANvbus0JPpwLt7s",
+      "id": "3BRflUoANvbus0JPpwLt7s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c86fd024498c112d829a0468a10fb1037f8aca98",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1b4c6beb684202521b486661f52521337e3fedeb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6daa48ee6fef7a02a6b3fca237404a7447b96a7f",
+          "width": 64
+        }
+      ],
+      "name": "En Samimisinden Alakasýz Þarkýlar",
+      "release_date": "2017-06-09",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3BRflUoANvbus0JPpwLt7s"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1bVq1mOYwoYLcw7xfAQvmM"
+          },
+          "href": "https://api.spotify.com/v1/artists/1bVq1mOYwoYLcw7xfAQvmM",
+          "id": "1bVq1mOYwoYLcw7xfAQvmM",
+          "name": "Kürþat Baþar",
+          "type": "artist",
+          "uri": "spotify:artist:1bVq1mOYwoYLcw7xfAQvmM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4IAxG6jATUdqFidMNUO4Ea"
+      },
+      "href": "https://api.spotify.com/v1/albums/4IAxG6jATUdqFidMNUO4Ea",
+      "id": "4IAxG6jATUdqFidMNUO4Ea",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e72cb901d012fb0dd3f8903f64bc9e3e26b57bd7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cad53be95fba5bbf81af79ac3cc0ab57d9f28c37",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/063579cd7462b21a6817ff734ae431eeaa3a650e",
+          "width": 64
+        }
+      ],
+      "name": "Kürþat Baþar Ve Konuklarý",
+      "release_date": "2017-05-01",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:4IAxG6jATUdqFidMNUO4Ea"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/21ndFskdBBbmxmOIIVRcPb"
+      },
+      "href": "https://api.spotify.com/v1/albums/21ndFskdBBbmxmOIIVRcPb",
+      "id": "21ndFskdBBbmxmOIIVRcPb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3546debb9d7519a10ad516b3a53c236ce9f8ebc2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3bb99fb75d48981a2ca557a635de4820a175fe81",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bfe842032063ec71ecd3816fa3f29c8e0b77c936",
+          "width": 64
+        }
+      ],
+      "name": "Auf der anderen Seite - 10th Anniversary Edition (Original Motion Picture Soundtrack)",
+      "release_date": "2017-03-10",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:21ndFskdBBbmxmOIIVRcPb"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4K6qf6ZXnMl9k0ERdp1Inn"
+      },
+      "href": "https://api.spotify.com/v1/albums/4K6qf6ZXnMl9k0ERdp1Inn",
+      "id": "4K6qf6ZXnMl9k0ERdp1Inn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d42e5aea5214b98abb600fad616d0a32457c0958",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b1e38b1bfe3d83b162a237b9ed4cbd2a16cba05e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1308f56c2a2b320b58c902a7ee2be5ebb3b76a9d",
+          "width": 64
+        }
+      ],
+      "name": "Zülfü Livaneli 50. Yýl - Bir Kuþaktan Bir Kuþaða",
+      "release_date": "2016-11-10",
+      "release_date_precision": "day",
+      "total_tracks": 51,
+      "type": "album",
+      "uri": "spotify:album:4K6qf6ZXnMl9k0ERdp1Inn"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6f9a6OAb1hohFOOnQSTVtO"
+      },
+      "href": "https://api.spotify.com/v1/albums/6f9a6OAb1hohFOOnQSTVtO",
+      "id": "6f9a6OAb1hohFOOnQSTVtO",
+      "images": [
+        {
+          "height": 600,
+          "url": "https://i.scdn.co/image/4583e785a711c51f0d5786ebb03c4fb215a7675b",
+          "width": 600
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f159044aae18cf1ec85c1e4c8b383a1ff844788d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7b8dd07a719f2e2a3e6c8bfbdbb849c888153344",
+          "width": 64
+        }
+      ],
+      "name": "Eflatun Türküler",
+      "release_date": "2016-07-29",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:6f9a6OAb1hohFOOnQSTVtO"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6zzBsqAEDo53s2dSeZzWvo"
+          },
+          "href": "https://api.spotify.com/v1/artists/6zzBsqAEDo53s2dSeZzWvo",
+          "id": "6zzBsqAEDo53s2dSeZzWvo",
+          "name": "Erol Evgin",
+          "type": "artist",
+          "uri": "spotify:artist:6zzBsqAEDo53s2dSeZzWvo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3T1YZAIhFfXpQHwJsECJmI"
+      },
+      "href": "https://api.spotify.com/v1/albums/3T1YZAIhFfXpQHwJsECJmI",
+      "id": "3T1YZAIhFfXpQHwJsECJmI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e0e0205bf65939242805898fa94e66fc077d451a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/489ebb913b40c873f178775751f39d3358499670",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c929f4a11a619c92cb8f8a349d25ca140491af2b",
+          "width": 64
+        }
+      ],
+      "name": "Altýn Düetler",
+      "release_date": "2016-05-27",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:3T1YZAIhFfXpQHwJsECJmI"
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd/albums?offset=50&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "offset": 0,
+  "previous": null,
+  "total": 132
+}

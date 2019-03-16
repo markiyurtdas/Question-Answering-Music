@@ -1,0 +1,1032 @@
+{
+  "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
+      },
+      "href": "https://api.spotify.com/v1/albums/7uwTHXmFa1Ebi5flqBosig",
+      "id": "7uwTHXmFa1Ebi5flqBosig",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c018e59487df998eb8587d312b0b3233fdeff0fc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5fcea2eb9b4735d28ca058d65bf1ded516eb46c8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ed960c43f1681e40bef38a03cde02a36bd6af791",
+          "width": 64
+        }
+      ],
+      "name": "25",
+      "release_date": "2015-11-20",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7uwTHXmFa1Ebi5flqBosig"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
+      },
+      "href": "https://api.spotify.com/v1/albums/7n3QJc7TBOxXtlYh4Ssll8",
+      "id": "7n3QJc7TBOxXtlYh4Ssll8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/26007fcd7781ea9222b23ab3654ba86f60dd6e18",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/fe0f13e583408325f3b53118f632d386ac484813",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/22f4505ee7246c6e33c0e827b9764bdc968f8082",
+          "width": 64
+        }
+      ],
+      "name": "21",
+      "release_date": "2011-01-19",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:7n3QJc7TBOxXtlYh4Ssll8"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+      },
+      "href": "https://api.spotify.com/v1/albums/2YO1F9DHVEzXPriA1JHoOQ",
+      "id": "2YO1F9DHVEzXPriA1JHoOQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e41dab5ebef48cb4958971b5714880f95e6575f4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/aab3b4036e0e2456ea4b5f1946a221238df427dc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b6f03671def4f7a9bf54521e5357dd3fb166e814",
+          "width": 64
+        }
+      ],
+      "name": "19",
+      "release_date": "2008-01-28",
+      "release_date_precision": "day",
+      "total_tracks": 22,
+      "type": "album",
+      "uri": "spotify:album:2YO1F9DHVEzXPriA1JHoOQ"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/53Abz0nslwIN4WAvUzuI0E"
+      },
+      "href": "https://api.spotify.com/v1/albums/53Abz0nslwIN4WAvUzuI0E",
+      "id": "53Abz0nslwIN4WAvUzuI0E",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bcd5ea04bf9cf40d7373d78f80f8fa179324067a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/975e821e0819f71c0fa5c8ecf9585aa4e00a5975",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/261f68c0dee974d60c703ac9489fad4b2b9086f1",
+          "width": 64
+        }
+      ],
+      "name": "19",
+      "release_date": "2008-01-28",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:53Abz0nslwIN4WAvUzuI0E"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4czgfmsRjndCUxZpCmi8Pr"
+      },
+      "href": "https://api.spotify.com/v1/albums/4czgfmsRjndCUxZpCmi8Pr",
+      "id": "4czgfmsRjndCUxZpCmi8Pr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0feacc7407272f0a92299393f47755b63ead6de5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a9a8d86f1284d5d798d119fd428c5b4e2decdd47",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/4f4645aa4d654a711f8d68df69c640a7592b8de2",
+          "width": 64
+        }
+      ],
+      "name": "Water Under the Bridge",
+      "release_date": "2016-11-04",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4czgfmsRjndCUxZpCmi8Pr"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1vlKTObVibnwWkJXWXIcH3"
+      },
+      "href": "https://api.spotify.com/v1/albums/1vlKTObVibnwWkJXWXIcH3",
+      "id": "1vlKTObVibnwWkJXWXIcH3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/981b3ea8833adfab00b3365ae3e10f15d4fcced9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/2c677300998526d245404126c8240c9497e56f92",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dfb744b51a7dc56d72d9aa251d23d4ef82965963",
+          "width": 64
+        }
+      ],
+      "name": "Send My Love (To Your New Lover)",
+      "release_date": "2016-05-16",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1vlKTObVibnwWkJXWXIcH3"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5oWQ2uILvj5bAjeIjSYYc8"
+      },
+      "href": "https://api.spotify.com/v1/albums/5oWQ2uILvj5bAjeIjSYYc8",
+      "id": "5oWQ2uILvj5bAjeIjSYYc8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/aed3d3eafce0d4dfcfec2a0b4e84c20b8a3ee8a9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5e9a570575d90659d1640c76682b17138f3e164b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/786dfb115b54008dbc2996f06f10d13c416a196a",
+          "width": 64
+        }
+      ],
+      "name": "When We Were Young",
+      "release_date": "2016-02-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5oWQ2uILvj5bAjeIjSYYc8"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5y28RdPzIRXegzr5YM9Y0D"
+      },
+      "href": "https://api.spotify.com/v1/albums/5y28RdPzIRXegzr5YM9Y0D",
+      "id": "5y28RdPzIRXegzr5YM9Y0D",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d83a086148afe6539dae524607cbe4b6ccdd0360",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f5a5998ad8ec30e78e425a928cd250bd8902a339",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2227261266297e6532ededd25fee51a14f1b24a",
+          "width": 64
+        }
+      ],
+      "name": "Hello",
+      "release_date": "2015-10-23",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5y28RdPzIRXegzr5YM9Y0D"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7eZO3WCzvtYIbXI0ZkefzS"
+      },
+      "href": "https://api.spotify.com/v1/albums/7eZO3WCzvtYIbXI0ZkefzS",
+      "id": "7eZO3WCzvtYIbXI0ZkefzS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/992984e78573c212236292fc0d1e27100ef2cefd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ad0ed859466f19f78a1f0ca7e876a2f5213be2e2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7ab073bc64419d2030e2781abf99f9394291517f",
+          "width": 64
+        }
+      ],
+      "name": "Skyfall",
+      "release_date": "2012-10-05",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7eZO3WCzvtYIbXI0ZkefzS"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Wi23FgS9VuntuYowP9JmY"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Wi23FgS9VuntuYowP9JmY",
+      "id": "5Wi23FgS9VuntuYowP9JmY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1b5fc13a1b196ad08d2fc76bf103c4132d057f19",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/50e9ac30e54d66a206bf1d9cc51b64654a3d6083",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fb869f6cb7e4a9b7a5b55b4b8e64c80e254d409d",
+          "width": 64
+        }
+      ],
+      "name": "Set Fire to the Rain",
+      "release_date": "2011-07-04",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:5Wi23FgS9VuntuYowP9JmY"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ng0Nr1GuIqsp4oEzyMHVm"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ng0Nr1GuIqsp4oEzyMHVm",
+      "id": "3ng0Nr1GuIqsp4oEzyMHVm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a592762b765fb7e379eba2c8fe90a31d0888ec42",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c4b18a20c2b7f8972e591ba6d98f2d58babc66a5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6ce72d459bbed888b99b52b921b303b2b139e087",
+          "width": 64
+        }
+      ],
+      "name": "Rolling In The Deep",
+      "release_date": "2011-01-16",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:3ng0Nr1GuIqsp4oEzyMHVm"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2rnXfdwUTmMKc8P6EX1B05"
+      },
+      "href": "https://api.spotify.com/v1/albums/2rnXfdwUTmMKc8P6EX1B05",
+      "id": "2rnXfdwUTmMKc8P6EX1B05",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f597655c23f82558c35fd57aa91f68554b3dbc5d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6e4dff422bf34f3fbca79d573a6c4eb8b1a6e1e6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9d5aae502a96d1603e621e7e68c4db7dd1b8de61",
+          "width": 64
+        }
+      ],
+      "name": "Make You Feel My Love",
+      "release_date": "2008-10-27",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:2rnXfdwUTmMKc8P6EX1B05"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0waVqJjsfINWbs3aMK9y4s"
+      },
+      "href": "https://api.spotify.com/v1/albums/0waVqJjsfINWbs3aMK9y4s",
+      "id": "0waVqJjsfINWbs3aMK9y4s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/bd72e7b0ccfff08606816928f84162de42103470",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5e5998528c71fd51bd9c34a8f2caabeffccc38cb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7cd6c6bb94dab336650aec22f98becfa276ab467",
+          "width": 64
+        }
+      ],
+      "name": "Hometown Glory",
+      "release_date": "2008-07-20",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:0waVqJjsfINWbs3aMK9y4s"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3eUTEMjxssGhGteuTPsSG1"
+      },
+      "href": "https://api.spotify.com/v1/albums/3eUTEMjxssGhGteuTPsSG1",
+      "id": "3eUTEMjxssGhGteuTPsSG1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/529bc66bed1306c96f9b106db3fb68a1ca9be40f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/09729c1f9d0e9f9f14b499b1a1b406f1a93528eb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6e5bc31ca36b668db42b62d9bcda2dae8ac6347a",
+          "width": 64
+        }
+      ],
+      "name": "Cold Shoulder",
+      "release_date": "2008-04-20",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:3eUTEMjxssGhGteuTPsSG1"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/77IOPyqj5EUASZyyWvxqhc"
+      },
+      "href": "https://api.spotify.com/v1/albums/77IOPyqj5EUASZyyWvxqhc",
+      "id": "77IOPyqj5EUASZyyWvxqhc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/21b91de262d94a08cf3697d291fba77f1e4840cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1615eb06865066bcef5d42865eed142a838c151f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9531bcba1a8cc3ebcb36372b5ad65a7a0c97bcfb",
+          "width": 64
+        }
+      ],
+      "name": "Chasing Pavements",
+      "release_date": "2008-01-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:77IOPyqj5EUASZyyWvxqhc"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Yrm7MhEhX4BFbLcn5K7W5"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Yrm7MhEhX4BFbLcn5K7W5",
+          "id": "2Yrm7MhEhX4BFbLcn5K7W5",
+          "name": "Singknaben der St. Ursenkathedrale Solothurn",
+          "type": "artist",
+          "uri": "spotify:artist:2Yrm7MhEhX4BFbLcn5K7W5"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JJ3YdGeWTFm8urEm6mq3w"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JJ3YdGeWTFm8urEm6mq3w",
+          "id": "6JJ3YdGeWTFm8urEm6mq3w",
+          "name": "Andreas Reize",
+          "type": "artist",
+          "uri": "spotify:artist:6JJ3YdGeWTFm8urEm6mq3w"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2ISguF75QBIZqDaaKI7nY4"
+      },
+      "href": "https://api.spotify.com/v1/albums/2ISguF75QBIZqDaaKI7nY4",
+      "id": "2ISguF75QBIZqDaaKI7nY4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5503c6605181b248f2abe4565afb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5502d117894e4ddbce699538dd31",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe550162acc22cd81665d425c868f1",
+          "width": 64
+        }
+      ],
+      "name": "Sing A Cappella!",
+      "release_date": "2018-11-16",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:2ISguF75QBIZqDaaKI7nY4"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/59X1CAudCyPp6c6wmg2PWx"
+      },
+      "href": "https://api.spotify.com/v1/albums/59X1CAudCyPp6c6wmg2PWx",
+      "id": "59X1CAudCyPp6c6wmg2PWx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/58143e70c8255af4b5bc698c6312b3c2068c4e8c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4d802e25298180ccec9e8669c1d8bb84d9888e6d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c9c489b61ba6aa90523d9a9abd4edafd55d4ec59",
+          "width": 64
+        }
+      ],
+      "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+      "release_date": "2017-05-05",
+      "release_date_precision": "day",
+      "total_tracks": 14,
+      "type": "album",
+      "uri": "spotify:album:59X1CAudCyPp6c6wmg2PWx"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0m4HLNEubdugc7UcZy9UJa"
+          },
+          "href": "https://api.spotify.com/v1/artists/0m4HLNEubdugc7UcZy9UJa",
+          "id": "0m4HLNEubdugc7UcZy9UJa",
+          "name": "Céline Roscheck",
+          "type": "artist",
+          "uri": "spotify:artist:0m4HLNEubdugc7UcZy9UJa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1F4ngR72D9ojIZN5EWvHBt"
+      },
+      "href": "https://api.spotify.com/v1/albums/1F4ngR72D9ojIZN5EWvHBt",
+      "id": "1F4ngR72D9ojIZN5EWvHBt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4924f157a1ac786baa7c1358b36d59e1c53947fc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7034d1b2c32b8424f91ae327366f68ee41d691f8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/79345c061b11a476b681da55ced69b3b2c202588",
+          "width": 64
+        }
+      ],
+      "name": "Movie Sound",
+      "release_date": "2017-02-24",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:1F4ngR72D9ojIZN5EWvHBt"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/19xt2EkDfNcbAdQzOVUttd"
+      },
+      "href": "https://api.spotify.com/v1/albums/19xt2EkDfNcbAdQzOVUttd",
+      "id": "19xt2EkDfNcbAdQzOVUttd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8ae623160cd129f2b25d30cb3c0368313860dec0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e2a21bd761d8aec12e95da67f57a9e6f71b7ba46",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e4824a0a731f75f35c2127300a41c74184de69c0",
+          "width": 64
+        }
+      ],
+      "name": "Pay Close Attention : XL Recordings",
+      "release_date": "2014-08-25",
+      "release_date_precision": "day",
+      "total_tracks": 33,
+      "type": "album",
+      "uri": "spotify:album:19xt2EkDfNcbAdQzOVUttd"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0TWZh4CgXyEhMVyl1ti3IE"
+      },
+      "href": "https://api.spotify.com/v1/albums/0TWZh4CgXyEhMVyl1ti3IE",
+      "id": "0TWZh4CgXyEhMVyl1ti3IE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/43be968948458eea7b61cfdbad5e7b791cb42c1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a0455019637fc11a11e8877e3dbd5112c5a3d421",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ee1252fe2ef2c27465e1c015a09a9239348e7327",
+          "width": 64
+        }
+      ],
+      "name": "Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International",
+      "release_date": "2012-01-24",
+      "release_date_precision": "day",
+      "total_tracks": 76,
+      "type": "album",
+      "uri": "spotify:album:0TWZh4CgXyEhMVyl1ti3IE"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HD2mo0Gz8wd8IbOXYwUfN",
+          "id": "6HD2mo0Gz8wd8IbOXYwUfN",
+          "name": "Daniel Merriweather",
+          "type": "artist",
+          "uri": "spotify:artist:6HD2mo0Gz8wd8IbOXYwUfN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/32icBCTSnmxTyPk9ShYuO5"
+      },
+      "href": "https://api.spotify.com/v1/albums/32icBCTSnmxTyPk9ShYuO5",
+      "id": "32icBCTSnmxTyPk9ShYuO5",
+      "images": [
+        {
+          "height": 559,
+          "url": "https://i.scdn.co/image/1845eda8231af539bed1088c91c410ce3808f87e",
+          "width": 640
+        },
+        {
+          "height": 262,
+          "url": "https://i.scdn.co/image/1a86ffc574e92df5e08754a4a5f7259541d771ec",
+          "width": 300
+        },
+        {
+          "height": 56,
+          "url": "https://i.scdn.co/image/1a29379c5a4172a114f9f601abb0f719fdf437da",
+          "width": 64
+        }
+      ],
+      "name": "Water And A Flame",
+      "release_date": "2009-10-30",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:32icBCTSnmxTyPk9ShYuO5"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+          },
+          "href": "https://api.spotify.com/v1/artists/6HD2mo0Gz8wd8IbOXYwUfN",
+          "id": "6HD2mo0Gz8wd8IbOXYwUfN",
+          "name": "Daniel Merriweather",
+          "type": "artist",
+          "uri": "spotify:artist:6HD2mo0Gz8wd8IbOXYwUfN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7esBRX55cujeL0iSZWu0U6"
+      },
+      "href": "https://api.spotify.com/v1/albums/7esBRX55cujeL0iSZWu0U6",
+      "id": "7esBRX55cujeL0iSZWu0U6",
+      "images": [
+        {
+          "height": 636,
+          "url": "https://i.scdn.co/image/3b8c9c0fc41dc6b9b8b6488ba20c3581a2650c4e",
+          "width": 640
+        },
+        {
+          "height": 298,
+          "url": "https://i.scdn.co/image/8258f3453c6aba529579617ad386069394e5e0e6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/04b9a421f8921c21422bf1a8c0ab934fe04d1487",
+          "width": 64
+        }
+      ],
+      "name": "Love & War",
+      "release_date": "2009-05-28",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:7esBRX55cujeL0iSZWu0U6"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          },
+          "href": "https://api.spotify.com/v1/artists/2sG4zTOLvjKG1PSoOyf5Ej",
+          "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+          "name": "Brandi Carlile",
+          "type": "artist",
+          "uri": "spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1JUiwrGw7950O1zwfWILEX"
+      },
+      "href": "https://api.spotify.com/v1/albums/1JUiwrGw7950O1zwfWILEX",
+      "id": "1JUiwrGw7950O1zwfWILEX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ba7c9a611c8e2267f3a831791e54fb03a39cf28c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6f11c8796e13f4617a8a0adc4a2c09ab69abead7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e119b5e2b557720cb3a4aefdcd1a1ec639cdd589",
+          "width": 64
+        }
+      ],
+      "name": "The Story & Cover Stories",
+      "release_date": "2007",
+      "release_date_precision": "year",
+      "total_tracks": 27,
+      "type": "album",
+      "uri": "spotify:album:1JUiwrGw7950O1zwfWILEX"
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 23
+}

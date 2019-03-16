@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+  },
+  "followers": {
+    "href": null,
+    "total": 681325
+  },
+  "genres": [
+    "turkish hip hop",
+    "turkish rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+  "id": "28Qbi9jTj2eej21P2mImZI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/af7d774392a3a5f6ed9cb89f4e7e99b1ed91d5db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/f85a787c25b279e04165682fb3c34b163719e05d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/45d11d4d8cf1e5ef333df7eca5d9d65b17eb1825",
+      "width": 160
+    }
+  ],
+  "name": "Ceza",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+  },
+  "followers": {
+    "href": null,
+    "total": 1397045
+  },
+  "genres": [
+    "turkish pop",
+    "turkish rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+  "id": "2yMN0IP20GOaN6q0p0zL5k",
+  "images": [
+    {
+      "height": 500,
+      "url": "https://i.scdn.co/image/4178a5a92fae5c5a67cfe9ba113ea875318952b8",
+      "width": 500
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/4cc52c3bfa7a6e56447918b9a30ab4aea2086159",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/19a5dc46891668b276e9375849b93b1e2cb0e620",
+      "width": 64
+    }
+  ],
+  "name": "Tarkan",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+}

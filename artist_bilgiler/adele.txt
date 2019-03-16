@@ -1,0 +1,42 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+  },
+  "followers": {
+    "href": null,
+    "total": 14570121
+  },
+  "genres": [
+    "british soul",
+    "pop",
+    "uk pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+  "id": "4dpARuHxo51G3z768sgnrY",
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/ccbe7b4fef679f821988c78dbd4734471834e3d9",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/f8737f6fda048b45efe91f81c2bda2b601ae689c",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/df070ad127f62d682596e515ac69d5bef56e0897",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/cbbdfb209cc38b2999b1882f42ee642555316313",
+      "width": 64
+    }
+  ],
+  "name": "Adele",
+  "popularity": 84,
+  "type": "artist",
+  "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+}

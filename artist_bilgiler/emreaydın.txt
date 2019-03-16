@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/66vIaZFb8okZH0npc4eQ5q"
+  },
+  "followers": {
+    "href": null,
+    "total": 269694
+  },
+  "genres": [
+    "turkish pop",
+    "turkish rock",
+    "turkish singer-songwriter"
+  ],
+  "href": "https://api.spotify.com/v1/artists/66vIaZFb8okZH0npc4eQ5q",
+  "id": "66vIaZFb8okZH0npc4eQ5q",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/37010ce969d8d0b5f7c17bd4069d47b4cf94fab0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/08a3effc69b5f7e665a7f957b665cf7f3c6e25ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/d8f63d51b49b12c424e720bb735b937a205d08fb",
+      "width": 160
+    }
+  ],
+  "name": "emre aydýn",
+  "popularity": 58,
+  "type": "artist",
+  "uri": "spotify:artist:66vIaZFb8okZH0npc4eQ5q"
+}

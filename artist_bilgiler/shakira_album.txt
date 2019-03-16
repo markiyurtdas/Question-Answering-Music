@@ -1,0 +1,2260 @@
+{
+  "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp/albums?offset=0&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "items": [
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "href": "https://api.spotify.com/v1/albums/6bUxh58rYTL67FS8dyTKMN",
+      "id": "6bUxh58rYTL67FS8dyTKMN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/dfc33b5bf07955cd5a21fd651bc13fc5cbef3133",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4ade479eb789eb56ef299fa23ee0e09c57b0e57c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b842c52700616eadf3b19f9a931f79d2c3f1d59e",
+          "width": 64
+        }
+      ],
+      "name": "El Dorado",
+      "release_date": "2017-05-26",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6bUxh58rYTL67FS8dyTKMN"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4nXeW6UwZGBnv6zops27k4"
+      },
+      "href": "https://api.spotify.com/v1/albums/4nXeW6UwZGBnv6zops27k4",
+      "id": "4nXeW6UwZGBnv6zops27k4",
+      "images": [
+        {
+          "height": 636,
+          "url": "https://i.scdn.co/image/08e9126ed16c387e4fdedba6497857a1c31d2787",
+          "width": 640
+        },
+        {
+          "height": 298,
+          "url": "https://i.scdn.co/image/481db8223b51805cb9892fbc591d045efe6e496e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/50533428e1446051aea5c4625465f81b2deafabd",
+          "width": 64
+        }
+      ],
+      "name": "Shakira. (Expanded Edition)",
+      "release_date": "2014-03-14",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:4nXeW6UwZGBnv6zops27k4"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0qE6Dd97eQiywwpbrhb5fX"
+      },
+      "href": "https://api.spotify.com/v1/albums/0qE6Dd97eQiywwpbrhb5fX",
+      "id": "0qE6Dd97eQiywwpbrhb5fX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9345636ee4c0024820764c6216a374b45bf6e827",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/17985f9eded7a8ba565835ed90211b30c26b42f2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/de81ffee6a982e5707f3d0a5ccea09265b1a8685",
+          "width": 64
+        }
+      ],
+      "name": "Live From Paris",
+      "release_date": "2011-12-05",
+      "release_date_precision": "day",
+      "total_tracks": 19,
+      "type": "album",
+      "uri": "spotify:album:0qE6Dd97eQiywwpbrhb5fX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+      },
+      "href": "https://api.spotify.com/v1/albums/3gR578qnw47M30LVBTjrlW",
+      "id": "3gR578qnw47M30LVBTjrlW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0d97c4d25f8f2d6ae3a1c3af22486812d8c04b68",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/32953e7678d344b02c2cbe136bfe9bfcc18cff32",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/47cec563a36143eabff875187bf8da0d6436c1ba",
+          "width": 64
+        }
+      ],
+      "name": "Sale el Sol",
+      "release_date": "2010-10-19",
+      "release_date_precision": "day",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:3gR578qnw47M30LVBTjrlW"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2cxYK3rgZ4w8oZftOSoMuS"
+      },
+      "href": "https://api.spotify.com/v1/albums/2cxYK3rgZ4w8oZftOSoMuS",
+      "id": "2cxYK3rgZ4w8oZftOSoMuS",
+      "images": [
+        {
+          "height": 636,
+          "url": "https://i.scdn.co/image/4a28bd3e9fbc7e5230625056df480e6fc7982bac",
+          "width": 640
+        },
+        {
+          "height": 298,
+          "url": "https://i.scdn.co/image/ebc8978259a0cc89c288935ab42e3a5d1a030043",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ce38dd5aed5297ecc130f691d976faf287e8c15a",
+          "width": 64
+        }
+      ],
+      "name": "Sale El Sol",
+      "release_date": "2010-10-18",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:2cxYK3rgZ4w8oZftOSoMuS"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
+      },
+      "href": "https://api.spotify.com/v1/albums/5u0OuxRnf3FzvZR07xAxL2",
+      "id": "5u0OuxRnf3FzvZR07xAxL2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e777308e0551c04c1480eac019badec7ee594d74",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/271ebd341015da70a86d1a7ebf711d8d5ed77c8b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1cb24b6f0ab51cac6b9e8bb6e542944563ad8856",
+          "width": 64
+        }
+      ],
+      "name": "She Wolf (Expanded Edition)",
+      "release_date": "2009",
+      "release_date_precision": "year",
+      "total_tracks": 16,
+      "type": "album",
+      "uri": "spotify:album:5u0OuxRnf3FzvZR07xAxL2"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "href": "https://api.spotify.com/v1/albums/5ppnlEoj4HdRRdRihnY3jU",
+      "id": "5ppnlEoj4HdRRdRihnY3jU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3d727554b08c9ce5c04b5cf82144150e3291d2fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9b808e1c293a084e34b88bc4b9f0fc07d417958c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e234d27f81844acbd897c38776c39e66607b8f6f",
+          "width": 64
+        }
+      ],
+      "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+      "release_date": "2005-11-28",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:5ppnlEoj4HdRRdRihnY3jU"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "href": "https://api.spotify.com/v1/albums/3zHPYwiMJqa3hTBgk695Ae",
+      "id": "3zHPYwiMJqa3hTBgk695Ae",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/55a09d4c44d95492f40354243df11c2ac782366d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/53019ec429e4242d5352c8225a8e41805c093107",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/324b5c33535028eb648f4051405ee0bc7fa1219c",
+          "width": 64
+        }
+      ],
+      "name": "Fijación Oral, Vol. 1",
+      "release_date": "2005-06-03",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:3zHPYwiMJqa3hTBgk695Ae"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5f5LXKRiPDf23T5QM2MEmX"
+      },
+      "href": "https://api.spotify.com/v1/albums/5f5LXKRiPDf23T5QM2MEmX",
+      "id": "5f5LXKRiPDf23T5QM2MEmX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d0870ff788301172e1922b769f3011d863cfc004",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cab4b20d7ec0e0fa160d666391cf7ae92b99150c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9074f9b0df3636cc66a492c51875d2b8f5ec4ddf",
+          "width": 64
+        }
+      ],
+      "name": "Live & Off The Record",
+      "release_date": "2004-03-22",
+      "release_date_precision": "day",
+      "total_tracks": 10,
+      "type": "album",
+      "uri": "spotify:album:5f5LXKRiPDf23T5QM2MEmX"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C"
+      },
+      "href": "https://api.spotify.com/v1/albums/3JhHRFetUgAWw376a3sk6C",
+      "id": "3JhHRFetUgAWw376a3sk6C",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e0d8fd23ef5638c9455f868b363eada3bce6be9e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c5ab1e4064f70e568f87b9ca0bab4cb6caf7afdd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/55a5f896739362ddfca601192f58065dcb905718",
+          "width": 64
+        }
+      ],
+      "name": "Grandes Exitos",
+      "release_date": "2002",
+      "release_date_precision": "year",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:3JhHRFetUgAWw376a3sk6C"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "href": "https://api.spotify.com/v1/albums/4DyMK9x2gnmRkRa16zHaEV",
+      "id": "4DyMK9x2gnmRkRa16zHaEV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7871181e7d894ff179541e70b10ecb1a47ddea26",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/88df709c1f99d93390b8d950e7f5a3ab71a3ec5d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/dd7dc47b6157b3f043295d07e125059896311b49",
+          "width": 64
+        }
+      ],
+      "name": "Laundry Service",
+      "release_date": "2001-11-13",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:4DyMK9x2gnmRkRa16zHaEV"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
+      },
+      "href": "https://api.spotify.com/v1/albums/3yQQUyIA3vRIRnB4rqtThe",
+      "id": "3yQQUyIA3vRIRnB4rqtThe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/79048906d63b099989a7205952eac8dc5d11670e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/a7978be34ad1b4d2974c8d4c7b8e7d54134346dc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ee92b74d1afe8ea43d30d700f2d712be66d2cf07",
+          "width": 64
+        }
+      ],
+      "name": "Shakira MTV Unplugged",
+      "release_date": "2000-02-29",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3yQQUyIA3vRIRnB4rqtThe"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "href": "https://api.spotify.com/v1/albums/5hcKSTqKOLuzJgYIQileAe",
+      "id": "5hcKSTqKOLuzJgYIQileAe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/524f5079a04fb6815bb566405cf8a4417874396f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c1c19e804928746d417d38b9536fe6496d9cf790",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/271a24ce9882fe5d9c20b85d0afc6853a1805cc1",
+          "width": 64
+        }
+      ],
+      "name": "Donde Estan Los Ladrones",
+      "release_date": "1998-09-29",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:5hcKSTqKOLuzJgYIQileAe"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2G7F89aCUNtwnj3vYKNMfF"
+      },
+      "href": "https://api.spotify.com/v1/albums/2G7F89aCUNtwnj3vYKNMfF",
+      "id": "2G7F89aCUNtwnj3vYKNMfF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/277d145eac869259deba4425e3f3edffd826b88f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/527620562b6858b923ef85093d14df23d9fa5b71",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/550dd613f7620ec12d83edb90d72225f3756b4ea",
+          "width": 64
+        }
+      ],
+      "name": "The Remixes",
+      "release_date": "1997-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 12,
+      "type": "album",
+      "uri": "spotify:album:2G7F89aCUNtwnj3vYKNMfF"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "href": "https://api.spotify.com/v1/albums/3HLngzP9wVd8p3SMDQgyd9",
+      "id": "3HLngzP9wVd8p3SMDQgyd9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b301ee8bfdf9f6fb9831c70b77d6a296f7a9e89b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3588e4330de1099a6492b20d76e6a2d617091df8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5ee599e48f8324aa976d25299eaec2f8ec6bd685",
+          "width": 64
+        }
+      ],
+      "name": "Pies Descalzos",
+      "release_date": "1995-10-06",
+      "release_date_precision": "day",
+      "total_tracks": 11,
+      "type": "album",
+      "uri": "spotify:album:3HLngzP9wVd8p3SMDQgyd9"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          },
+          "href": "https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau",
+          "id": "1r4hJ1h58CWwUQe3MxPuau",
+          "name": "Maluma",
+          "type": "artist",
+          "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
+      },
+      "href": "https://api.spotify.com/v1/albums/1h1hnfRyc45IIDnxUCaGIf",
+      "id": "1h1hnfRyc45IIDnxUCaGIf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a5f0f24de7d81844f5f085cb5d22389df8534e8c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5c0e4a97f4c82e15b057af277cf8bc20db5a448e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fe3390fefb9f37591e75f25fa6c8caf8575ca22f",
+          "width": 64
+        }
+      ],
+      "name": "Clandestino",
+      "release_date": "2018-06-08",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1h1hnfRyc45IIDnxUCaGIf"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1URxRvwXb8QTVJvjLzUMjh"
+      },
+      "href": "https://api.spotify.com/v1/albums/1URxRvwXb8QTVJvjLzUMjh",
+      "id": "1URxRvwXb8QTVJvjLzUMjh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cc24841ff3eb08ff1f6937ab9d1ff447b6fc1335",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6a7db80df48365d4fe7058712587b5bc78dab1f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c31899901d94c44155d0d2c38da69e4226aea323",
+          "width": 64
+        }
+      ],
+      "name": "Chantaje (feat. Maluma) [Versión Salsa]",
+      "release_date": "2017-02-02",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1URxRvwXb8QTVJvjLzUMjh"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4XaoVpF93HPjWKYl32yEUO"
+      },
+      "href": "https://api.spotify.com/v1/albums/4XaoVpF93HPjWKYl32yEUO",
+      "id": "4XaoVpF93HPjWKYl32yEUO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/fc117cb4ff13e34f8f2a5b226b82a97a952335a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f739b1980b761bfd946c3f0c01382998adb7c673",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c206a80a603434ce0d19ac0b781ee0ebb6548729",
+          "width": 64
+        }
+      ],
+      "name": "Chantaje (feat. Maluma) [John-Blake Remix]",
+      "release_date": "2017-01-20",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:4XaoVpF93HPjWKYl32yEUO"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/16GOQxU7ShCeAeq8e5PplO"
+      },
+      "href": "https://api.spotify.com/v1/albums/16GOQxU7ShCeAeq8e5PplO",
+      "id": "16GOQxU7ShCeAeq8e5PplO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d830ff0536ff9b74bce95dd827f9330f837cd7a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8854f93c679de6eefd9ab43d5bea471c2e0ed302",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3ecf45592652ff0fe5c5ca60f12bb815cde69849",
+          "width": 64
+        }
+      ],
+      "name": "La Bicicleta (Remix)",
+      "release_date": "2016-08-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:16GOQxU7ShCeAeq8e5PplO"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1CwtU8CnhmEXnaIKSgOQY3"
+      },
+      "href": "https://api.spotify.com/v1/albums/1CwtU8CnhmEXnaIKSgOQY3",
+      "id": "1CwtU8CnhmEXnaIKSgOQY3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/730dbe83e66d49e92c7664a215c1a252d474265f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9dd1f7acbd122d493c19c8967737ef1e5286834f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/46d7d9f03e84503a0d63310a73b9c8ed35a03af2",
+          "width": 64
+        }
+      ],
+      "name": "La Bicicleta (Versión Pop)",
+      "release_date": "2016-08-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:1CwtU8CnhmEXnaIKSgOQY3"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5igDVz8nB9U12eeQfBhqBq"
+      },
+      "href": "https://api.spotify.com/v1/albums/5igDVz8nB9U12eeQfBhqBq",
+      "id": "5igDVz8nB9U12eeQfBhqBq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/613fca6240645619762ca7276945c3c820603699",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c0973038b87c64f9e129bf530ea2fdaa787d10c8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/54c4a47ad37a650e54cd1fd1cf34ad91f257fea8",
+          "width": 64
+        }
+      ],
+      "name": "La Bicicleta (Versión Vallenato)",
+      "release_date": "2016-08-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5igDVz8nB9U12eeQfBhqBq"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3UP2Gfjzzfa1dPyrMMhNik"
+      },
+      "href": "https://api.spotify.com/v1/albums/3UP2Gfjzzfa1dPyrMMhNik",
+      "id": "3UP2Gfjzzfa1dPyrMMhNik",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/312343b6f3e8172f8c8ffbf3257103699aae49e8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e6639b2f6e2a7e2219d078c8aaaf6b1921c87902",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2f0b18634008a72639691e262c80d367ed260719",
+          "width": 64
+        }
+      ],
+      "name": "Dare (La La La) Remixes",
+      "release_date": "2014-04-24",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:3UP2Gfjzzfa1dPyrMMhNik"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7JhIR1YJuAFsUJgUOIDcu6"
+      },
+      "href": "https://api.spotify.com/v1/albums/7JhIR1YJuAFsUJgUOIDcu6",
+      "id": "7JhIR1YJuAFsUJgUOIDcu6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c76890b6e7ef7a83eda78bfdbfe7d2f0a08a4771",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cc7e5081e565ce424a0ee65ac208f7a896b60642",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d050923e44dade70380cd37f5a5fb62322390830",
+          "width": 64
+        }
+      ],
+      "name": "Dare (La La La) [Dirtyloud Remix]",
+      "release_date": "2014-04-24",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7JhIR1YJuAFsUJgUOIDcu6"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6ASdkCluCcQtG7ephXwrtD"
+      },
+      "href": "https://api.spotify.com/v1/albums/6ASdkCluCcQtG7ephXwrtD",
+      "id": "6ASdkCluCcQtG7ephXwrtD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7726d4a43ef91ea7c9eb70b0064bfdbe1b49fa93",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d3a96389d6e4f183382a524302a8ea75fd7cb9ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/3e6b965dd031464f812f4b7c5d7eeea543cd7439",
+          "width": 64
+        }
+      ],
+      "name": "Nunca Me Acuerdo de Olvidarte",
+      "release_date": "2014-01-21",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:6ASdkCluCcQtG7ephXwrtD"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/08wK8yE2tq5QQBzCD6ybw6"
+      },
+      "href": "https://api.spotify.com/v1/albums/08wK8yE2tq5QQBzCD6ybw6",
+      "id": "08wK8yE2tq5QQBzCD6ybw6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b4449875243a93de8b44a6d2b8b64b9a5a6c657a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3723dcbded5e68b2ff8a8f0ce5359992d7c63a17",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d3b6d947d784c2707769d22a0ad69f868ec758ff",
+          "width": 64
+        }
+      ],
+      "name": "Can't Remember to Forget You (Wideboys Remix)",
+      "release_date": "2014-01-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:08wK8yE2tq5QQBzCD6ybw6"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/50ZtMayFjWQWkuMuiR9fIe"
+      },
+      "href": "https://api.spotify.com/v1/albums/50ZtMayFjWQWkuMuiR9fIe",
+      "id": "50ZtMayFjWQWkuMuiR9fIe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/98a4d05f844f197ea1b23427b5d6aae0f0c91c26",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e889fdfbadd2d0323522fbce9261bcc98a067bf3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ebff088dd52074e234054eb66c72f310a0eb028d",
+          "width": 64
+        }
+      ],
+      "name": "Can't Remember to Forget You (feat. Rihanna) [Fedde Le Grand Remix]",
+      "release_date": "2014-01-13",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:50ZtMayFjWQWkuMuiR9fIe"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv"
+      },
+      "href": "https://api.spotify.com/v1/albums/3pzQF7YgU1f66pBayA8uHv",
+      "id": "3pzQF7YgU1f66pBayA8uHv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/17c44514378aaf9449ff299170c5eb2eeaf8df9b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/853822ab4f5ab290c4a666adfed5ad0aed21f726",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/65eea642e494e8032bd82127fcb7190890ddbdea",
+          "width": 64
+        }
+      ],
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "release_date": "2010-05-07",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:3pzQF7YgU1f66pBayA8uHv"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4xgKn7vBQgiF1g6NjDEgor"
+      },
+      "href": "https://api.spotify.com/v1/albums/4xgKn7vBQgiF1g6NjDEgor",
+      "id": "4xgKn7vBQgiF1g6NjDEgor",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4c5192599149c4b16d425e2c38a26f7a054bce9d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8caee3ae4d2abab8458a70b15e3586475b0d8171",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/7006e3853235a110c27cc50c1f873591574e76bc",
+          "width": 64
+        }
+      ],
+      "name": "Love in the Time Of Cholera EP",
+      "release_date": "2008-01-15",
+      "release_date_precision": "day",
+      "total_tracks": 3,
+      "type": "album",
+      "uri": "spotify:album:4xgKn7vBQgiF1g6NjDEgor"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/5gqCXGuM57doaWDs6LlccJ",
+      "id": "5gqCXGuM57doaWDs6LlccJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3f15014c5dcd69b1f42a9fda444bc310f2db2b06",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d3fedb2a739fe0d140537822464e561dcaa39592",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/63ae0a1f9cf4b6271aa9121c27e5db28f8127832",
+          "width": 64
+        }
+      ],
+      "name": "Shakira Oral Fixation Tour (Live)",
+      "release_date": "2007-11-13",
+      "release_date_precision": "day",
+      "total_tracks": 6,
+      "type": "album",
+      "uri": "spotify:album:5gqCXGuM57doaWDs6LlccJ"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          },
+          "href": "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+          "id": "6vWDO969PvNqNYHIOW5v0m",
+          "name": "Beyoncé",
+          "type": "artist",
+          "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/26vwjM6FkX2nEx9I0FKmih"
+      },
+      "href": "https://api.spotify.com/v1/albums/26vwjM6FkX2nEx9I0FKmih",
+      "id": "26vwjM6FkX2nEx9I0FKmih",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/461e9f5fb21ca51ab7a4b64c7b720a81d410e11b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ffac36aba76883be3449d74736552b321b2c2a17",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/cbc3084833ebbc4aa0010f4eb3535296451db6de",
+          "width": 64
+        }
+      ],
+      "name": "Beautiful Liar",
+      "release_date": "2007-03-26",
+      "release_date_precision": "day",
+      "total_tracks": 4,
+      "type": "album",
+      "uri": "spotify:album:26vwjM6FkX2nEx9I0FKmih"
+    },
+    {
+      "album_group": "single",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          },
+          "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "type": "artist",
+          "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7i236FcWuiWFRUJcPR6rq1"
+      },
+      "href": "https://api.spotify.com/v1/albums/7i236FcWuiWFRUJcPR6rq1",
+      "id": "7i236FcWuiWFRUJcPR6rq1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/25a51bb5b04ae989f4b829a80793db6c0a446764",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/62aa84679b83cf18e25eec0e1a9da0134385d101",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/762d16b6387869786949eed293473aa13c92355c",
+          "width": 64
+        }
+      ],
+      "name": "Illegal",
+      "release_date": "2006-11-06",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "type": "album",
+      "uri": "spotify:album:7i236FcWuiWFRUJcPR6rq1"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0ujp2zHrc4NjeMmbx5vSH6"
+      },
+      "href": "https://api.spotify.com/v1/albums/0ujp2zHrc4NjeMmbx5vSH6",
+      "id": "0ujp2zHrc4NjeMmbx5vSH6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5503a5a363c3f18ba069e9989158",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/77eb7c17cafe55026b95abe7f3976e7368a631aa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501e1eb9f6a752712dbb76fa736",
+          "width": 64
+        }
+      ],
+      "name": "2000s XL",
+      "release_date": "2019-01-11",
+      "release_date_precision": "day",
+      "total_tracks": 40,
+      "type": "album",
+      "uri": "spotify:album:0ujp2zHrc4NjeMmbx5vSH6"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6iE4f7SmNoKRqm5yQBwyPl"
+      },
+      "href": "https://api.spotify.com/v1/albums/6iE4f7SmNoKRqm5yQBwyPl",
+      "id": "6iE4f7SmNoKRqm5yQBwyPl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/77eb7c17cafe550316a99999c8356c98fe6e4fdd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/77eb7c17cafe550270ce14d40bc50722b2cce261",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/77eb7c17cafe5501faa541833b7b85f8564729ba",
+          "width": 64
+        }
+      ],
+      "name": "New Year's Eve - NYE 2018/2019",
+      "release_date": "2018-12-07",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:6iE4f7SmNoKRqm5yQBwyPl"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ijPUcta3Ks5H1YWFaguJF"
+          },
+          "href": "https://api.spotify.com/v1/artists/4ijPUcta3Ks5H1YWFaguJF",
+          "id": "4ijPUcta3Ks5H1YWFaguJF",
+          "name": "Denada",
+          "type": "artist",
+          "uri": "spotify:artist:4ijPUcta3Ks5H1YWFaguJF"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5NX9g1mQVROe9qJQPEabt9"
+      },
+      "href": "https://api.spotify.com/v1/albums/5NX9g1mQVROe9qJQPEabt9",
+      "id": "5NX9g1mQVROe9qJQPEabt9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/b3d3eaacd9ffca7ec65512da652eb2b487e1ea5c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/7b5bcf94a5d5338adec0b531aaeeae3bdb14b865",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/50ec4112f88425c6014c254c6db9a899e70b05cf",
+          "width": 64
+        }
+      ],
+      "name": "Di Sini Untukmu",
+      "release_date": "2018-11-22",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:5NX9g1mQVROe9qJQPEabt9"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4qfQWPGyGPSyMR54KeIXu7"
+      },
+      "href": "https://api.spotify.com/v1/albums/4qfQWPGyGPSyMR54KeIXu7",
+      "id": "4qfQWPGyGPSyMR54KeIXu7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/420e7ab9747224a90646e02024bfb6a78b713923",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b9350438dcdf7e87937814eccf9fd77c85b1bdbc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/94684af9ea073521d42a4393264d43f87ca9c77f",
+          "width": 64
+        }
+      ],
+      "name": "Pop 90's En Español",
+      "release_date": "2018-07-13",
+      "release_date_precision": "day",
+      "total_tracks": 50,
+      "type": "album",
+      "uri": "spotify:album:4qfQWPGyGPSyMR54KeIXu7"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3SSMZMmE49zUBPG3M8mRgr"
+      },
+      "href": "https://api.spotify.com/v1/albums/3SSMZMmE49zUBPG3M8mRgr",
+      "id": "3SSMZMmE49zUBPG3M8mRgr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9fab9f1115c1d949e93141cde1ea01571933a4b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6b719a18f3b67c1b6c590eec66b9a2ba53a3099d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b20f269814e541b2a543de1fdabe8ed630c3fd18",
+          "width": 64
+        }
+      ],
+      "name": "Verano Hits",
+      "release_date": "2018-05-25",
+      "release_date_precision": "day",
+      "total_tracks": 50,
+      "type": "album",
+      "uri": "spotify:album:3SSMZMmE49zUBPG3M8mRgr"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2iJ4m1pRQ7zLlHP8VO343u"
+      },
+      "href": "https://api.spotify.com/v1/albums/2iJ4m1pRQ7zLlHP8VO343u",
+      "id": "2iJ4m1pRQ7zLlHP8VO343u",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6cc08453879d81ec6f4f4ffefa8d9a40700b4ec5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c43de07d43700b3028eac3daf4c261a3c082eb44",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/73ea201ab0c8f1e5c9f83ceb169f34f95b06dc6d",
+          "width": 64
+        }
+      ],
+      "name": "Sanz: Lo que fui es lo que soy (Banda Sonora Original)",
+      "release_date": "2018-04-20",
+      "release_date_precision": "day",
+      "total_tracks": 21,
+      "type": "album",
+      "uri": "spotify:album:2iJ4m1pRQ7zLlHP8VO343u"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/64ZiGlCmVC0G45hJe8c2KV"
+      },
+      "href": "https://api.spotify.com/v1/albums/64ZiGlCmVC0G45hJe8c2KV",
+      "id": "64ZiGlCmVC0G45hJe8c2KV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/275a4aa79a1038a8d72fdbb1f90931b0b463b7e1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/edbe16f8bd4de8cc6f6d06fd03411b68f4c68f89",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/9a9a45388629a464c4fc945c38df4f71cd19da8d",
+          "width": 64
+        }
+      ],
+      "name": "R&B Party",
+      "release_date": "2018-04-12",
+      "release_date_precision": "day",
+      "total_tracks": 50,
+      "type": "album",
+      "uri": "spotify:album:64ZiGlCmVC0G45hJe8c2KV"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/54HLuBrH9xKiOqDJnIDTKR"
+      },
+      "href": "https://api.spotify.com/v1/albums/54HLuBrH9xKiOqDJnIDTKR",
+      "id": "54HLuBrH9xKiOqDJnIDTKR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/7f5e563d9b68fa875a8ec1376c5cf9a79cc5d416",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/154d1ba70dd69f394b8692da392ffa2188b6a4b3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d39633048ad2bba1cc1cda2f3d4260a786a63e32",
+          "width": 64
+        }
+      ],
+      "name": "Ultimate Workout",
+      "release_date": "2018-04-12",
+      "release_date_precision": "day",
+      "total_tracks": 50,
+      "type": "album",
+      "uri": "spotify:album:54HLuBrH9xKiOqDJnIDTKR"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O"
+      },
+      "href": "https://api.spotify.com/v1/albums/0jVGdTKQ0pValbbtxv5h5O",
+      "id": "0jVGdTKQ0pValbbtxv5h5O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4043091422ddfae017b9eafbd505ddf24dbfede5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/608dace9328d585816d14d467426d15fa130381b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0dae5819288ae0cc2a92d44d1d5ff7841803355a",
+          "width": 64
+        }
+      ],
+      "name": "Happiness Forever",
+      "release_date": "2018-04-10",
+      "release_date_precision": "day",
+      "total_tracks": 100,
+      "type": "album",
+      "uri": "spotify:album:0jVGdTKQ0pValbbtxv5h5O"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          },
+          "href": "https://api.spotify.com/v1/artists/5sUrlPAHlS9NEirDB8SEbF",
+          "id": "5sUrlPAHlS9NEirDB8SEbF",
+          "name": "Alejandro Sanz",
+          "type": "artist",
+          "uri": "spotify:artist:5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
+      },
+      "href": "https://api.spotify.com/v1/albums/6NmuOSiXv5WoA5lYjemVTt",
+      "id": "6NmuOSiXv5WoA5lYjemVTt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/84e0d27d5f851afeb489344129138853cf9ce6b1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/cb3881789791939cd4b5a3a24d2f87d5603cdaf8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/178872b1c865f7bb83ba825e844cd2ff366397f3",
+          "width": 64
+        }
+      ],
+      "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calderón / 2017)",
+      "release_date": "2017-12-08",
+      "release_date_precision": "day",
+      "total_tracks": 13,
+      "type": "album",
+      "uri": "spotify:album:6NmuOSiXv5WoA5lYjemVTt"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2DE7KcupaLY0b2fqCsWsFL"
+      },
+      "href": "https://api.spotify.com/v1/albums/2DE7KcupaLY0b2fqCsWsFL",
+      "id": "2DE7KcupaLY0b2fqCsWsFL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c87a76fb880de730146703c7a97e42fe431a4ec1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/db5de76c8dd7c790baf9215657eb673e7493199c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/bbc630603d18808ee491cd480180720ddd06fa2b",
+          "width": 64
+        }
+      ],
+      "name": "Music Made for Fitness",
+      "release_date": "2017-12-01",
+      "release_date_precision": "day",
+      "total_tracks": 72,
+      "type": "album",
+      "uri": "spotify:album:2DE7KcupaLY0b2fqCsWsFL"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7yJvzd6HWrbgroMaN0Cf7L"
+      },
+      "href": "https://api.spotify.com/v1/albums/7yJvzd6HWrbgroMaN0Cf7L",
+      "id": "7yJvzd6HWrbgroMaN0Cf7L",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/26027f85ccd9c57fa0f417138b5aeb12d511bf93",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1a32855ba6789b93ab745e924f5bd2ccb6901f5b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/510f83774c05cba493b562ea83d508a3b4688d39",
+          "width": 64
+        }
+      ],
+      "name": "Some Fitness Music",
+      "release_date": "2017-12-01",
+      "release_date_precision": "day",
+      "total_tracks": 72,
+      "type": "album",
+      "uri": "spotify:album:7yJvzd6HWrbgroMaN0Cf7L"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+          },
+          "href": "https://api.spotify.com/v1/artists/7lMgpN1tEBQKpRoUMKB8iw",
+          "id": "7lMgpN1tEBQKpRoUMKB8iw",
+          "name": "Black M",
+          "type": "artist",
+          "uri": "spotify:artist:7lMgpN1tEBQKpRoUMKB8iw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3rmi48z2cufjbMzLZYf6vI"
+      },
+      "href": "https://api.spotify.com/v1/albums/3rmi48z2cufjbMzLZYf6vI",
+      "id": "3rmi48z2cufjbMzLZYf6vI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f547d1fd3fd91f03bff31ed7c85b2cf3c3420c8c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8dda212f09f735813e81c3ea3bc3867dd2163d41",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ebebf858c69f553feaed2fde4329b96688c4d4f5",
+          "width": 64
+        }
+      ],
+      "name": "Éternel insatisfait (Réédition)",
+      "release_date": "2017-11-17",
+      "release_date_precision": "day",
+      "total_tracks": 28,
+      "type": "album",
+      "uri": "spotify:album:3rmi48z2cufjbMzLZYf6vI"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          },
+          "href": "https://api.spotify.com/v1/artists/4vhNDa5ycK0ST968ek7kRr",
+          "id": "4vhNDa5ycK0ST968ek7kRr",
+          "name": "Carlos Vives",
+          "type": "artist",
+          "uri": "spotify:artist:4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
+      },
+      "href": "https://api.spotify.com/v1/albums/57giaIaMyAVCS7jMIaoIgK",
+      "id": "57giaIaMyAVCS7jMIaoIgK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/296531d0665a7120b062f0a0d14dfb6463a849a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c8a142aff90398e7a88c9a8f21f1863222a727fa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8263e08ba3d362798dbe8ef2ad57b676f427d16f",
+          "width": 64
+        }
+      ],
+      "name": "VIVES",
+      "release_date": "2017-11-10",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:57giaIaMyAVCS7jMIaoIgK"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4mBuLw7Y7ZGctVeobUtZw0"
+      },
+      "href": "https://api.spotify.com/v1/albums/4mBuLw7Y7ZGctVeobUtZw0",
+      "id": "4mBuLw7Y7ZGctVeobUtZw0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a11327d88cfe58b898d5928186fc1866a99412c9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5dc2bef7da7d99608e7cfef8dae9aaea4f5899af",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/42f6217af7d0e46aa38576bb1a84dd328669ef43",
+          "width": 64
+        }
+      ],
+      "name": "Bailar Y Gozar",
+      "release_date": "2017-07-28",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:4mBuLw7Y7ZGctVeobUtZw0"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7EWonsbTfJoOKhedutpLl9"
+      },
+      "href": "https://api.spotify.com/v1/albums/7EWonsbTfJoOKhedutpLl9",
+      "id": "7EWonsbTfJoOKhedutpLl9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/2360b167ab8137425792c58aec14c05141460e96",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/955a4bc5158935de589d310ba6b8c92efbc6ea42",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/772879af37f17c94b1b2ffd281a78ad0e6677f68",
+          "width": 64
+        }
+      ],
+      "name": "Y, ¿Si Fuera Ella? (+ Es +)",
+      "release_date": "2017-05-19",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:7EWonsbTfJoOKhedutpLl9"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MHaV05u0io8fQbZ2XPtlC",
+          "id": "3MHaV05u0io8fQbZ2XPtlC",
+          "name": "Prince Royce",
+          "type": "artist",
+          "uri": "spotify:artist:3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "href": "https://api.spotify.com/v1/albums/7fIqsFfeYEEP9RO25KHj8P",
+      "id": "7fIqsFfeYEEP9RO25KHj8P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9710a793032581e41efeec0ca64bbcacbd6eff29",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/4e5bb5610836a74db4ddc6b9262dc702624224de",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/968ffadfa3b74b4b4bd0b6118cc3a513c187dfaf",
+          "width": 64
+        }
+      ],
+      "name": "FIVE (Deluxe Edition)",
+      "release_date": "2017-02-24",
+      "release_date_precision": "day",
+      "total_tracks": 18,
+      "type": "album",
+      "uri": "spotify:album:7fIqsFfeYEEP9RO25KHj8P"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5gThgG5LPRzL8Egdm2Izpm"
+      },
+      "href": "https://api.spotify.com/v1/albums/5gThgG5LPRzL8Egdm2Izpm",
+      "id": "5gThgG5LPRzL8Egdm2Izpm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d0b2ef5dfa2b3b49fb30964c809e7a769bba87bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0ef2a687f3914a726079d3ec9c33672043d65810",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/48ecf681a7c46cc0b1c87a4f89202e155e793260",
+          "width": 64
+        }
+      ],
+      "name": "Dinner with My Darling",
+      "release_date": "2017-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:5gThgG5LPRzL8Egdm2Izpm"
+    },
+    {
+      "album_group": "appears_on",
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "C¸es¸itli Sanatc¸ýlar",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2PUAa4925N18G0R9RrhuPA"
+      },
+      "href": "https://api.spotify.com/v1/albums/2PUAa4925N18G0R9RrhuPA",
+      "id": "2PUAa4925N18G0R9RrhuPA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/991c942c636c91d79d789c4a8beb1bd63f7c42c3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/3500c77900b9174d84b10579f5d6d77666b0cc50",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0c9783fbba41a0a0d16f2ca9218f7d353ccddc25",
+          "width": 64
+        }
+      ],
+      "name": "Single and Loving It",
+      "release_date": "2017-02-03",
+      "release_date_precision": "day",
+      "total_tracks": 30,
+      "type": "album",
+      "uri": "spotify:album:2PUAa4925N18G0R9RrhuPA"
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp/albums?offset=50&limit=50&include_groups=album,single,compilation,appears_on&market=TR",
+  "offset": 0,
+  "previous": null,
+  "total": 130
+}

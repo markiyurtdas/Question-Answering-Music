@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+  },
+  "followers": {
+    "href": null,
+    "total": 1821979
+  },
+  "genres": [
+    "turkish pop",
+    "turkish rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+  "id": "64d1rUxfizSAOE9UbMnUZd",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/6a3a19cc9de4be5d8d191abbd36029fcbc68be3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/731455844b3c761aefb500e185ef67957055e336",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/2b79d9ec8c6842519f8d9da018f351d4aa09c531",
+      "width": 160
+    }
+  ],
+  "name": "Sezen Aksu",
+  "popularity": 66,
+  "type": "artist",
+  "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+}
