@@ -2,19 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7aed22-485d-4de9-ae74-f7f10aa17dad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/.netbeans_automatic_build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/.netbeans_update_resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/build/classes/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/constants/DatabaseInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/constants/DatabaseInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/main/SoftwareProject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Album.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Artist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Track.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Track.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/AlbumFileReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/ArtistQuestionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/ArtistQuestionHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/DatabaseHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/main/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/main/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/QA Java Codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/constants/DatabaseInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Artist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/ArtistQuestionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/FileReaderArtist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/mysql-connector.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/constants/DatabaseInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/main/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/model/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/model/Artist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/model/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/AlbumFileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/ArtistQuestionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/DatabaseHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/FileReaderArtist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/constants/DatabaseInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/model/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/model/Artist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/model/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/utils/ArtistQuestionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/utils/BinarySearchTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/QA erdem deneme regex/utils/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Qa/META-INF/Qa.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Qa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Qa/model/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/model/Artist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/albums.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/albums.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/artists.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/artists.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/Main$BinarySearchTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/Main$BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/out/production/Qa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/ArtistQuestionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/ArtistQuestionHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/src/utils/ArtistQuestionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/src/utils/ArtistQuestionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/src/utils/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/src/utils/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilgiler.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +69,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,6 +102,7 @@
       <find>sing</find>
       <find>total</find>
       <find>total_tracks</find>
+      <find>Pattern</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -66,8 +125,8 @@
         <option value="$PROJECT_DIR$/src/model/Artist.java" />
         <option value="$PROJECT_DIR$/src/model/Album.java" />
         <option value="$PROJECT_DIR$/albums.json" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/utils/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -85,35 +144,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Qa" type="462c0819:PsiDirectoryNode" />
+              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Qa" type="462c0819:PsiDirectoryNode" />
+              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552678487722" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Qa" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -171,16 +244,18 @@
       <workItem from="1552663425591" duration="3099000" />
       <workItem from="1552666540410" duration="8991000" />
       <workItem from="1552675920098" duration="2864000" />
+      <workItem from="1552825358329" duration="1843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14954000" />
+    <option name="totallyTimeSpent" value="16797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2596154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,17 +333,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/artists.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#46#131#0" />
-            <element signature="e#1053#2080#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/artists.json" />
     <entry file="file://$PROJECT_DIR$/src/utils/BST.java" />
     <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -353,21 +418,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4800#5719#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/albums.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60105">
           <caret line="4007" lean-forward="true" selection-start-line="4007" selection-end-line="4007" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="768" column="19" selection-start-line="768" selection-start-column="19" selection-end-line="768" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

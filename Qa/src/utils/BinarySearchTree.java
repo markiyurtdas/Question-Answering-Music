@@ -2,7 +2,7 @@ package utils;
 
 import model.Album;
 
-public class BinarySearchTree {
+public  class BinarySearchTree {
     // Root of BST
     Node root;
     // Constructor
@@ -12,7 +12,7 @@ public class BinarySearchTree {
 
     /* Class containing left and right child of current node and key value*/
     public class Node {
-        Album album;
+        public Album album;
         public Node left, right;
 
         public Node(Album item) {
@@ -51,16 +51,16 @@ public class BinarySearchTree {
 
 
     //TODO create search method
-   public Node albumSearh(Node root, String albumName) {
+    public Node albumSearh(Node root, String albumName) {
 
         /* If the tree is empty, return a null album */
         if (root.album.getAlbumName().compareToIgnoreCase(albumName) ==0){
             return root;
-        }else if (root.album.getAlbumName().compareToIgnoreCase(albumName) >0)
+        }else if (root.album.getAlbumName().compareToIgnoreCase(albumName) <0)
         {
-            root.right = albumSearh(root.right, albumName);
+            root = albumSearh(root.right, albumName);
         }else {
-            root.left = albumSearh(root.left, albumName);
+            root = albumSearh(root.left, albumName);
         }
         return root;
     }
@@ -72,7 +72,7 @@ public class BinarySearchTree {
     }
 
     // A utility function to do inorder traversal of BST
-     void inorderRec(Node root) {
+    void inorderRec(Node root) {
         if (root != null) {
             inorderRec(root.left);
             System.out.println(root.album.getAlbumName());

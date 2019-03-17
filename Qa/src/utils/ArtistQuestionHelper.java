@@ -5,7 +5,12 @@
  */
 package utils;
 
+import java.util.ArrayList;
+
 import model.Artist;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 
 
@@ -14,40 +19,44 @@ import model.Artist;
  * @author marki
  */
 public class ArtistQuestionHelper {
-    private Artist artist;
+    private ArrayList<Artist> artistList;
+    private ArrayList<Artist> queriedArtistList;
+    private String artistName;
+    Pattern pattern;
+    Matcher matcher;
+
     
-    public ArtistQuestionHelper() {
+    public ArtistQuestionHelper(ArrayList<Artist> mArtistList) {
+        this.artistList = mArtistList;
     }
-    
-    public String AskQuestion(String string){
-        if(string.equalsIgnoreCase("name")){
-            return artist.getArtistName();
-        }else if(string.equalsIgnoreCase("followers")){
-            return      ""+ artist.getFollowersTotal();
-        }else if(string.equalsIgnoreCase("href")){
-            return artist.getHref();
-        }else if(string.equalsIgnoreCase("id")){
-            return ""+artist.getSpotifyId();
-        }else if(string.equalsIgnoreCase("popularity")){
-            return ""+artist.getPopularity();
-        }else if(string.equalsIgnoreCase("type")){
-            return artist.getType();
-        }else{
-            return "Hata. Yazdığınız soruyu kontrol edin !!";
+
+
+    //get an artist
+    public ArrayList<Artist> AskQuestion(String artistName){
+        queriedArtistList = new ArrayList<>();
+        boolean isMatch= false;
+        for (Artist artist:artistList){
+            pattern = Pattern.compile("kim\\s" + artist.getArtistName()+ "[?]*");
+            matcher = pattern.matcher("kim "+"artistName"+"?");
+             isMatch = matcher.matches();
+
+            if (isMatch == true)
+            {
+                queriedArtistList.add(artist);
+            }
         }
-        
-        
+        return queriedArtistList;
     }
 
-    public Artist getArtist() {
-        return artist;
+    public ArrayList<Artist> AskQuestion2(String artistName) {
+
+
+
+
+
+        return queriedArtistList;
     }
 
-    public void setArtist(Artist artist) {
-        this.artist = artist;
-    }
-    
-    
     
     
     

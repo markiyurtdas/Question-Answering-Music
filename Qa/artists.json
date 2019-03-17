@@ -1,77 +1,418 @@
 [
+  {
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+  },
+  "followers": {
+    "href": null,
+    "total": 14570121
+  },
+  "genres": [
+    "british soul",
+    "pop",
+    "uk pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+  "id": "4dpARuHxo51G3z768sgnrY",
+  "images": [
     {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-      },
-      "followers": {
-        "href": null,
-        "total": 24959230
-      },
-      "genres": [
-        "detroit hip hop",
-        "g funk",
-        "hip hop",
-        "rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
-      "id": "7dGJo4pcD2V6oG8kP0tJRR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/60c4daa4721f666c6afaee82a39bd413979a0474",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ae8dd3b01ada324eeb8c0b341e8f7ebda406095e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ed213a32e1327f3f2d7b2539eb1db57f55b68dbb",
-          "width": 160
-        }
-      ],
-      "name": "Eminem",
-      "popularity": 93,
-      "type": "artist",
-      "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+      "height": 1000,
+      "url": "https://i.scdn.co/image/ccbe7b4fef679f821988c78dbd4734471834e3d9",
+      "width": 1000
     },
     {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
-      },
-      "followers": {
-        "href": null,
-        "total": 580850
-      },
-      "genres": [
-        "turkish hip hop",
-        "turkish rock",
-        "turkish trap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
-      "id": "1KXTegXtnCPKXjRaX1llcD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/be6b0b9869097835b09f09ec30658d75750f305b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/b0fe828fb3a8deaebd8f34bf2568fc80f225723b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/9f41c4777b70da04cf4757c86ea706800fd1b329",
-          "width": 160
-        }
-      ],
-      "name": "Sagopa Kajmer",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+      "height": 640,
+      "url": "https://i.scdn.co/image/f8737f6fda048b45efe91f81c2bda2b601ae689c",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/df070ad127f62d682596e515ac69d5bef56e0897",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/cbbdfb209cc38b2999b1882f42ee642555316313",
+      "width": 64
     }
+  ],
+  "name": "Adele",
+  "popularity": 84,
+  "type": "artist",
+  "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+},
+  {
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+  },
+  "followers": {
+    "href": null,
+    "total": 681325
+  },
+  "genres": [
+    "turkish hip hop",
+    "turkish rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/28Qbi9jTj2eej21P2mImZI",
+  "id": "28Qbi9jTj2eej21P2mImZI",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/af7d774392a3a5f6ed9cb89f4e7e99b1ed91d5db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/f85a787c25b279e04165682fb3c34b163719e05d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/45d11d4d8cf1e5ef333df7eca5d9d65b17eb1825",
+      "width": 160
+    }
+  ],
+  "name": "Ceza",
+  "popularity": 64,
+  "type": "artist",
+  "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+},
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    "followers": {
+      "href": null,
+      "total": 25092160
+    },
+    "genres": [
+      "detroit hip hop",
+      "g funk",
+      "hip hop",
+      "rap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+    "id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/60c4daa4721f666c6afaee82a39bd413979a0474",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ae8dd3b01ada324eeb8c0b341e8f7ebda406095e",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ed213a32e1327f3f2d7b2539eb1db57f55b68dbb",
+        "width": 160
+      }
+    ],
+    "name": "Eminem",
+    "popularity": 93,
+    "type": "artist",
+    "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/66vIaZFb8okZH0npc4eQ5q"
+    },
+    "followers": {
+      "href": null,
+      "total": 269694
+    },
+    "genres": [
+      "turkish pop",
+      "turkish rock",
+      "turkish singer-songwriter"
+    ],
+    "href": "https://api.spotify.com/v1/artists/66vIaZFb8okZH0npc4eQ5q",
+    "id": "66vIaZFb8okZH0npc4eQ5q",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/37010ce969d8d0b5f7c17bd4069d47b4cf94fab0",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/08a3effc69b5f7e665a7f957b665cf7f3c6e25ee",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/d8f63d51b49b12c424e720bb735b937a205d08fb",
+        "width": 160
+      }
+    ],
+    "name": "emre aydýn",
+    "popularity": 58,
+    "type": "artist",
+    "uri": "spotify:artist:66vIaZFb8okZH0npc4eQ5q"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+    },
+    "followers": {
+      "href": null,
+      "total": 765975
+    },
+    "genres": [
+      "dance pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2w9zwq3AktTeYYMuhMjju8",
+    "id": "2w9zwq3AktTeYYMuhMjju8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/1aba070cfeaf1aa76e5e9ca747f2ece348fb3751",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/f7b1e769f80e8a01d846c4dac0a0412bff904282",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/a1e233879ae7c43ddca95e6f1571f7109967f4e5",
+        "width": 160
+      }
+    ],
+    "name": "INNA",
+    "popularity": 67,
+    "type": "artist",
+    "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+    },
+    "followers": {
+      "href": null,
+      "total": 1821979
+    },
+    "genres": [
+      "turkish pop",
+      "turkish rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/64d1rUxfizSAOE9UbMnUZd",
+    "id": "64d1rUxfizSAOE9UbMnUZd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/6a3a19cc9de4be5d8d191abbd36029fcbc68be3a",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/731455844b3c761aefb500e185ef67957055e336",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/2b79d9ec8c6842519f8d9da018f351d4aa09c531",
+        "width": 160
+      }
+    ],
+    "name": "Sezen Aksu",
+    "popularity": 66,
+    "type": "artist",
+    "uri": "spotify:artist:64d1rUxfizSAOE9UbMnUZd"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+    },
+    "followers": {
+      "href": null,
+      "total": 15640297
+    },
+    "genres": [
+      "colombian pop",
+      "dance pop",
+      "latin",
+      "latin pop",
+      "mexican pop",
+      "pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+    "id": "0EmeFodog0BfCgMzAIvKQp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/5a8d19c199d9c097600cafefdb967ab0bbdd8c3b",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/e748f801d281e33ddaa71b6cdbde6292982a4780",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/866f85c29888247940c06cc3918c11163442b28a",
+        "width": 160
+      }
+    ],
+    "name": "Shakira",
+    "popularity": 83,
+    "type": "artist",
+    "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+    },
+    "followers": {
+      "href": null,
+      "total": 10940651
+    },
+    "genres": [
+      "australian dance",
+      "australian pop",
+      "dance pop",
+      "pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN",
+    "id": "5WUlDfRSoLAfcVSX1WnrxN",
+    "images": [
+      {
+        "height": 1333,
+        "url": "https://i.scdn.co/image/652b6bb0dfaf8aa444f4414ee018699260e74306",
+        "width": 1000
+      },
+      {
+        "height": 853,
+        "url": "https://i.scdn.co/image/a82822ab211cbe28a0a1dbcb16902a1a8a2ea791",
+        "width": 640
+      },
+      {
+        "height": 267,
+        "url": "https://i.scdn.co/image/dd3e336d456172bbda56b543c5389e1490903a30",
+        "width": 200
+      },
+      {
+        "height": 85,
+        "url": "https://i.scdn.co/image/95a2aa98384b31336b8d56f8b470c45b12dcd550",
+        "width": 64
+      }
+    ],
+    "name": "Sia",
+    "popularity": 88,
+    "type": "artist",
+    "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0"
+    },
+    "followers": {
+      "href": null,
+      "total": 1086500
+    },
+    "genres": [
+      "turkish pop",
+      "turkish rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5gFPi3KWXEwA9bLEO47Ow0",
+    "id": "5gFPi3KWXEwA9bLEO47Ow0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ad96fdfa27a563147f1a6cacf749c4a49575a30f",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/9829d6e17aed55dea20c5319ebe410807c8b2187",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/debcb0767de4716c3b5067fc4b424ef9b239b4fb",
+        "width": 160
+      }
+    ],
+    "name": "Sýla",
+    "popularity": 62,
+    "type": "artist",
+    "uri": "spotify:artist:5gFPi3KWXEwA9bLEO47Ow0"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+    },
+    "followers": {
+      "href": null,
+      "total": 1397045
+    },
+    "genres": [
+      "turkish pop",
+      "turkish rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2yMN0IP20GOaN6q0p0zL5k",
+    "id": "2yMN0IP20GOaN6q0p0zL5k",
+    "images": [
+      {
+        "height": 500,
+        "url": "https://i.scdn.co/image/4178a5a92fae5c5a67cfe9ba113ea875318952b8",
+        "width": 500
+      },
+      {
+        "height": 200,
+        "url": "https://i.scdn.co/image/4cc52c3bfa7a6e56447918b9a30ab4aea2086159",
+        "width": 200
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/19a5dc46891668b276e9375849b93b1e2cb0e620",
+        "width": 64
+      }
+    ],
+    "name": "Tarkan",
+    "popularity": 64,
+    "type": "artist",
+    "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+    },
+    "followers": {
+      "href": null,
+      "total": 580850
+    },
+    "genres": [
+      "turkish hip hop",
+      "turkish rock",
+      "turkish trap"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
+    "id": "1KXTegXtnCPKXjRaX1llcD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/be6b0b9869097835b09f09ec30658d75750f305b",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/b0fe828fb3a8deaebd8f34bf2568fc80f225723b",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/9f41c4777b70da04cf4757c86ea706800fd1b329",
+        "width": 160
+      }
+    ],
+    "name": "Sagopa Kajmer",
+    "popularity": 66,
+    "type": "artist",
+    "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
+  }
 ]

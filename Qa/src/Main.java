@@ -8,9 +8,12 @@ import java.sql.Statement;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.Scanner;
 
 import model.Album;
 import model.Artist;
+import utils.ArtistQuestionHelper;
+import utils.BinarySearchTree;
 
 
 import org.json.simple.JSONArray;
@@ -18,67 +21,94 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
+import javax.print.attribute.Attribute;
+
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 
 // need to import this as the STEP 1. Has the classes that you mentioned
 public class Main {
+    public static final String GREEN_BOLD_BRIGHT = "\033[1;92m"; // GREEN
+    public static final String RESET = "\033[0m";  // Text Reset
+
     public static ArrayList<Artist> artistList;
     public static ArrayList<String> artistName;
+    public static ArrayList<Artist> queriedArtists;
     public static BinarySearchTree tree;
+    static ArtistQuestionHelper mArtistQuestionHelper;
 
     public static void main(String[] args)  {
         artistList = new ArrayList<>();
         artistName = new ArrayList<>();
         tree =  new BinarySearchTree();
+        queriedArtists = new ArrayList<>();
+        mArtistQuestionHelper = new ArtistQuestionHelper(artistList);
         parseArtist();
         parseAlbums();
 
         //tree.inorder();
 
+//        System.out.print("Arama kelimsesini giriniz: ");
+//        albumSearch();
+
+       //queriedArtists = mArtistQuestionHelper.AskQuestion("tarkan");
+        System.out.print("Arama kelimsesini giriniz: ");
+        artistSearch();
 
 
-        //TODO hep sagopa önüyor
-        ArrayList<Artist> artistler = tree.albumSearh(tree.getRoot(),"Şarkı Gibi Şarkılar (Nino Varon)").album.getArtists();
-
-        String str = ""+tree.albumSearh(tree.getRoot(),"KamikaZe").album.getAlbumName();
-        System.out.println(str);
-//
-//        for (Artist a: artistler){
-//            System.out.println("Artist: " + a.getArtistName());
-//
-//        }
-
-        //System.out.println("total:" + artistList.get(0).getFollowersTotal());
-
-        /*
-        Class.forName("com.mysql.jdbc.Driver");
-        DatabaseInfo dbInfo = new DatabaseInfo();
-        String instanceConnectionName =dbInfo.getInstanceConnectionName();
-        String databaseName = dbInfo.getDatabaseName() ;
-        String IP_of_instance =dbInfo.getIP_of_instance();
-        String username =dbInfo.getUsername();
-        String password = dbInfo.getPassword();
-        String jdbcUrl = String.format( 
-                "jdbc:mysql://" + IP_of_instance +  ":3306/"+
-                        databaseName + "?zeroDateTimeBehavior=convertToNull"
- );
-        String sqlInsert = "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
-                   + "Followers`, `Genres`, `Href`, `"
-                   + "Image_url`, `Popularity`, `Type`) "
-                   + "VALUES ('eminem', 'asd5a5d', 'asda', "
-                   + "45245, 'asd,asda,asd', 'asdada', "
-                   + "'asdasd', 55, 'artist" +
-"     ')";
-        Connection connection = null; 
-        Statement stmt = null;
-        try (Statement statement = connection.createStatement()) {
-           System.out.println("Connecting to a selected database...");
-           connection = DriverManager.getConnection(jdbcUrl, username, password);
-           System.out.println("Connected database successfully...");
-           insertIntoDB(stmt, connection, sqlInsert);
-        }catch(Exception e){
-          e.printStackTrace();        }*/
+        //TODO remove when finish
+        //tree.inorder();
     }
 
+    public static void albumSearch(){
+        Scanner sc = new Scanner(System.in);
+        boolean devam =true;
+        while (devam){
+            String input = sc.nextLine();
+            if (input.compareToIgnoreCase("q") ==0){
+                break;
+            }
+            try{
+                ArrayList<Artist> artistler = tree.albumSearh(tree.getRoot(),input).album.getArtists();
+                for (Artist a: artistler){
+                    System.out.println("Artist(ler): " + a.getArtistName() );
+
+                }
+            }catch (NullPointerException nlpExc){
+                System.out.println("Aranan albüm Database'de bulunamadı: " + input );
+            }
+            System.out.print("Başka albüm: "  );
+
+        }
+        System.out.print("Arama kelimsesini giriniz: ");
+
+    }
+    public static void artistSearch(){
+        Scanner sc = new Scanner(System.in);
+        boolean devam =true;
+        String input;
+        while (devam){
+             input = sc.nextLine();
+            if (input.compareToIgnoreCase("q") ==0){
+                break;
+            }
+
+            queriedArtists = mArtistQuestionHelper.AskQuestion(input);
+            if (queriedArtists.size()==0){
+                System.out.print("Sonuç bulunamadı");
+            }else {
+                for (int j =0;j<queriedArtists.size();j++){
+                    System.out.print("Sonuç :\n" + queriedArtists.get(j).toString());
+                }
+            }
+            System.out.print("\nArama kelimsesini giriniz: ");
+
+        }
+
+
+    }
     public static void parseArtist( ){
         try {
             JSONArray artistJSON = (JSONArray) new JSONParser().parse(new FileReader("artists.json"));
@@ -206,89 +236,6 @@ public class Main {
         }
     }
 
-
-     static class BinarySearchTree {
-        // Root of BST
-        Node root;
-        // Constructor
-        public BinarySearchTree() {
-            root = null;
-        }
-
-        /* Class containing left and right child of current node and key value*/
-        public class Node {
-            Album album;
-            public Node left, right;
-
-            public Node(Album item) {
-                album= item;
-                left = right = null;
-            }
-        }
-
-
-
-
-
-        // This method mainly calls insertRec()
-        public void insert(Album album) {
-            root = insertRec(root, album);
-        }
-
-        /* A recursive function to insert a new key in BST */
-        Node insertRec(Node root, Album album) {
-
-            /* If the tree is empty, return a new node */
-            if (root == null) {
-                root = new Node(album);
-                return root;
-            }
-
-            /* Otherwise, recur down the tree */
-            if (album.getAlbumName().compareToIgnoreCase(root.album.getAlbumName()) < 0)
-                root.left = insertRec(root.left, album);
-            else if (album.getAlbumName().compareToIgnoreCase(root.album.getAlbumName()) > 0)
-                root.right = insertRec(root.right, album);
-
-            /* return the (unchanged) node pointer */
-            return root;
-        }
-
-
-        //TODO create search method
-        public Node albumSearh(Node root, String albumName) {
-
-            /* If the tree is empty, return a null album */
-            if (root.album.getAlbumName().compareToIgnoreCase(albumName) ==0){
-                return root;
-            }else if (root.album.getAlbumName().compareToIgnoreCase(albumName) <0)
-            {
-                root.right = albumSearh(root.right, albumName);
-            }else {
-                root.left = albumSearh(root.left, albumName);
-            }
-            return root;
-        }
-
-
-        // This method mainly calls InorderRec()
-        public void inorder()  {
-            inorderRec(root);
-        }
-
-        // A utility function to do inorder traversal of BST
-        void inorderRec(Node root) {
-            if (root != null) {
-                inorderRec(root.left);
-                System.out.println(root.album.getAlbumName());
-                inorderRec(root.right);
-            }
-        }
-
-        public Node getRoot() {
-            return root;
-        }
-    }
 
 }
 
