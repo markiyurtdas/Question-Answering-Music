@@ -22,8 +22,8 @@ public class ArtistQuestionHelper {
     private ArrayList<Artist> artistList;
     private ArrayList<Artist> queriedArtistList;
     private String artistName;
-    Pattern pattern;
-    Matcher matcher;
+    Pattern mPattern;
+    Matcher mMatcher;
 
     
     public ArtistQuestionHelper(ArrayList<Artist> mArtistList) {
@@ -32,19 +32,27 @@ public class ArtistQuestionHelper {
 
 
     //get an artist
-    public ArrayList<Artist> AskQuestion(String artistName){
+    public ArrayList<Artist> AskQuestion(ArrayList<Artist> artistler,ArrayList<String> artistName,String input){
         queriedArtistList = new ArrayList<>();
         boolean isMatch= false;
-        for (Artist artist:artistList){
-            pattern = Pattern.compile("kim\\s" + artist.getArtistName()+ "[?]*");
-            matcher = pattern.matcher("kim "+"artistName"+"?");
-             isMatch = matcher.matches();
+        int i=0;
+        while (i<artistName.size()){
+            mPattern = Pattern.compile("kim\\s" + artistName.get(i).toUpperCase()+ "[?]*",Pattern.CASE_INSENSITIVE);
+//            System.out.println("artistname: " + input.toUpperCase());
+//            System.out.println("artistname: " + artistName.get(i));
+
+            mMatcher = mPattern.matcher(input);
+            //System.out.println("matcher: "+ mMatcher.toString());
+
+             isMatch = mMatcher.matches();
 
             if (isMatch == true)
             {
-                queriedArtistList.add(artist);
+                queriedArtistList.add(artistler.get(i));
             }
+        i++;
         }
+
         return queriedArtistList;
     }
 

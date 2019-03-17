@@ -2,64 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7aed22-485d-4de9-ae74-f7f10aa17dad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/QA Java Codes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/built-jar.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/MainApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/constants/DatabaseInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Album.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Artist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/model/Track.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/ArtistQuestionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/build/classes/softwareproject/utils/FileReaderArtist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/mysql-connector-java-5.1.47.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/mysql-connector.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/private/private.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/constants/DatabaseInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/main/MainApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/model/Album.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/model/Artist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/model/Track.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/AlbumFileReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/ArtistQuestionHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/DatabaseHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA Java Codes/src/softwareproject/utils/FileReaderArtist.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QA erdem deneme regex/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/constants/DatabaseInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/model/Album.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/model/Artist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/model/Track.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/utils/ArtistQuestionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/utils/BinarySearchTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/QA erdem deneme regex/utils/BinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/Qa/META-INF/Qa.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/Qa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/Qa/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/Qa/model/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/Qa/model/Artist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/Qa/utils/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QA erdem deneme regex/out/production/Qa/utils/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albums.json" beforeDir="false" afterPath="$PROJECT_DIR$/albums.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/artists.json" beforeDir="false" afterPath="$PROJECT_DIR$/artists.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Qa/Main$BinarySearchTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Qa/Main$BinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Qa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bilgiler.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +15,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="34" column="68" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artists.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="185" selection-start-line="185" selection-end-line="185" />
+              <folding>
+                <element signature="e#4#997#0" />
+                <element signature="e#1001#1855#0" />
+                <element signature="e#1859#2811#0" />
+                <element signature="e#4680#5607#0" />
+                <element signature="e#5611#6603#0" />
+                <element signature="e#6607#7711#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="51" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#albumSearch#0;class#Main#0" />
+                <element signature="method#parseArtist#0;class#Main#0" />
+                <element signature="method#parseAlbums#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,8 +71,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>utils.Binary</find>
-      <find>utils.BinarySearchTree.Node</find>
       <find>kamikaz</find>
       <find>System.ou</find>
       <find>conta</find>
@@ -101,7 +90,6 @@
       <find>items</find>
       <find>System.out.println</find>
       <find>Ý</find>
-      <find>ý</find>
       <find>sevgi</find>
       <find>þ</find>
       <find>ð</find>
@@ -110,6 +98,9 @@
       <find>node</find>
       <find>alb</find>
       <find>BinarySearchTree</find>
+      <find>ý</find>
+      <find>emre</find>
+      <find>nn</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,15 +121,15 @@
         <option value="$PROJECT_DIR$/src/utils/BST.java" />
         <option value="$PROJECT_DIR$/src/model/Artist.java" />
         <option value="$PROJECT_DIR$/src/model/Album.java" />
-        <option value="$PROJECT_DIR$/artists.json" />
         <option value="$PROJECT_DIR$/albums.json" />
         <option value="$PROJECT_DIR$/src/utils/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" />
+        <option value="$PROJECT_DIR$/artists.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="391" />
     <option name="y" value="151" />
     <option name="width" value="1356" />
@@ -174,6 +165,12 @@
               <item name="Qa" type="b2602c69:ProjectViewProjectNode" />
               <item name="Qa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -184,20 +181,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552818006010" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QA erdem deneme regex" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -256,16 +253,18 @@
       <workItem from="1552825240961" duration="75000" />
       <workItem from="1552825338473" duration="7000" />
       <workItem from="1552825854877" duration="3136000" />
+      <workItem from="1552837019631" duration="3735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27952000" />
+    <option name="totallyTimeSpent" value="31687000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27510685" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27831197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +273,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3377193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3377193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,42 +356,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/artists.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="e#4#997#0" />
-            <element signature="e#1001#1855#0" />
-            <element signature="e#1859#2811#0" />
-            <element signature="e#2815#3776#0" />
-            <element signature="e#3780#4676#0" />
-            <element signature="e#4680#5607#0" />
-            <element signature="e#5611#6603#0" />
-            <element signature="e#6607#7711#0" />
-            <element signature="e#7715#8636#0" />
-            <element signature="e#8640#9561#0" />
-            <element signature="e#9565#10520#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/albums.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1101">
           <caret line="21107" column="3" lean-forward="true" selection-start-line="21107" selection-start-column="3" selection-end-line="21107" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,13 +372,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <state relative-caret-position="179">
+          <caret line="51" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#albumSearch#0;class#Main#0" />
             <element signature="method#parseArtist#0;class#Main#0" />
             <element signature="method#parseAlbums#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artists.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+          <folding>
+            <element signature="e#4#997#0" />
+            <element signature="e#1001#1855#0" />
+            <element signature="e#1859#2811#0" />
+            <element signature="e#4680#5607#0" />
+            <element signature="e#5611#6603#0" />
+            <element signature="e#6607#7711#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -48,6 +48,8 @@ public class Main {
         parseArtist();
         parseAlbums();
 
+//        for (String name: artistName)
+//            System.out.println("artist:" + name);
         //tree.inorder();
 
 //        System.out.print("Arama kelimsesini giriniz: ");
@@ -95,7 +97,7 @@ public class Main {
                 break;
             }
 
-            queriedArtists = mArtistQuestionHelper.AskQuestion(input);
+            queriedArtists = mArtistQuestionHelper.AskQuestion(artistList,artistName,input);
             if (queriedArtists.size()==0){
                 System.out.print("Sonuç bulunamadı");
             }else {
