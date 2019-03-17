@@ -39,7 +39,7 @@
       "name": "Ahmak Islatan",
       "release_date": "2017-09-01",
       "release_date_precision": "day",
-      "total":14,
+      "total_tracks":14,
       "type": "album",
       "uri": "spotify:album:2OmsZtRMCWwyooGTRp8unQ"
     },
@@ -83,7 +83,7 @@
       "name": "Underground Years Vol.2 (1998-2001 Beat Album)",
       "release_date": "2015-03-05",
       "release_date_precision": "day",
-      "total": 17,
+      "total_tracks": 17,
       "type": "album",
       "uri": "spotify:album:21JXZcGD2oEHQl7XtCkdK9"
     },
@@ -127,7 +127,7 @@
       "name": "Underground Years Vol.1 (1998-2001 Beat Album)",
       "release_date": "2015-02-23",
       "release_date_precision": "day",
-      "total": 17,
+      "total_tracks": 17,
       "type": "album",
       "uri": "spotify:album:1MVcDp7MwkqfEnmoLuvRWm"
     },
@@ -171,7 +171,7 @@
       "name": "Ahmak Islatan",
       "release_date": "2014-03-20",
       "release_date_precision": "day",
-      "total": 9,
+      "total_tracks": 9,
       "type": "album",
       "uri": "spotify:album:2Ql04sbIg4mUcI2YcZeGCd"
     },
@@ -215,7 +215,7 @@
       "name": "Ahmak Islatan (Enstrumantal)",
       "release_date": "2014-03-20",
       "release_date_precision": "day",
-      "total": 8,
+      "total_tracks": 8,
       "type": "album",
       "uri": "spotify:album:1pwgYwgluqbk6tehGm8ow7"
     },
@@ -259,7 +259,7 @@
       "name": "Kalp Hastası (Enstrumantal)",
       "release_date": "2013-08-07",
       "release_date_precision": "day",
-      "total": 18,
+      "total_tracks": 18,
       "type": "album",
       "uri": "spotify:album:1qYMR6cuhZB8INXgdq6XWX"
     },
@@ -303,7 +303,7 @@
       "name": "Kalp Hastası",
       "release_date": "2013-08-07",
       "release_date_precision": "day",
-      "total": 19,
+      "total_tracks": 19,
       "type": "album",
       "uri": "spotify:album:0uO7Yadv4nxdqtlyEESq4D"
     },
@@ -347,7 +347,7 @@
       "name": "Saydam Odalar",
       "release_date": "2011",
       "release_date_precision": "year",
-      "total": 16,
+      "total_tracks": 16,
       "type": "album",
       "uri": "spotify:album:6yKCMFBEwit95zohTKDZGo"
     },
@@ -391,7 +391,7 @@
       "name": "Şarkı Koleksiyoncusu",
       "release_date": "2009-02-19",
       "release_date_precision": "day",
-      "total": 13,
+      "total_tracks": 13,
       "type": "album",
       "uri": "spotify:album:79umtCShaD1NW6DNZV26Ic"
     },
@@ -435,7 +435,7 @@
       "name": "Kötü İnsanları Tanıma Senesi",
       "release_date": "2008-03-14",
       "release_date_precision": "day",
-      "total": 17,
+      "total_tracks": 17,
       "type": "album",
       "uri": "spotify:album:7nppnOrLDR5eOBq7orJr94"
     },
@@ -479,7 +479,7 @@
       "name": "Kötü İnsanları Tanıma Senesi (Enstrumantal)",
       "release_date": "2008-03-14",
       "release_date_precision": "day",
-      "total": 17,
+      "total_tracks": 17,
       "type": "album",
       "uri": "spotify:album:6wSuTJukoVItASjD1Z7gGX"
     },
@@ -523,7 +523,7 @@
       "name": "İkimizi Anlatan Bir Şey (Enstrumantal)",
       "release_date": "2007-04-26",
       "release_date_precision": "day",
-      "total": 18,
+      "total_tracks": 18,
       "type": "album",
       "uri": "spotify:album:2w0dflUzW5QfgeaQCeUHde"
     },
@@ -567,7 +567,7 @@
       "name": "Romantizma",
       "release_date": "2005-08-19",
       "release_date_precision": "day",
-      "total": 23,
+      "total_tracks": 23,
       "type": "album",
       "uri": "spotify:album:7uBxO2eBjRmdOX3sefYBHX"
     },
@@ -611,7 +611,7 @@
       "name": "Romantizma 2015 (Remastered)",
       "release_date": "2005-02-02",
       "release_date_precision": "day",
-      "total": 23,
+      "total_tracks": 23,
       "type": "album",
       "uri": "spotify:album:3TrjczB0G1yDQoMGLVFt6R"
     },
@@ -655,7 +655,7 @@
       "name": "Bir Pesimistin Gözyaşları",
       "release_date": "2003-06-06",
       "release_date_precision": "day",
-      "total": 39,
+      "total_tracks": 39,
       "type": "album",
       "uri": "spotify:album:0pTcS1HbU01CSjEkjzCMeS"
     },
@@ -699,7 +699,7 @@
       "name": "Yirmi Dört (Re-Vocal Version)",
       "release_date": "2019-02-12",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:4fPfDHIQGWPfxj5BSyrjqS"
     },
@@ -743,7 +743,7 @@
       "name": "Serbest",
       "release_date": "2018-06-20",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:5Ka0DJNXh6FuyjAbd3FqUk"
     },
@@ -787,7 +787,7 @@
       "name": "Sorun Var (No Joke Melankolik Mix)",
       "release_date": "2018-05-30",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:1w1kVhv7uGjc0KXgpwW6dV"
     },
@@ -831,7 +831,7 @@
       "name": "Sessiz Ve Yalnız",
       "release_date": "2018-05-19",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:6J1hCyKQec7sQ1yNCp38it"
     },
@@ -875,7 +875,7 @@
       "name": "Sorun Var",
       "release_date": "2018-01-02",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:61DW1ZHu6DmX1EAh7dLid8"
     },
@@ -919,7 +919,7 @@
       "name": "Sertlik Kanında Var Hayatın",
       "release_date": "2017-04-29",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:1JlmM2ykTBMa1j5u1fjBwf"
     },
@@ -963,7 +963,7 @@
       "name": "Ne Kaybederdin",
       "release_date": "2017-01-30",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:7iUUDACmgVYi1kS4xSPI6S"
     },
@@ -1007,7 +1007,7 @@
       "name": "366.Gün",
       "release_date": "2017-01-01",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:3u2FaquJ6j3qbKUoGH8A4G"
     },
@@ -1051,7 +1051,7 @@
       "name": "Bilmiyorum",
       "release_date": "2015-06-18",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:55vTkTRtk9K4BBkrSHYleC"
     },
@@ -1095,7 +1095,7 @@
       "name": "Saykodelik - EP",
       "release_date": "2009-03-18",
       "release_date_precision": "day",
-      "total": 4,
+      "total_tracks": 4,
       "type": "album",
       "uri": "spotify:album:0RGLRTlIyZUHrh9fGzEYgn"
     },
@@ -1139,7 +1139,7 @@
       "name": "Oldu Olanlar (Instrumental Mix)",
       "release_date": "2018-10-17",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:6Loo2ztn0FjWD0uNI0ILBQ"
     },
@@ -1183,7 +1183,7 @@
       "name": "Oldu Olanlar",
       "release_date": "2018-10-02",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:0KVq8B1AyzHU6WxJbV1Iwa"
     },
@@ -1227,7 +1227,7 @@
       "name": "Kolokolik",
       "release_date": "2016-10-21",
       "release_date_precision": "day",
-      "total": 15,
+      "total_tracks": 15,
       "type": "album",
       "uri": "spotify:album:0KW5Yo9h3UVkKab5Ntn5oR"
     },
@@ -1271,7 +1271,7 @@
       "name": "Tecrübe",
       "release_date": "2016-03-10",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:4BNPkzyXCz9778CmSswzTJ"
     },
@@ -1315,7 +1315,7 @@
       "name": "Chapters: Jewish Rap Bar Mitzvah",
       "release_date": "2015-12-07",
       "release_date_precision": "day",
-      "total": 13,
+      "total_tracks": 13,
       "type": "album",
       "uri": "spotify:album:4XArVBv6Hs2EwqPopZHWYd"
     },
@@ -1359,7 +1359,7 @@
       "name": "Chapters (Bar Mitzvah Edition)",
       "release_date": "2015-12-06",
       "release_date_precision": "day",
-      "total": 13,
+      "total_tracks": 13,
       "type": "album",
       "uri": "spotify:album:7GVd4GBw8G6CurLfle84QR"
     },
@@ -1403,7 +1403,7 @@
       "name": "Naber",
       "release_date": "2015-11-12",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:5mmrWTCC8OPLpwmqLwSJRG"
     },
@@ -1447,7 +1447,7 @@
       "name": "Sana Bunları Hiç Bilmediğin Bir Yerden Yazıyorum",
       "release_date": "2014-10-28",
       "release_date_precision": "day",
-      "total": 12,
+      "total_tracks": 12,
       "type": "album",
       "uri": "spotify:album:3w8uUhW3lk2kk5yeSB6e3x"
     },
@@ -1491,7 +1491,7 @@
       "name": "Abrakadabra",
       "release_date": "2014-05-15",
       "release_date_precision": "day",
-      "total": 1,
+      "total_tracks": 1,
       "type": "album",
       "uri": "spotify:album:3VMsBwSLFjrGftMuNbANj1"
     },
@@ -1535,7 +1535,7 @@
       "name": "Hit 2014",
       "release_date": "2014",
       "release_date_precision": "year",
-      "total": 18,
+      "total_tracks": 18,
       "type": "album",
       "uri": "spotify:album:4BVMkN8p8RownQwZqSv3kI"
     },
@@ -1579,7 +1579,7 @@
       "name": "Israel Hip Hop: Jewish Rap Starz Vol. Aleph",
       "release_date": "2013-07-02",
       "release_date_precision": "day",
-      "total": 12,
+      "total_tracks": 12,
       "type": "album",
       "uri": "spotify:album:6nARyZGKuj9gcboKmxWmpC"
     },
@@ -1623,7 +1623,7 @@
       "name": "İ-Rap",
       "release_date": "2007-10-19",
       "release_date_precision": "day",
-      "total": 30,
+      "total_tracks": 30,
       "type": "album",
       "uri": "spotify:album:5tZ9DHJeM6h9a6OIev41ix"
     },
@@ -1667,7 +1667,7 @@
       "name": "Kafile",
       "release_date": "2006",
       "release_date_precision": "year",
-      "total": 16,
+      "total_tracks": 16,
       "type": "album",
       "uri": "spotify:album:0lk56yoXCItpOyPqywrbXL"
     },
@@ -1711,7 +1711,7 @@
       "name": "Karantina Embryo",
       "release_date": "2005-09-21",
       "release_date_precision": "day",
-      "total": 16,
+      "total_tracks": 16,
       "type": "album",
       "uri": "spotify:album:3q451AJLrHOqx1YVOWZzho"
     },
@@ -1755,7 +1755,7 @@
       "name": "G.O.R.A. (Orijinal Film Müzikleri)",
       "release_date": "2004-11-08",
       "release_date_precision": "day",
-      "total": 33,
+      "total_tracks": 33,
       "type": "album",
       "uri": "spotify:album:4gcJBoFpYirWxOVOZhBLjA"
     },
@@ -1799,7 +1799,7 @@
       "name": "Hassickdir? III",
       "release_date": "2003-01-01",
       "release_date_precision": "day",
-      "total": "13",
+      "total_tracks": "13",
       "type": "album",
       "uri": "spotify:album:5YoVLVoT8C3gs5nQuM8k2l"
     }

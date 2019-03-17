@@ -3,13 +3,17 @@ package utils;
 import model.Album;
 
 public class BinarySearchTree {
-
-
+    // Root of BST
+    Node root;
+    // Constructor
+    public BinarySearchTree() {
+        root = null;
+    }
 
     /* Class containing left and right child of current node and key value*/
-    class Node {
+    public class Node {
         Album album;
-        Node left, right;
+        public Node left, right;
 
         public Node(Album item) {
             album= item;
@@ -17,13 +21,9 @@ public class BinarySearchTree {
         }
     }
 
-    // Root of BST
-    Node root;
 
-    // Constructor
-    public BinarySearchTree() {
-        root = null;
-    }
+
+
 
     // This method mainly calls insertRec()
     public void insert(Album album) {
@@ -51,22 +51,20 @@ public class BinarySearchTree {
 
 
     //TODO create search method
-//   public Album search(Node root, String albumName) {
-//
-//        /* If the tree is empty, return a null album */
-//        if (root.album.getAlbumName().compareToIgnoreCase(albumName) ==0){
-//            return root
-//        }
-//
-//        /* Otherwise, recur down the tree */
-//        if (album.getAlbumName().compareToIgnoreCase(root.album.getAlbumName()) < 0)
-//            root.left = insertRec(root.left, album);
-//        else if (album.getAlbumName().compareToIgnoreCase(root.album.getAlbumName()) > 0)
-//            root.right = insertRec(root.right, album);
-//
-//        /* return the (unchanged) node pointer */
-//        return album;
-//    }
+   public Node albumSearh(Node root, String albumName) {
+
+        /* If the tree is empty, return a null album */
+        if (root.album.getAlbumName().compareToIgnoreCase(albumName) ==0){
+            return root;
+        }else if (root.album.getAlbumName().compareToIgnoreCase(albumName) >0)
+        {
+            root.right = albumSearh(root.right, albumName);
+        }else {
+            root.left = albumSearh(root.left, albumName);
+        }
+        return root;
+    }
+
 
     // This method mainly calls InorderRec()
     public void inorder()  {
@@ -80,5 +78,9 @@ public class BinarySearchTree {
             System.out.println(root.album.getAlbumName());
             inorderRec(root.right);
         }
+    }
+
+    public Node getRoot() {
+        return root;
     }
 }

@@ -5,12 +5,13 @@ import java.lang.reflect.Array;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
 import model.Album;
 import model.Artist;
-import utils.BinarySearchTree;
+
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -23,23 +24,30 @@ public class Main {
     public static ArrayList<Artist> artistList;
     public static ArrayList<String> artistName;
     public static BinarySearchTree tree;
+
     public static void main(String[] args)  {
         artistList = new ArrayList<>();
         artistName = new ArrayList<>();
         tree =  new BinarySearchTree();
         parseArtist();
         parseAlbums();
-        for (int j=0; j<artistList.size();j++) {
-            try {
-                artistName.add(artistList.get(j).getArtistName()) ;
-            }catch (Exception e){
-                e.printStackTrace();
-            }
-        }
 
-        tree.inorder();
+        //tree.inorder();
 
 
+
+        //TODO hep sagopa önüyor
+        ArrayList<Artist> artistler = tree.albumSearh(tree.getRoot(),"Şarkı Gibi Şarkılar (Nino Varon)").album.getArtists();
+
+        String str = ""+tree.albumSearh(tree.getRoot(),"KamikaZe").album.getAlbumName();
+        System.out.println(str);
+//
+//        for (Artist a: artistler){
+//            System.out.println("Artist: " + a.getArtistName());
+//
+//        }
+
+        //System.out.println("total:" + artistList.get(0).getFollowersTotal());
 
         /*
         Class.forName("com.mysql.jdbc.Driver");
@@ -91,6 +99,7 @@ public class Main {
                 artist.setHref((String) jsonObject.get("href"));
                 artist.setGenres((ArrayList<String>) jsonObject.get("genres"));
 
+
                 //artist.setGenres(jsonObject.get);
 
                 artistList.add(artist);
@@ -107,6 +116,13 @@ public class Main {
     }
 
     public static void parseAlbums(){
+        for (int j=0; j<artistList.size();j++) {
+            try {
+                artistName.add(artistList.get(j).getArtistName()) ;
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        }
         try {
             JSONArray albumJSOn = (JSONArray) new JSONParser().parse(new FileReader("albums.json"));
 
@@ -121,12 +137,13 @@ public class Main {
                 album.setAlbumGroup((String)jsonObject.get("album_type"));
                 JSONArray albumArtists = (JSONArray) jsonObject.get("artists");
                 for (int k=0;k<albumArtists.size();k++){
-                    JSONObject jo = (JSONObject) albumJSOn.get(k);
+                    JSONObject jo = (JSONObject) albumArtists.get(k);
                     String type = (String) jo.get("type");
 
                     if (type.compareToIgnoreCase("artist") == 0){
                         Artist artist = new Artist();
                         String name = (String) jo.get("name");
+
                         if (artistName.contains(name)){
                             int index = artistName.indexOf(name);
                             album.addArtists(artistList.get(index));
@@ -143,15 +160,29 @@ public class Main {
                         artist.setType("group");
                         album.addArtists(artist);
                     }
+                    jo =null;
                 }
                 joT = (JSONObject) jsonObject.get("external_urls");
                 album.setExternalUrl((String) joT.get("spotify"));
-                album.setHref((String) joT.get("href"));
-                album.setId((String) joT.get("id"));
-                album.setReleaseDate((Date) joT.get("release_date"));
-                album.setReleaseDatePrecision((String) joT.get("release_date_precision"));
-//                try{
-//                    album.setTotalTracks((Integer) joT.get("total"));
+                album.setHref((String) jsonObject.get("href"));
+                album.setId((String) jsonObject.get("id"));
+                SimpleDateFormat dateFormat=new SimpleDateFormat("yyyy-mm-dd");
+                try {
+                    album.setReleaseDate(dateFormat.parse((String) jsonObject.get("release_date")));
+                } catch (java.text.ParseException e) {
+                    dateFormat = new SimpleDateFormat("yyyy");
+                    try {
+                        album.setReleaseDate(dateFormat.parse((String) jsonObject.get("release_date")));
+                    } catch (java.text.ParseException e1) {
+                        e1.printStackTrace();
+                    }
+                }
+                album.setReleaseDatePrecision((String) jsonObject.get("release_date_precision"));
+                album.setTotalTracks(Integer.parseInt(""+jsonObject.get("total_tracks")));
+
+
+                //                try{
+//
 //
 //                }catch (NumberFormatException ex){
 //                    System.out.println("//-/-/-/-/-/--/-/-/-/-/--/--/-/-/-/-/-/-/-/-/-/-/--/-/-/-/-/-/");
@@ -161,6 +192,7 @@ public class Main {
 //                }
 //                album.setType((String) joT.get("type"));
 
+                joT = null;
                 tree.insert(album);
             }
         } catch (FileNotFoundException e) {
@@ -173,6 +205,91 @@ public class Main {
             e.printStackTrace();
         }
     }
+
+
+     static class BinarySearchTree {
+        // Root of BST
+        Node root;
+        // Constructor
+        public BinarySearchTree() {
+            root = null;
+        }
+
+        /* Class containing left and right child of current node and key value*/
+        public class Node {
+            Album album;
+            public Node left, right;
+
+            public Node(Album item) {
+                album= item;
+                left = right = null;
+            }
+        }
+
+
+
+
+
+        // This method mainly calls insertRec()
+        public void insert(Album album) {
+            root = insertRec(root, album);
+        }
+
+        /* A recursive function to insert a new key in BST */
+        Node insertRec(Node root, Album album) {
+
+            /* If the tree is empty, return a new node */
+            if (root == null) {
+                root = new Node(album);
+                return root;
+            }
+
+            /* Otherwise, recur down the tree */
+            if (album.getAlbumName().compareToIgnoreCase(root.album.getAlbumName()) < 0)
+                root.left = insertRec(root.left, album);
+            else if (album.getAlbumName().compareToIgnoreCase(root.album.getAlbumName()) > 0)
+                root.right = insertRec(root.right, album);
+
+            /* return the (unchanged) node pointer */
+            return root;
+        }
+
+
+        //TODO create search method
+        public Node albumSearh(Node root, String albumName) {
+
+            /* If the tree is empty, return a null album */
+            if (root.album.getAlbumName().compareToIgnoreCase(albumName) ==0){
+                return root;
+            }else if (root.album.getAlbumName().compareToIgnoreCase(albumName) <0)
+            {
+                root.right = albumSearh(root.right, albumName);
+            }else {
+                root.left = albumSearh(root.left, albumName);
+            }
+            return root;
+        }
+
+
+        // This method mainly calls InorderRec()
+        public void inorder()  {
+            inorderRec(root);
+        }
+
+        // A utility function to do inorder traversal of BST
+        void inorderRec(Node root) {
+            if (root != null) {
+                inorderRec(root.left);
+                System.out.println(root.album.getAlbumName());
+                inorderRec(root.right);
+            }
+        }
+
+        public Node getRoot() {
+            return root;
+        }
+    }
+
 }
 
 
