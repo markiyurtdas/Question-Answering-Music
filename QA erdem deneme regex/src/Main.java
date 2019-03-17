@@ -1,6 +1,7 @@
 import model.Artist;
 import utils.BinarySearchTree;
 
+import javax.xml.transform.sax.SAXSource;
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -43,26 +44,26 @@ public class Main {
 
             tree.inorder();
 
-            System.out.println(artistList.get(0));
+           // System.out.println(artistList.get(0));
+
+
 
 
             //kim tarkan, kimdir tarkan,tarkan kim, tarkan kimdir
 
+
             int i= 0;
             while(i<artistName.size()) {
 
-
-
                 Pattern p = Pattern.compile("kim\\s" + artistName.get(i) + "[?]*");
 
-                Matcher m = p.matcher("kim tarkan?");
+                Matcher m = p.matcher("kim eminem?");
 
                 boolean b = m.matches();
-
                 if (b == true)
                 {
-                    //System.out.println(i);
-                    artistList.get(i);
+                    System.out.println(i);
+                    System.out.println(artistList.get(i).getArtistName());
                 }
 
 

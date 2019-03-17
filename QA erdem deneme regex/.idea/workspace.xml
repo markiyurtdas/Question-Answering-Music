@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7aed22-485d-4de9-ae74-f7f10aa17dad" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Qa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/out/production/Qa/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/ArtistQuestionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/out/production/Qa/utils/ArtistQuestionHelper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Qa/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Qa/src/utils/ArtistQuestionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/src/utils/ArtistQuestionHelper.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Qa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Qa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Qa/Qa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Qa/Qa.iml" afterDir="false" />
+>>>>>>> 1860a4d18537cb7de946fec0bb3fca71b5fbfcfa
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +32,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="435">
               <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+=======
+            <state relative-caret-position="294">
+              <caret line="65" column="71" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
+>>>>>>> 1860a4d18537cb7de946fec0bb3fca71b5fbfcfa
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3533#3542#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/Qa/Main.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <folding>
+                <element signature="e#0#5326#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,10 +117,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="391" />
-    <option name="y" value="151" />
-    <option name="width" value="1356" />
-    <option name="height" value="748" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -102,7 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,29 +142,11 @@
               <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QA erdem deneme regex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QA erdem deneme regex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +158,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -208,13 +217,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="17954000" />
+=======
+    <option name="totallyTimeSpent" value="19119000" />
+>>>>>>> 1860a4d18537cb7de946fec0bb3fca71b5fbfcfa
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25973153" />
+>>>>>>> 1860a4d18537cb7de946fec0bb3fca71b5fbfcfa
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -223,7 +240,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3377193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3371105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -233,7 +250,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -377,19 +394,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/regex/Pattern.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/regex/Pattern.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/Qa/Main.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="768" column="19" selection-start-line="768" selection-start-column="19" selection-end-line="768" selection-end-column="19" />
+        <state relative-caret-position="-16">
+          <folding>
+            <element signature="e#0#5326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="435">
           <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+=======
+        <state relative-caret-position="294">
+          <caret line="65" column="71" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
+>>>>>>> 1860a4d18537cb7de946fec0bb3fca71b5fbfcfa
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3533#3542#0" expanded="true" />
           </folding>
         </state>
       </provider>
