@@ -57,7 +57,7 @@ public class Main {
 //        albumSearch();
 
        //queriedArtists = mArtistQuestionHelper.AskQuestion("tarkan");
-        System.out.println("\nSanatçı hakkında bilmek istediğiniz soruyu sorunuz: ");
+        System.out.println("\nBilgilerini öğrenmek istediğiniz sanatçıyı aratınız.");
         artistSearch();
 
 
@@ -106,7 +106,7 @@ public class Main {
                     System.out.print("Sonuç :\n" + queriedArtists.get(j).toString());
                 }
             }
-            System.out.println("\nSanatçı hakkında bilmek istediğiniz soruyu sorunuz: ");
+            System.out.println("\nBilgilerini öğrenmek istediğiniz sanatçıyı aratınız.");
 
         }
 
