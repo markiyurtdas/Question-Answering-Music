@@ -22,8 +22,8 @@ public class ArtistQuestionHelper {
     private ArrayList<Artist> artistList;
     private ArrayList<Artist> queriedArtistList;
     private String artistName;
-    Pattern mPattern;
-    Matcher mMatcher;
+    Pattern mPattern, mPattern2;
+    Matcher mMatcher, mMatcher2;
 
     
     public ArtistQuestionHelper(ArrayList<Artist> mArtistList) {
@@ -37,33 +37,44 @@ public class ArtistQuestionHelper {
         boolean isMatch= false;
         int i=0;
         while (i<artistName.size()){
-            mPattern = Pattern.compile("[kim[dir]]*" + "[\\s]?" + artistName.get(i).toUpperCase()+ "[\\s]?" + "[kim[dir]]*" + "[?]*",Pattern.CASE_INSENSITIVE);
+           mPattern = Pattern.compile("[kim[dir]]*" + "[\\s]?" + artistName.get(i).toUpperCase()+ "[\\s]?" + "[kim[dir]]*" + "[?]*",Pattern.CASE_INSENSITIVE);
 
-            //mPattern = Pattern.compile("[[\\w]*[^\\w]*]*" + artistName.get(i).toUpperCase()+ "[?]*",Pattern.CASE_INSENSITIVE);
-
+           // mPattern = Pattern.compile("[[\\w]*[^\\w]*]*" + artistName.get(i).toUpperCase()+ "[[\\w]*[^\\w]*]*" ,Pattern.CASE_INSENSITIVE);
 
             mMatcher = mPattern.matcher(input);
+
             //System.out.println("matcher: "+ mMatcher.toString());
-
              isMatch = mMatcher.matches();
-
             if (isMatch == true)
             {
                 queriedArtistList.add(artistler.get(i));
             }
+
         i++;
         }
 
         return queriedArtistList;
     }
 
-    public ArrayList<Artist> AskQuestion2(String artistName) {
+    /*public ArrayList<Artist> AskQuestion2(String artistName , String input) {
+
+        boolean isMatchQuestion = false;
+        int j = 0;
+
+        while(j < queriedArtistList.size())
+        {
+
+            mPattern2 =  Pattern.compile("");
+
+            mMatcher2 =
 
 
+            j++;
+        }
 
         return queriedArtistList;
     }
 
-    
-
+*/
 }
+
