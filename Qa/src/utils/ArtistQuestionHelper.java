@@ -37,7 +37,7 @@ public class ArtistQuestionHelper {
         boolean isMatch= false;
         int i=0;
         while (i<artistName.size()){
-           mPattern = Pattern.compile("[kim[dir]]*" + "[\\s]?" + artistName.get(i).toUpperCase()+ "[\\s]?" + "[kim[dir]]*" + "[?]*",Pattern.CASE_INSENSITIVE);
+           mPattern = Pattern.compile("[kim[dir]]*" + "[\\s]?" + artistName.get(i)+ "[\\s]?" + "[kim[dir]]*" + "[?]*",Pattern.CASE_INSENSITIVE);
 
            // mPattern = Pattern.compile("[[\\w]*[^\\w]*]*" + artistName.get(i).toUpperCase()+ "[[\\w]*[^\\w]*]*" ,Pattern.CASE_INSENSITIVE);
 

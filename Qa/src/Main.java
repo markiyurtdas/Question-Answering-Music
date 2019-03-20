@@ -39,6 +39,7 @@ public class Main {
     public static BinarySearchTree tree;
     static ArtistQuestionHelper mArtistQuestionHelper;
 
+
     public static void main(String[] args)  {
         artistList = new ArrayList<>();
         artistName = new ArrayList<>();
@@ -47,16 +48,16 @@ public class Main {
         mArtistQuestionHelper = new ArtistQuestionHelper(artistList);
         parseArtist();
         parseAlbums();
-
+//
 //        for (String name: artistName)
-//            System.out.println("artist:" + name);
+//            System.out.print(" ," + name);
         //tree.inorder();
-
+        System.out.println(artistName.toString());
 //        System.out.print("Arama kelimsesini giriniz: ");
 //        albumSearch();
 
        //queriedArtists = mArtistQuestionHelper.AskQuestion("tarkan");
-        System.out.print("Arama kelimsesini giriniz: ");
+        System.out.println("\nSanatçı hakkında bilmek istediğiniz soruyu sorunuz: ");
         artistSearch();
 
 
@@ -105,7 +106,7 @@ public class Main {
                     System.out.print("Sonuç :\n" + queriedArtists.get(j).toString());
                 }
             }
-            System.out.print("\nArama kelimsesini giriniz: ");
+            System.out.println("\nSanatçı hakkında bilmek istediğiniz soruyu sorunuz: ");
 
         }
 

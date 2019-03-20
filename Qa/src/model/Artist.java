@@ -125,7 +125,8 @@ public class Artist {
 
     @Override
     public String toString() {
-        return "Artist{" + "externalUrl=" + externalUrl + ", followersTotal=" + followersTotal + ", genres=" + genres + ", href=" + href + ", spotifyId=" + spotifyId   + ", artistName=" + artistName + ", popularity=" + popularity + ", type=" + type + '}';
+        return "Artist{" + "\nexternalUrl=" + externalUrl + "\nfollowersTotal=" + followersTotal + "\ngenres=" + genres + "\nhref=" + href +
+                "\nspotifyId=" + spotifyId   + "\nartistName=" + artistName + "\npopularity=" + popularity + "\ntype=" + type + '}';
     }
     public String prepareForDB() {
         return "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
