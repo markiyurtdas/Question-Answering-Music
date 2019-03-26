@@ -38,7 +38,7 @@ public class Main {
     public static ArrayList<Artist> queriedArtists;
     public static BinarySearchTree tree;
     static ArtistQuestionHelper mArtistQuestionHelper;
-
+    static boolean isMatch2;
     static Pattern mPattern2;
     static Matcher mMatcher2;
 
@@ -106,11 +106,18 @@ public class Main {
                 System.out.print("Sonuç bulunamadı");
             }else {
                 for (int j =0;j<queriedArtists.size();j++){
+                    isMatch2 = false;
 
-                    secondSearch(input);
+                    mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + "adres" + "[[\\w]*[^\\w]*]*");
 
-                    System.out.print("Sonuç :\n" + queriedArtists.get(j).toString());
+                    mMatcher2 =mPattern2.matcher(input);
+                    isMatch2 = mMatcher2.matches();
+                    if (isMatch2 == true)
+                    {
+                        System.out.println("adresi: " + queriedArtists.get(j).getPopularity());
+                    }
                 }
+                //queriedArtists.clear();
             }
             System.out.println("\nBilgilerini öğrenmek istediğiniz sanatçıyı aratınız.");
 
@@ -119,19 +126,19 @@ public class Main {
 
     }
 
-    private static void secondSearch(String input) {
-
-
-        
-        mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + "adres" + "[[\\w]*[^\\w]*]*");
-
-        mMatcher2 =mPattern2.matcher(input);
-
-        if(mMatcher2)
-
-
-
-    }
+//    private static void secondSearch(String input) {
+//
+//
+//
+//        mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + "adres" + "[[\\w]*[^\\w]*]*");
+//
+//        mMatcher2 =mPattern2.matcher(input);
+//
+//        if(mMatcher2)
+//
+//
+//
+//    }
 
     public static void parseArtist( ){
         try {
