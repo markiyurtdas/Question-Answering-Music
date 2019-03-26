@@ -48,6 +48,10 @@ public class ArtistQuestionHelper {
             if (isMatch == true)
             {
                 mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + "adres" + "[[\\w]*[^\\w]*]*");
+
+                mMatcher2 =mPattern2.matcher(input);
+
+                queriedArtistList.add(artistler.get(i));
             }
 
         i++;
