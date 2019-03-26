@@ -39,6 +39,9 @@ public class Main {
     public static BinarySearchTree tree;
     static ArtistQuestionHelper mArtistQuestionHelper;
 
+    static Pattern mPattern2;
+    static Matcher mMatcher2;
+
 
     public static void main(String[] args)  {
         artistList = new ArrayList<>();
@@ -103,6 +106,9 @@ public class Main {
                 System.out.print("Sonuç bulunamadı");
             }else {
                 for (int j =0;j<queriedArtists.size();j++){
+
+                    secondSearch(input);
+
                     System.out.print("Sonuç :\n" + queriedArtists.get(j).toString());
                 }
             }
@@ -112,6 +118,21 @@ public class Main {
 
 
     }
+
+    private static void secondSearch(String input) {
+
+
+        
+        mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + "adres" + "[[\\w]*[^\\w]*]*");
+
+        mMatcher2 =mPattern2.matcher(input);
+
+        if(mMatcher2)
+
+
+
+    }
+
     public static void parseArtist( ){
         try {
             JSONArray artistJSON = (JSONArray) new JSONParser().parse(new FileReader("artists.json"));

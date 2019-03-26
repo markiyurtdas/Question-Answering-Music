@@ -22,8 +22,8 @@ public class ArtistQuestionHelper {
     private ArrayList<Artist> artistList;
     private ArrayList<Artist> queriedArtistList;
     private String artistName;
-    Pattern mPattern, mPattern2;
-    Matcher mMatcher, mMatcher2;
+    Pattern mPattern;
+    Matcher mMatcher;
 
     
     public ArtistQuestionHelper(ArrayList<Artist> mArtistList) {
@@ -47,9 +47,6 @@ public class ArtistQuestionHelper {
              isMatch = mMatcher.matches();
             if (isMatch == true)
             {
-                mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + "adres" + "[[\\w]*[^\\w]*]*");
-
-                mMatcher2 =mPattern2.matcher(input);
 
                 queriedArtistList.add(artistler.get(i));
             }
