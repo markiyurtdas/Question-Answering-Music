@@ -6,18 +6,12 @@
 package utils;
 
 import java.util.ArrayList;
-
 import model.Artist;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
 
-/**
- *
- * @author marki
- */
 public class ArtistQuestionHelper {
     private ArrayList<Artist> artistList;
     private ArrayList<Artist> queriedArtistList;
@@ -37,45 +31,16 @@ public class ArtistQuestionHelper {
         boolean isMatch= false;
         int i=0;
         while (i<artistName.size()){
-           //mPattern = Pattern.compile("[kim[dir]]*" + "[\\s]?" + artistName.get(i)+ "[\\s]?" + "[kim[dir]]*" + "[?]*",Pattern.CASE_INSENSITIVE);
-
            mPattern = Pattern.compile("[[\\w]*[^\\w]*]*" + artistName.get(i)+ "[[\\w]*[^\\w]*]*" ,Pattern.CASE_INSENSITIVE);
-
-            mMatcher = mPattern.matcher(input);
-
-            //System.out.println("matcher: "+ mMatcher.toString());
+           mMatcher = mPattern.matcher(input);
              isMatch = mMatcher.matches();
             if (isMatch == true)
             {
-
                 queriedArtistList.add(artistler.get(i));
             }
-
         i++;
         }
-
         return queriedArtistList;
     }
-
-    /*public ArrayList<Artist> AskQuestion2(String artistName , String input) {
-
-        boolean isMatchQuestion = false;
-        int j = 0;
-
-        while(j < queriedArtistList.size())
-        {
-
-            mPattern2 =  Pattern.compile("");
-
-            mMatcher2 =
-
-
-            j++;
-        }
-
-        return queriedArtistList;
-    }
-
-*/
 }
 

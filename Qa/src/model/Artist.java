@@ -6,6 +6,7 @@
 package model;
 
 import java.util.ArrayList;
+import java.util.Date;
 
 /**
  *
@@ -20,7 +21,9 @@ public class Artist {
     private String artistName;
     private int popularity;
     private String type;
-
+    private ArrayList<Album> albums = new ArrayList<>();
+    private Date birthDay;
+    private String birthPlace;
     //empty cons
     public Artist() {
     }
@@ -77,6 +80,16 @@ public class Artist {
         return str;
     }
 
+    public ArrayList<Album> getAlbums() {
+        return albums;
+    }
+
+    public void setAlbums(ArrayList<Album> albums) {
+        this.albums = albums;
+    }
+    public void addToALbums(Album album) {
+        this.albums.add(album);
+    }
     public void setGenres(ArrayList<String> genres) {
         this.genres = genres;
     }
@@ -97,7 +110,21 @@ public class Artist {
         this.spotifyId = spotifyId;
     }
 
+    public Date getBirthDay() {
+        return birthDay;
+    }
 
+    public void setBirthDay(Date birthDay) {
+        this.birthDay = birthDay;
+    }
+
+    public String getBirthPlace() {
+        return birthPlace;
+    }
+
+    public void setBirthPlace(String birthPlace) {
+        this.birthPlace = birthPlace;
+    }
 
     public String getArtistName() {
         return artistName;
@@ -125,8 +152,8 @@ public class Artist {
 
     @Override
     public String toString() {
-        return "Artist{" + "\nexternalUrl=" + externalUrl + "\nfollowersTotal=" + followersTotal + "\ngenres=" + genres + "\nhref=" + href +
-                "\nspotifyId=" + spotifyId   + "\nartistName=" + artistName + "\npopularity=" + popularity + "\ntype=" + type + '}';
+        return "\nartistName=" + "\nexternalUrl=" + externalUrl + "\nfollowersTotal=" + followersTotal + "\ngenres=" + genres + "\nbirthday=" + birthDay+
+                "\nbirthplace=" + birthPlace + artistName + "\npopularity=" + popularity +"\n\n";
     }
     public String prepareForDB() {
         return "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
