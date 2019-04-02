@@ -138,7 +138,7 @@ public class Main {
                             System.out.println(queriedArtists.get(j).getArtistName() + " Spotify takipçi sayısı: " + queriedArtists.get(j).getFollowersTotal());
                         }else if (mIndex ==3 || mIndex == 4){
                             System.out.println(queriedArtists.get(j).getArtistName() + " şu türlerde söyler: " + queriedArtists.get(j).getGenres().toString());
-                        }else if (mIndex ==5){
+                        }else if (mIndex ==5 || mIndex==10){
                             System.out.println(queriedArtists.get(j).getArtistName() + " burada doğmuştur: " + queriedArtists.get(j).getBirthPlace());
                         }else if (mIndex ==6 || mIndex == 7 || mIndex == 8){
                             System.out.println(queriedArtists.get(j).getArtistName() + " doğum tarihi: " +queriedArtists.get(j).getBirthDay() +
@@ -166,6 +166,7 @@ public class Main {
         words.add("tarih");
         words.add("zaman");
         words.add("puan");
+		words.add("yer");
 
     }
     static public int calculateAge(Date birthDate) {

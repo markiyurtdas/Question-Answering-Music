@@ -153,7 +153,7 @@ public class Artist {
     @Override
     public String toString() {
         return "\nartistName=" + "\nexternalUrl=" + externalUrl + "\nfollowersTotal=" + followersTotal + "\ngenres=" + genres + "\nbirthday=" + birthDay+
-                "\nbirthplace=" + birthPlace + artistName + "\npopularity=" + popularity +"\n\n";
+                "\nbirthplace=" + birthPlace + "\npopularity=" + popularity +"\n\n";
     }
     public String prepareForDB() {
         return "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
