@@ -397,44 +397,5 @@
     "birthplace": "Almanya-Alzey",
     "type": "artist",
     "uri": "spotify:artist:2yMN0IP20GOaN6q0p0zL5k"
-  },
-  {
-    "external_urls": {
-      "spotify": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
-    },
-    "followers": {
-      "href": null,
-      "total": 580850
-    },
-    "genres": [
-      "turkish hip hop",
-      "turkish rock",
-      "turkish trap"
-    ],
-    "href": "https://api.spotify.com/v1/artists/1KXTegXtnCPKXjRaX1llcD",
-    "id": "1KXTegXtnCPKXjRaX1llcD",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://i.scdn.co/image/be6b0b9869097835b09f09ec30658d75750f305b",
-        "width": 640
-      },
-      {
-        "height": 320,
-        "url": "https://i.scdn.co/image/b0fe828fb3a8deaebd8f34bf2568fc80f225723b",
-        "width": 320
-      },
-      {
-        "height": 160,
-        "url": "https://i.scdn.co/image/9f41c4777b70da04cf4757c86ea706800fd1b329",
-        "width": 160
-      }
-    ],
-    "name": "Sagopa Kajmer",
-    "popularity": 66,
-    "birthday" : "1978-08-17",
-    "birthplace": "Samsun",
-    "type": "artist",
-    "uri": "spotify:artist:1KXTegXtnCPKXjRaX1llcD"
   }
 ]

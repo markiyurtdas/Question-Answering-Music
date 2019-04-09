@@ -10,25 +10,23 @@ import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Calendar;
+import java.util.Collections;
 import java.util.Date;
+import java.util.List;
 import java.util.Scanner;
 
 import model.Album;
 import model.Artist;
 import utils.ArtistQuestionHelper;
 import utils.BinarySearchTree;
-
-
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-
 import javax.print.attribute.Attribute;
 import javax.sound.midi.Soundbank;
-
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -48,8 +46,11 @@ public class Main {
     static ArtistQuestionHelper mArtistQuestionHelper;
     static boolean isMatch2;
     static Pattern mPattern2;
+    static Pattern mPattern3;
     static Matcher mMatcher2;
-    static ArrayList<String> words;
+    static Matcher mMatcher3;
+    static ArrayList<String> artistWords;
+    static ArrayList<String> otherWords;
 
 
     public static void main(String[] args)  {
@@ -63,15 +64,24 @@ public class Main {
         parseArtist();
         parseAlbums();
         //Albumlerin ismini yazdırmak için
-        //tree.inorder();
-        System.out.println(artistName.toString());
+        tree.inorder();
 
 //        System.out.print("Arama kelimsesini giriniz: ");
 //        albumSearch();
 
 
-
-        System.out.println("\nBilgilerini öğrenmek istediğiniz sanatçıyı aratınız.");
+        ArrayList<String> kelimeler = new ArrayList<>();
+        System.out.println(artistName.toString());
+        for (int j =0;j<artistList.size();j++){
+            for (int j1=0;j1<artistList.get(j).getGenres().size();j1++){
+                if (!kelimeler.contains(artistList.get(j).getGenres().get(j1))){
+                    kelimeler.add(artistList.get(j).getGenres().get(j1));
+                }
+            }
+        }
+        System.out.println(kelimeler.toString());
+//
+//        System.out.println("\nBilgilerini öğrenmek istediğiniz sanatçıyı aratınız.");
         artistSearch();
 
 
@@ -112,15 +122,65 @@ public class Main {
             }
             queriedArtists = mArtistQuestionHelper.AskQuestion(artistList,artistName,input);
             if (queriedArtists.size()==0){
-                //TODO şarkıcı bulumaöayınca -1 dödünr albümlerde ara
-                System.out.print("Sonuç bulunamadı");
+                boolean isMatch3;
+                isMatch3 = false;
+                int mIndex3 = -1;
+                for (int k=0; k<otherWords.size();k++) {
+                    mPattern3 = Pattern.compile("[[\\w]*[^\\w]*]*" + otherWords.get(k)+ "[[\\w]*[^\\w]*]*");
+                    mMatcher3 = mPattern3.matcher(input);
+                    isMatch3 = mMatcher3.matches();
+                    if (isMatch3){
+                        mIndex3 = k;
+                        break;
+                    }
+                }
+                if (isMatch3){
+                }
+                if (mIndex3 == 0 || mIndex3 ==1){
+                    int numberOfArtist = artistList.size();
+                    List<Integer> sortedList = new ArrayList<Integer>();
+
+                    for ( int km=0; km<numberOfArtist; km++) {
+
+                        for (int kn =0;kn<)
+                    }
+
+                        List<Integer> sortedList = new ArrayList<Integer>();
+                    for ( int m=0; m<artistList.size(); m++)
+                    {
+                        sortedList.add(artistList.get(m).getPopularity());
+                    }
+
+                    Collections.sort(sortedList, Collections.reverseOrder());
+                    System.out.println("\nPopülerlik sıralaması");
+                    for(int m=0; m<sortedList.size(); m++)
+                    {
+                        System.out.println( m+1 + ". " + artistList.get(m).getArtistName() + ": " + sortedList.get(m));
+                    }
+                }else if (mIndex3 == 2 ){
+                    ArrayList<Artist> tempArtistList = new ArrayList<>();
+                    for (int j2=0;j2<artistList.size();j2++){
+                        if (artistList.get(j2).getGenres().contains("pop")){
+                            System.out.println(artistList.get(j2).getArtistName());
+                        }
+                    }
+                }else if (mIndex3 == 3 ){
+                    for (int j2=0;j2<artistList.size();j2++){
+                        if (artistList.get(j2).getGenres().contains("turkish pop")){
+                            System.out.println(artistList.get(j2).getArtistName());
+                        }
+                    }
+                }else {
+                    System.out.println("Programda bulunamadı");
+                }
             }else {
                 String mkelime="";
                 int mIndex=-1;
+                int mIndex2=-1;
                 for (int j =0;j<queriedArtists.size();j++){
                     isMatch2 = false;
-                    for (int k=0; k<words.size();k++) {
-                        mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + words.get(k)+ "[[\\w]*[^\\w]*]*");
+                    for (int k=0; k<artistWords.size();k++) {
+                        mPattern2 = Pattern.compile("[[\\w]*[^\\w]*]*" + artistWords.get(k)+ "[[\\w]*[^\\w]*]*");
                         mMatcher2 = mPattern2.matcher(input);
                         isMatch2 = mMatcher2.matches();
                         if (isMatch2){
@@ -130,6 +190,7 @@ public class Main {
                     }
                     if (isMatch2== true)
                     {
+
                         if (mIndex == 0){
                             System.out.println(queriedArtists.get(j).getArtistName() + " Spotify linki: " + queriedArtists.get(j).getExternalUrl());
                         }else if (mIndex ==1 || mIndex ==9){
@@ -143,9 +204,13 @@ public class Main {
                         }else if (mIndex ==6 || mIndex == 7 || mIndex == 8){
                             System.out.println(queriedArtists.get(j).getArtistName() + " doğum tarihi: " +queriedArtists.get(j).getBirthDay() +
                                     "\nYaşı: "+ calculateAge(queriedArtists.get(j).getBirthDay()));
+                        }else if (mIndex ==10 || mIndex==11){
+                            System.out.println(queriedArtists.get(j).getAllAlbumNames());
+                        }else if (mIndex ==12 || mIndex ==13){
+                            System.out.println(queriedArtists.get(j).getArtistName() +" albüm sayısı: "+ queriedArtists.get(j).getAlbums().size());
                         }
                     }else {
-                        System.out.printf(queriedArtists.get(j).toString());
+                        System.out.println(queriedArtists.get(j).toString());
                     }
                 }
             }
@@ -155,17 +220,43 @@ public class Main {
 
 
     private static void loadWordsList() {
-        words = new ArrayList<>();
-        words.add("link");
-        words.add("popüler");
-        words.add("takip");
-        words.add("tür");
-        words.add("tip");
-        words.add("ner");
-        words.add("yaş");
-        words.add("tarih");
-        words.add("zaman");
-        words.add("puan");
+        artistWords = new ArrayList<>();
+        otherWords = new ArrayList<>();
+
+        artistWords.add("link");
+        artistWords.add("popüler");
+        artistWords.add("takip");
+        artistWords.add("tür");
+        artistWords.add("tip");
+        artistWords.add("ner");
+        artistWords.add("yaş");
+        artistWords.add("tarih");
+        artistWords.add("zaman");
+        artistWords.add("puan"); //9
+        artistWords.add("albümler"); //10
+        artistWords.add("albumler"); //11
+        artistWords.add("album say"); //12
+        artistWords.add("albüm say"); //13
+
+        otherWords.add("populer");
+        otherWords.add("popüler");
+//        otherWords.add("pop");
+//        otherWords.add("türk pop");
+//        otherWords.add("dance pop");
+//        otherWords.add("uk pop");
+//        otherWords.add("hip hop");
+//        otherWords.add("rap");
+//        otherWords.add("türk rap");
+//        otherWords.add("rock");
+//        otherWords.add("türk rock");
+//        otherWords.add("british soul");
+//        otherWords.add("latin");
+//        otherWords.add("yaşlı");
+//        otherWords.add("büyük");
+//        otherWords.add("
+//        genç");
+//        otherWords.add("küçük");
+
 
     }
     static public int calculateAge(Date birthDate) {
@@ -226,7 +317,8 @@ public class Main {
             }
         }
         try {
-            JSONArray albumJSOn = (JSONArray) new JSONParser().parse(new FileReader("albums.json"));
+
+            JSONArray albumJSOn = (JSONArray) new JSONParser().parse(new FileReader("albums2.json"));
 
             for (int i = 0 ; i<albumJSOn.size();i++)
             {
@@ -296,6 +388,33 @@ public class Main {
 
                 joT = null;
                 tree.insert(album);
+
+
+                /*0-22 Adele (23)
+                 * 23-72 Ceza (50)
+                 * 73-122 Eminem (50)
+                 * 123-160 Emre Aydın (38)
+                 * 161-210 Inna (50)
+                 * 211-260 Sezen Aksu (50)
+                 * 261-310 Shakira (50)
+                 * 311-360 Sia (50)
+                 * 361-376 Sıla (38)
+                 * 377-426 Tarkan(50)
+                 * */
+                if (i<23){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Adele")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<73){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Ceza")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }
+
             }
         } catch (FileNotFoundException e) {
             System.out.println("Error while open file");

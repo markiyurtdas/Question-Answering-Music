@@ -83,6 +83,14 @@ public class Artist {
     public ArrayList<Album> getAlbums() {
         return albums;
     }
+    public String getAllAlbumNames() {
+        String str="";
+        for(int i=0 ; i<albums.size();i++){
+            str += albums.get(i).getAlbumName() +",";
+        }
+
+        return str;
+    }
 
     public void setAlbums(ArrayList<Album> albums) {
         this.albums = albums;
@@ -153,7 +161,7 @@ public class Artist {
     @Override
     public String toString() {
         return "\nartistName=" + "\nexternalUrl=" + externalUrl + "\nfollowersTotal=" + followersTotal + "\ngenres=" + genres + "\nbirthday=" + birthDay+
-                "\nbirthplace=" + birthPlace + artistName + "\npopularity=" + popularity +"\n\n";
+                "\nbirthplace=" + birthPlace  + "\npopularity=" + popularity +"\n\n";
     }
     public String prepareForDB() {
         return "INSERT INTO `SAP`.`Artist` (`Name`, `ArtistID`, `External_urls`, `"
