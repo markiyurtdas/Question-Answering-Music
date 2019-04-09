@@ -199,7 +199,7 @@ public class Main {
                             System.out.println(queriedArtists.get(j).getArtistName() + " Spotify takipçi sayısı: " + queriedArtists.get(j).getFollowersTotal());
                         }else if (mIndex ==3 || mIndex == 4){
                             System.out.println(queriedArtists.get(j).getArtistName() + " şu türlerde söyler: " + queriedArtists.get(j).getGenres().toString());
-                        }else if (mIndex ==5){
+                        }else if (mIndex ==5 || mIndex==10){
                             System.out.println(queriedArtists.get(j).getArtistName() + " burada doğmuştur: " + queriedArtists.get(j).getBirthPlace());
                         }else if (mIndex ==6 || mIndex == 7 || mIndex == 8){
                             System.out.println(queriedArtists.get(j).getArtistName() + " doğum tarihi: " +queriedArtists.get(j).getBirthDay() +
@@ -220,6 +220,7 @@ public class Main {
 
 
     private static void loadWordsList() {
+<<<<<<< HEAD
         artistWords = new ArrayList<>();
         otherWords = new ArrayList<>();
 
@@ -257,6 +258,20 @@ public class Main {
 //        genç");
 //        otherWords.add("küçük");
 
+=======
+        words = new ArrayList<>();
+        words.add("link");
+        words.add("popüler");
+        words.add("takip");
+        words.add("tür");
+        words.add("tip");
+        words.add("ner");
+        words.add("yaş");
+        words.add("tarih");
+        words.add("zaman");
+        words.add("puan");
+		words.add("yer");
+>>>>>>> ab606f04ab48c9dfa2715a96b5015b0553304057
 
     }
     static public int calculateAge(Date birthDate) {
