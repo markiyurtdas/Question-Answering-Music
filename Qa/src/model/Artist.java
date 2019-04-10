@@ -160,7 +160,7 @@ public class Artist {
 
     @Override
     public String toString() {
-        return "\nartistName=" + "\nexternalUrl=" + externalUrl + "\nfollowersTotal="
+        return "\nartistName=" +artistName+ "\nexternalUrl=" + externalUrl + "\nfollowersTotal="
                 + followersTotal + "\ngenres=" + genres + "\nbirthday=" + birthDay+
                 "\nbirthplace=" + birthPlace + "\npopularity=" + popularity +"\n\n";
     }
