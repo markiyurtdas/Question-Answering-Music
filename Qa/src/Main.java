@@ -135,41 +135,54 @@ public class Main {
                     }
                 }
                 if (isMatch3){
+                    //popülerlik sıralaması yapar
+                }if (mIndex3 == 0 || mIndex3 ==1){
+                    ArrayList<Artist> sortList = (ArrayList<Artist>) artistList.clone();
+                    int max=0;
+                    int index=-1;
+                    while (sortList.size()>=1){
+                        for (int i=0; i<sortList.size();i++){
+                            if (max < sortList.get(i).getPopularity()){
+                                max = sortList.get(i).getPopularity();
+                                index=i;
+                            }
+                        }
+                        System.out.println(sortList.get(index).getArtistName() + ":" + sortList.get(index).getPopularity());
+                        sortList.remove(index);
+                        max=0;
+                    }
                 }
-                if (mIndex3 == 0 || mIndex3 ==1){
-                    int numberOfArtist = artistList.size();
-                    List<Integer> sortedList = new ArrayList<Integer>();
-
-                    for ( int km=0; km<numberOfArtist; km++) {
-
-                        for (int kn =0;kn<)
-                    }
-
-                        List<Integer> sortedList = new ArrayList<Integer>();
-                    for ( int m=0; m<artistList.size(); m++)
-                    {
-                        sortedList.add(artistList.get(m).getPopularity());
-                    }
-
-                    Collections.sort(sortedList, Collections.reverseOrder());
-                    System.out.println("\nPopülerlik sıralaması");
-                    for(int m=0; m<sortedList.size(); m++)
-                    {
-                        System.out.println( m+1 + ". " + artistList.get(m).getArtistName() + ": " + sortedList.get(m));
-                    }
-                }else if (mIndex3 == 2 ){
-                    ArrayList<Artist> tempArtistList = new ArrayList<>();
-                    for (int j2=0;j2<artistList.size();j2++){
-                        if (artistList.get(j2).getGenres().contains("pop")){
-                            System.out.println(artistList.get(j2).getArtistName());
+                //En yaşlı sanatcıyı döndürür
+                else if (mIndex3 == 2 || mIndex3==3 ){
+                    Artist tempArtist;
+                    ArrayList<Artist> sortList = (ArrayList<Artist>) artistList.clone();
+                    Date tempDate=sortList.get(0).getBirthDay();
+                    int index = -1;
+                    for (int i=0; i<sortList.size();i++){
+                        if (tempDate.getTime()>sortList.get(i).getBirthDay().getTime()){
+                            tempDate=sortList.get(i).getBirthDay();
+                            index = i;
                         }
                     }
-                }else if (mIndex3 == 3 ){
-                    for (int j2=0;j2<artistList.size();j2++){
-                        if (artistList.get(j2).getGenres().contains("turkish pop")){
-                            System.out.println(artistList.get(j2).getArtistName());
+                    tempArtist = sortList.get(index);
+                    System.out.println("En yaşlı : " + tempArtist.getArtistName() + " (" + tempArtist.getBirthDay() +")" );
+
+                }
+                //En genç sanatçıyı bulur
+                else if (mIndex3 == 4 || mIndex3 ==5){
+                    Artist tempArtist;
+                    ArrayList<Artist> sortList = (ArrayList<Artist>) artistList.clone();
+                    Date tempDate=sortList.get(0).getBirthDay();
+                    int index = 0;
+                    for (int i=0; i<sortList.size();i++){
+                        if (tempDate.getTime()<sortList.get(i).getBirthDay().getTime()){
+                            tempDate=sortList.get(i).getBirthDay();
+                            index = i;
                         }
                     }
+                    tempArtist = sortList.get(index);
+                    System.out.println("En genç : " + tempArtist.getArtistName() + " (" + tempArtist.getBirthDay() +")" );
+
                 }else {
                     System.out.println("Programda bulunamadı");
                 }
@@ -220,7 +233,6 @@ public class Main {
 
 
     private static void loadWordsList() {
-<<<<<<< HEAD
         artistWords = new ArrayList<>();
         otherWords = new ArrayList<>();
 
@@ -241,37 +253,11 @@ public class Main {
 
         otherWords.add("populer");
         otherWords.add("popüler");
-//        otherWords.add("pop");
-//        otherWords.add("türk pop");
-//        otherWords.add("dance pop");
-//        otherWords.add("uk pop");
-//        otherWords.add("hip hop");
-//        otherWords.add("rap");
-//        otherWords.add("türk rap");
-//        otherWords.add("rock");
-//        otherWords.add("türk rock");
-//        otherWords.add("british soul");
-//        otherWords.add("latin");
-//        otherWords.add("yaşlı");
-//        otherWords.add("büyük");
-//        otherWords.add("
-//        genç");
-//        otherWords.add("küçük");
+        otherWords.add("en yaşlı");
+        otherWords.add("büyük");
+        otherWords.add("küçük");
+        otherWords.add("genç");
 
-=======
-        words = new ArrayList<>();
-        words.add("link");
-        words.add("popüler");
-        words.add("takip");
-        words.add("tür");
-        words.add("tip");
-        words.add("ner");
-        words.add("yaş");
-        words.add("tarih");
-        words.add("zaman");
-        words.add("puan");
-		words.add("yer");
->>>>>>> ab606f04ab48c9dfa2715a96b5015b0553304057
 
     }
     static public int calculateAge(Date birthDate) {
