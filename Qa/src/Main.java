@@ -166,7 +166,6 @@ public class Main {
                     }
                     tempArtist = sortList.get(index);
                     System.out.println("En yaşlı : " + tempArtist.getArtistName() + " (" + tempArtist.getBirthDay() +")" );
-
                 }
                 //En genç sanatçıyı bulur
                 else if (mIndex3 == 4 || mIndex3 ==5){
@@ -212,7 +211,7 @@ public class Main {
                             System.out.println(queriedArtists.get(j).getArtistName() + " Spotify takipçi sayısı: " + queriedArtists.get(j).getFollowersTotal());
                         }else if (mIndex ==3 || mIndex == 4){
                             System.out.println(queriedArtists.get(j).getArtistName() + " şu türlerde söyler: " + queriedArtists.get(j).getGenres().toString());
-                        }else if (mIndex ==5 || mIndex==10){
+                        }else if (mIndex ==5 ){
                             System.out.println(queriedArtists.get(j).getArtistName() + " burada doğmuştur: " + queriedArtists.get(j).getBirthPlace());
                         }else if (mIndex ==6 || mIndex == 7 || mIndex == 8){
                             System.out.println(queriedArtists.get(j).getArtistName() + " doğum tarihi: " +queriedArtists.get(j).getBirthDay() +
@@ -411,6 +410,54 @@ public class Main {
                 }else if (i<73){
                     for (int k0=0; k0<artistList.size();k0++){
                         if (artistList.get(k0).getArtistName().contains("Ceza")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<123){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Eminem")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<161){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Emre Aydın")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<211){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Inna")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<261){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Sezen aksu")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<311){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Shakira")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<361){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Sia")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<377){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Sıla")){
+                            artistList.get(k0).addToALbums(album);
+                        }
+                    }
+                }else if (i<427){
+                    for (int k0=0; k0<artistList.size();k0++){
+                        if (artistList.get(k0).getArtistName().contains("Tarkan")){
                             artistList.get(k0).addToALbums(album);
                         }
                     }
