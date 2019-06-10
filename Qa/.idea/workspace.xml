@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ec7aed22-485d-4de9-ae74-f7f10aa17dad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Raporlar/Preconditions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Raporlar/Preconditions.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Qa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Qa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,28 +14,59 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="465" column="13" lean-forward="true" selection-start-line="465" selection-start-column="13" selection-end-line="465" selection-end-column="13" />
+            <state relative-caret-position="344">
+              <caret line="61" column="110" selection-start-line="61" selection-start-column="110" selection-end-line="61" selection-end-column="110" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#albumSearch#0;class#Main#0" />
+                <element signature="method#artistSearch#0;class#Main#0" />
+                <element signature="method#loadWordsList#0;class#Main#0" />
                 <element signature="method#calculateAge#0;class#Main#0" />
                 <element signature="method#parseArtist#0;class#Main#0" />
+                <element signature="method#parseAlbums#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="862">
+              <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+              <folding>
+                <element signature="e#1823#1824#0" expanded="true" />
+                <element signature="e#1855#1856#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
+        <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="162" column="42" selection-start-line="162" selection-start-column="42" selection-end-line="162" selection-end-column="42" />
+            <state relative-caret-position="357">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,16 +135,16 @@
         <option value="$PROJECT_DIR$/src/utils/BST.java" />
         <option value="$PROJECT_DIR$/src/model/Album.java" />
         <option value="$PROJECT_DIR$/albums.json" />
-        <option value="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" />
         <option value="$PROJECT_DIR$/src/utils/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/albums2.json" />
         <option value="$PROJECT_DIR$/artists.json" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/model/Artist.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="391" />
     <option name="y" value="151" />
     <option name="width" value="1356" />
@@ -152,10 +184,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -163,15 +191,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554854516075" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zTrash/zGerekli dosyalar/json-simple-2.1.2.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -243,16 +272,22 @@
       <workItem from="1554852911991" duration="1682000" />
       <workItem from="1554854809664" duration="1882000" />
       <workItem from="1554889822060" duration="670000" />
+      <workItem from="1558899704028" duration="1033000" />
+      <workItem from="1558900740761" duration="463000" />
+      <workItem from="1558901221704" duration="361000" />
+      <workItem from="1559125719363" duration="297000" />
+      <workItem from="1560171124698" duration="1066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66736000" />
+    <option name="totallyTimeSpent" value="69956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="7" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32051283" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23052295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -261,7 +296,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25767544" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25767544" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -269,9 +304,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286026" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32829374" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32829374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -344,23 +379,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6723">
-          <caret line="447" selection-start-line="447" selection-end-line="447" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/artists.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -372,17 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="3276" column="37" selection-start-line="3276" selection-start-column="36" selection-end-line="3276" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
-          <folding>
-            <element signature="e#1823#1824#0" expanded="true" />
-            <element signature="e#1855#1856#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -407,23 +415,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="465" column="13" lean-forward="true" selection-start-line="465" selection-start-column="13" selection-end-line="465" selection-end-column="13" />
+        <state relative-caret-position="476">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#albumSearch#0;class#Main#0" />
-            <element signature="method#calculateAge#0;class#Main#0" />
-            <element signature="method#parseArtist#0;class#Main#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="162" column="42" selection-start-line="162" selection-start-column="42" selection-end-line="162" selection-end-column="42" />
+        <state relative-caret-position="344">
+          <caret line="61" column="110" selection-start-line="61" selection-start-column="110" selection-end-line="61" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#albumSearch#0;class#Main#0" />
+            <element signature="method#artistSearch#0;class#Main#0" />
+            <element signature="method#loadWordsList#0;class#Main#0" />
+            <element signature="method#calculateAge#0;class#Main#0" />
+            <element signature="method#parseArtist#0;class#Main#0" />
+            <element signature="method#parseAlbums#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+          <folding>
+            <element signature="e#1823#1824#0" expanded="true" />
+            <element signature="e#1855#1856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -470,7 +502,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8.0_201</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
