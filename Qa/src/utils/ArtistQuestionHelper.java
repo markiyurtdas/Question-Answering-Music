@@ -25,12 +25,14 @@ public class ArtistQuestionHelper {
     }
 
 
-    //get an artist
+    //Regex ile bir adet artist döndürür
     public ArrayList<Artist> AskQuestion(ArrayList<Artist> artistler,ArrayList<String> artistName,String input){
+        //önceden sorgulanan artistleri tutarak birden fazla sonuç döndürmeye yarayan liste
         queriedArtistList = new ArrayList<>();
         boolean isMatch= false;
         int i=0;
         while (i<artistName.size()){
+            //regex'e ait pattern oluşturuldu
            mPattern = Pattern.compile("[[\\w]*[^\\w]*]*" + artistName.get(i)+ "[[\\w]*[^\\w]*]*" ,Pattern.CASE_INSENSITIVE);
            mMatcher = mPattern.matcher(input);
              isMatch = mMatcher.matches();

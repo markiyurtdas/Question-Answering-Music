@@ -58,18 +58,31 @@ public class Main {
 
         artistList = new ArrayList<>();
         artistName = new ArrayList<>();
+
+        //Artistlere ait albumleri saklayan tree veri yapısı. Daha hızlı sorgulama yapabildiği için kullanıldı
         tree =  new BinarySearchTree();
+
+        //birden fazla artist sorgulanmasını sağlayan liste
         queriedArtists = new ArrayList<>();
+
+        //Regex ile sorgulamamızı sağlayan helper nesnesi
         mArtistQuestionHelper = new ArtistQuestionHelper(artistList);
+
+        //Artist bilgisini JSON dosyasından alıp Obje yaratır
         parseArtist();
+
+        //Artist bilgisini JSON dosyasından alıp Obje yaratır
         parseAlbums();
+
+
         //Albumlerin ismini yazdırmak için
         tree.inorder();
 
-//        System.out.print("Arama kelimsesini giriniz: ");
+//        TODO: ilerii versiyonlarda artist lere ait albümlerin detay bilgileri sorgulanabilir
 //        albumSearch();
 
 
+        //Sorgulanacak kelimelerin tutulduğu liste
         ArrayList<String> kelimeler = new ArrayList<>();
         System.out.println(artistName.toString());
         for (int j =0;j<artistList.size();j++){
@@ -80,8 +93,8 @@ public class Main {
             }
         }
         System.out.println(kelimeler.toString());
-//
-//        System.out.println("\nBilgilerini öğrenmek istediğiniz sanatçıyı aratınız.");
+
+        //artist aramasını başlatır
         artistSearch();
 
 
@@ -265,6 +278,9 @@ public class Main {
         int age = (int) Math.floor(yearsBetween);
         return age;
     }
+
+
+    //Artist bilgileri databaseden alınıp Obje haline getirilir
     public static void parseArtist( ){
         try {
             JSONArray artistJSON = (JSONArray) new JSONParser().parse(new FileReader("artists.json"));
@@ -308,6 +324,8 @@ public class Main {
             e.printStackTrace();
         }
     }
+
+    //Album bilgileri databaseden alınıp Obje haline getirilir
     public static void parseAlbums(){
         for (int j=0; j<artistList.size();j++) {
             try {

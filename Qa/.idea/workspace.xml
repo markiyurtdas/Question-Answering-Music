@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Qa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Qa.iml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/out/production/Qa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Qa/model/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/model/Album.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Qa/model/Artist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/model/Artist.class" afterDir="false" />
@@ -12,6 +13,10 @@
       <change beforePath="$PROJECT_DIR$/out/production/Qa/utils/ArtistQuestionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/utils/ArtistQuestionHelper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Qa/utils/BinarySearchTree.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" afterDir="false" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,20 +26,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< HEAD
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+=======
+    <option name="isMigrated" value="true" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="238">
               <caret line="256" column="29" selection-start-line="256" selection-start-column="24" selection-end-line="256" selection-end-column="29" />
+=======
+            <state relative-caret-position="344">
+              <caret line="61" column="110" selection-start-line="61" selection-start-column="110" selection-end-line="61" selection-end-column="110" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#albumSearch#0;class#Main#0" />
+                <element signature="method#artistSearch#0;class#Main#0" />
+                <element signature="method#loadWordsList#0;class#Main#0" />
                 <element signature="method#calculateAge#0;class#Main#0" />
+<<<<<<< HEAD
+=======
+                <element signature="method#parseArtist#0;class#Main#0" />
+                <element signature="method#parseAlbums#0;class#Main#0" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/utils/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="862">
+              <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+              <folding>
+                <element signature="e#1823#1824#0" expanded="true" />
+                <element signature="e#1855#1856#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,8 +83,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="476">
+              <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,11 +93,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,12 +187,12 @@
         <option value="$PROJECT_DIR$/src/utils/BST.java" />
         <option value="$PROJECT_DIR$/src/model/Album.java" />
         <option value="$PROJECT_DIR$/albums.json" />
-        <option value="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" />
         <option value="$PROJECT_DIR$/src/utils/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/albums2.json" />
         <option value="$PROJECT_DIR$/artists.json" />
         <option value="$PROJECT_DIR$/src/model/Artist.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+<<<<<<< HEAD
       </list>
     </option>
   </component>
@@ -151,6 +200,17 @@
     <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
+=======
+        <option value="$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="391" />
+    <option name="y" value="151" />
+    <option name="width" value="1356" />
+    <option name="height" value="748" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -184,10 +244,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,7 +262,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -278,16 +338,28 @@
       <workItem from="1554852911991" duration="1682000" />
       <workItem from="1554854809664" duration="1882000" />
       <workItem from="1554889822060" duration="670000" />
+      <workItem from="1558899704028" duration="1033000" />
+      <workItem from="1558900740761" duration="463000" />
+      <workItem from="1558901221704" duration="361000" />
+      <workItem from="1559125719363" duration="297000" />
+      <workItem from="1560171124698" duration="1066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66736000" />
+    <option name="totallyTimeSpent" value="69956000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="761" y="0" width="782" height="831" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12742382" />
+=======
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23052295" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,7 +368,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.256447" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25767544" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,9 +380,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286026" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32829374" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="12" weight="0.33094555" />
+=======
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32829374" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -415,6 +495,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -432,14 +513,54 @@
           <folding>
             <element signature="e#1823#1824#0" expanded="true" />
             <element signature="e#1855#1856#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Artist.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="61" column="110" selection-start-line="61" selection-start-column="110" selection-end-line="61" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#albumSearch#0;class#Main#0" />
+            <element signature="method#artistSearch#0;class#Main#0" />
+            <element signature="method#loadWordsList#0;class#Main#0" />
+            <element signature="method#calculateAge#0;class#Main#0" />
+            <element signature="method#parseArtist#0;class#Main#0" />
+            <element signature="method#parseAlbums#0;class#Main#0" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+          <folding>
+            <element signature="e#1823#1824#0" expanded="true" />
+            <element signature="e#1855#1856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/ArtistQuestionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="263">
           <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+=======
+        <state relative-caret-position="357">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -498,7 +619,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>12.0.1</last-edited>
+=======
+          <last-edited>1.8</last-edited>
+>>>>>>> ffea4f81ea26499dcf2b627e45ece00e6b21754f
           <splitter-proportions>
             <option name="proportions">
               <list>
